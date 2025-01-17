@@ -1,0 +1,1 @@
+﻿Exhilarating Prescience	R	cube	Enchantment	172	R	1RR	Whenever you cast a spell, put a lore counter on Exhilarating Prescience.NEWLINEAt the beginning of your upkeep, exile the top X cards of your library, where X is the number of lore counters on Exhilarating Prescience. You may play those cards until your next turn.			normal	MC25		

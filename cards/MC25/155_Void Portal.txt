@@ -1,0 +1,1 @@
+﻿Void Portal	B	cube	Enchantment	155	B	2B	Discard a card: Search your library for a card with the same mana value as the discarded card, reveal it, put it into your hand, then shuffle. Activate only as a sorcery and only once each turn.			normal	MC25		!design Emily

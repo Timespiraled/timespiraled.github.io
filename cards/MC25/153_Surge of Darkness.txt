@@ -1,0 +1,1 @@
+﻿Surge of Darkness	B	cube	Instant	153	B	1B	As an additional cost to cast this spell, torment yourself. (You lose 3 life unless you discard a card or sacrifice a nonland permanent.)NEWLINEDestroy target creature.			normal	MC25		

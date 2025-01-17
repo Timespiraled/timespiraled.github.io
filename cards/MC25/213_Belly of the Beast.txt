@@ -1,0 +1,1 @@
+﻿Belly of the Beast	G	cube	Enchantment	213	G	GGG	Whenever a creature you control dies, you may search your library for a creature card with lesser mana value, put it onto the battlefield tapped, then shuffle. Do this only once during each of your turns.			normal	MC25		!Community: Epid

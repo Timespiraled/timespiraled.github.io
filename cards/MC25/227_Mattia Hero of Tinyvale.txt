@@ -1,0 +1,1 @@
+﻿Mattia, Hero of Tinyvale	G	cube	Legendary Creature – Mouse Archer Soldier 	227	G	1G	FlashNEWLINEReachNEWLINEWhenever Mattia enters or becomes tapped, put a +1/+1 counter on target creature you control.NEWLINE2G, T: Target creature must be blocked this turn if able. Activate only as a sorcery.	1/1		normal	MC25		

@@ -1,0 +1,1 @@
+﻿Powercell Cultivator	G	cube	Creature – Elf Artificer 	236	G	2G	When Powercell Cultivator enters, create a tapped colorless Powercell artifact token with “T: Add C.”NEWLINEArtifacts you control have “T: Add one mana of any color.”	2/2		normal	MC25		

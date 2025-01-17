@@ -1,0 +1,1 @@
+﻿Feeding Time	R	cube	Enchantment	174	R	R	Whenever an attacking creature dies, you may pay R. If you do, create a 2/1 red Merfolk creature token.			normal	MC25		!FT: fluffyDeathbringer2

@@ -1,0 +1,1 @@
+﻿Solari's Faithful	W	cube	Creature – Elf Cleric 	50	W	4WW	Whenever you make first contact, return target creature card from your graveyard to the battlefield. (You make first contact the first time each turn you cast a spell with a name not in your graveyard or control already.)	4/4		normal	MC25		

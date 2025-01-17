@@ -1,0 +1,1 @@
+﻿Deathless Siege	B	cube	Enchantment	120	B	BBB	You don’t lose the game for having 0 or less life.NEWLINEWhenever you’re dealt damage, mill that many cards.NEWLINEB, Pay 2 life: Put target card in your graveyard on the bottom of your library.			normal	MC25		

@@ -1,0 +1,1 @@
+﻿Inexorable Epidemic	B	cube	Enchantment – Aura Curse 	130	B	4BB	Enchant opponentNEWLINECreatures enchanted player controls get -2/-2.NEWLINEWhenever enchanted player casts a noncreature spell, they lose 2 life and you gain 2 life.			normal	MC25		

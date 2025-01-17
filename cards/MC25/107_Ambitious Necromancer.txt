@@ -1,0 +1,1 @@
+﻿Ambitious Necromancer	B	cube	Creature – Human Cleric 	107	B	B	Sabotage – Whenever an opponent or permanent an opponent controls becomes the target of a spell you control, return target creature card with mana value 3 or less from your graveyard to the battlefield.	1/1		normal	MC25		

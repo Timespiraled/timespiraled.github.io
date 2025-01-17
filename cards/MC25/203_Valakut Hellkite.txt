@@ -1,0 +1,1 @@
+﻿Valakut Hellkite	R	cube	Creature – Dragon 	203	R	5RR	FlyingNEWLINEWard–Pay 3 life.NEWLINELandfall – Whenever a land you control enters, Valakut Hellkite deals 3 damage to any target.	6/6		adventure	MC25		Volcanic Rain	R	Sorcery – Adventure 	R	2R	Volcanic Rain deals damage to target creature or planeswalker equal to the number of lands you control.				!Community: Mako

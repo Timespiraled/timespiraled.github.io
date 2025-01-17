@@ -1,0 +1,1 @@
+﻿Sunrise Orchard		cube	Land	355	C		Sunrise Orchard enters tapped unless you control a basic land.NEWLINEAs Sunrise Orchard enters, choose a color.NEWLINET: Add one mana of the chosen color.			normal	MC25		

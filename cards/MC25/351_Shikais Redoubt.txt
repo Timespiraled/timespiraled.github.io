@@ -1,0 +1,1 @@
+﻿Shikai's Redoubt		cube	Land	351	C		T: Add C.NEWLINEDiscard Shikai’s Redoubt: Exile up to two target cards from graveyards.			normal	MC25		!FT: Timespiraled

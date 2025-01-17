@@ -1,0 +1,1 @@
+﻿Evolution's End	W	cube	Instant	25	W	1W	Exile target creature or planeswalker. Its controller conjures a card named Data-Point into their hand. (It’s a sorcery that costs 2 with “Draw a card.”)			normal	MC25		!FT: Splashcat

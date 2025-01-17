@@ -1,0 +1,1 @@
+﻿Power Control	U	cube	Sorcery	88	U	3UU	Conjure a card named Ancestral Recall, a card named Time Walk, and a card named Timetwister into your main library, then shuffle.NEWLINEDraw three cards. Exile Power Control.			normal	MC25		

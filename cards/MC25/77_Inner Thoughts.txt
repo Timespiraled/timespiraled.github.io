@@ -1,0 +1,1 @@
+﻿Inner Thoughts	U	cube	Instant – Inscription 	77	U	U	Draw a card.NEWLINEInscribe 1U (1U: Exile this card from your hand inscribed on a creature you control. Whenever that creature attacks, its controller may cast a copy of the inscribed card without paying its mana cost. Inscribe only as a sorcery.)			normal	MC25		

@@ -1,0 +1,1 @@
+﻿Relentless Pathcutter	G	cube	Creature – Elf Aurashaper Warrior 	239	G	2GG	When Relentless Pathcutter enters, create a green Aura enchantment token named Enmity attached to target creature. The token has enchant creature and “Enchanted creature gets +2/+0 and has trample.”NEWLINEWhen Relentless Pathcutter dies, return it to its owner’s hand.	2/2		normal	MC25		

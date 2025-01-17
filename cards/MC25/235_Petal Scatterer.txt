@@ -1,0 +1,1 @@
+﻿Petal Scatterer	G	cube	Creature – Human 	235	G	GGG	When Petal Scatterer enters, create a green Aura enchantment token named Blossom attached to target land. It has enchant land and “Enchanted land has ‘T: Add GG.’”NEWLINEPetal Scatterer gets +1/+1 for each noncreature, nonland permanent you control.	1/1		normal	MC25		

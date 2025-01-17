@@ -1,0 +1,1 @@
+﻿Voidflare	R	cube	Instant	205	R	R	Voidflare deals 2 damage to any target.NEWLINEWanderlust – Voidflare deals 3 damage instead if you control four or more differently named lands.			normal	MC25		

@@ -1,0 +1,1 @@
+﻿Celestial Concordance	W	cube	Sorcery	21	W	3WW	Choose one –NEWLINE• Destroy all creatures.NEWLINE• Create a 4/4 white Angel creature token with flying and vigilance.			normal	MC25		!FT: gynoidpoet

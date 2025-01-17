@@ -1,0 +1,1 @@
+﻿Zadyk Ritualist	G	cube	Creature – Human Shaman 	256	G	G	T: Add C.NEWLINET, Sacrifice a creature: Add one mana of any color.	1/1		normal	MC25		!FT: gynoidpoet

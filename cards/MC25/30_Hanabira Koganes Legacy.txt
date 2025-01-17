@@ -1,0 +1,1 @@
+﻿Hanabira, Kogane's Legacy	W	cube	Legendary Artifact – Equipment 	30	W	WW	Equipped creature gets +2/+2.NEWLINEWhenever equipped creature attacks, until your next turn, up to one target creature can’t attack or block and its activated abilities can’t be activated.NEWLINEEquip 2			normal	MC25		

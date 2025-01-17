@@ -1,0 +1,1 @@
+﻿Corrupted Memory	B	cube	Sorcery	117	B	B	Glitch 1 (Remove one [restriction] for each time you pay the glitch cost.)NEWLINETarget opponent reveals their hand. You choose a [noncreature,] nonland card [with mana value 3 or less] from among them. That player discards that card.			normal	MC25		

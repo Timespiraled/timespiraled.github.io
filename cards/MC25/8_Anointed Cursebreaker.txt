@@ -1,0 +1,1 @@
+﻿Anointed Cursebreaker	W	cube	Creature – Human Cleric Soldier 	8	W	1W	LifelinkNEWLINEWhen Anointed Cursebreaker enters, you may exile target artifact or enchantment an opponent controls. When Anointed Cursebreaker is no longer on the battlefield, return the exiled card to its owner’s hand.	2/2		normal	MC25		

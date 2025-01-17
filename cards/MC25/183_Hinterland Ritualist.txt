@@ -1,0 +1,1 @@
+﻿Hinterland Ritualist	R	cube	Creature – Human Shaman 	183	R	R	2R, T, Exert Hinterland Ritualist, Sacrifice another creature: Hinterland Ritualist deals damage equal to the sacrificed creature’s power to any target. Activate only as a sorcery. (An exerted creature won’t untap during your next untap step.)	2/1		normal	MC25		

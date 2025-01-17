@@ -1,0 +1,1 @@
+﻿Sedate Tundra		cube	Land – Plains Island 	347	C		(T: Add W or U.)NEWLINEWhenever Sedate Tundra becomes tapped, you lose 1 life unless you control two or more basic lands.			normal	MC25		

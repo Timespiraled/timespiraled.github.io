@@ -1,0 +1,1 @@
+﻿Scatter Riches	U	cube	Instant	98	U	1UUU	Counter target spell. Tap all lands that spell’s controller controls and that player loses all unspent mana.			normal	MC25		!FT: gynoidpoet

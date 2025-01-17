@@ -1,0 +1,1 @@
+﻿Martial Maestro	R	cube	Creature – Human Wizard Soldier 	187	R	R	First strikeNEWLINEWhenever Martial Maestro attacks, other attacking creatures you control get +1/+0 until end of turn.	1/1		normal	MC25		!FT: Chumbeque

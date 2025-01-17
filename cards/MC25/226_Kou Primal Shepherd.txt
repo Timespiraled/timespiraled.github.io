@@ -1,0 +1,1 @@
+﻿Kou, Primal Shepherd	G	cube	Legendary Creature – Dryad 	226	G	1G	Whenever you cast a creature spell, create an Idol token. (It’s an artifact with “1, Sacrifice this artifact: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)NEWLINEWhenever you sacrifice an Idol, draw a card.	1/2		normal	MC25		

@@ -1,0 +1,1 @@
+﻿Swarming Midden		cube	Land	356	B		Swarming Midden enters tapped unless you control a basic Swamp.NEWLINET: Add B.NEWLINE1BB: Swarming Midden becomes a 2/3 black Rat creature with menace until end of turn. It’s still a land. Whenever it attacks this turn, create a 1/1 black Rat creature token with “This creature can’t block.”			normal	MC25		

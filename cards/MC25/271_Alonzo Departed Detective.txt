@@ -1,0 +1,1 @@
+﻿Alonzo, Departed Detective	WB	cube	Legendary Planeswalker – Alonzo 	271	WB	2WB			Whenever a nontoken creature you control dies, create a 1/1 black Spirit creature token with flying.NEWLINE[+1]: Each opponent loses 2 life and you gain 2 life.NEWLINE[-2]: You may sacrifice a creature. When you do, destroy target nonland permanent.	planeswalker	MC25	3	!design Matt

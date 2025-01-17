@@ -1,0 +1,1 @@
+﻿Gaoming, Foxes' Friend	W	cube	Legendary Creature – Human Cleric 	28	W	W	As long as you control five or more creatures, if you would create a token, you may instead create Hu Li, a legendary 4/4 white Fox Spirit creature token with flying and lifelink.	2/1		normal	MC25		!design CyberChronometer

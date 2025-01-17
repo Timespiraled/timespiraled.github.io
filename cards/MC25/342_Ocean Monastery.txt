@@ -1,0 +1,1 @@
+﻿Ocean Monastery		cube	Land	342	C		As Ocean Monastery enters, you may pay 2 life. If you don’t, Ocean Monastery enters tapped.NEWLINET, Sacrifice Ocean Monastery: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.			normal	MC25		!design Timespiraled

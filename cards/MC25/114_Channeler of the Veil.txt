@@ -1,0 +1,1 @@
+﻿Channeler of the Veil	B	cube	Creature – Human Shaman 	114	B	1B	When Channeler of the Veil enters, create a 1/1 colorless Construct artifact creature token.NEWLINESacrifice another creature: Each opponent loses 1 life.	1/1		normal	MC25		!FT: Mako

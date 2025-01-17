@@ -1,0 +1,1 @@
+﻿Aparodist		cube	Creature – Shapeshifter 	1	C	2	As Aparodist enters, choose a non-Human creature type.NEWLINEAparodist is the chosen type in addition to its other types.NEWLINE1, T: Put a +1/+1 counter on each creature you control of the chosen type.	1/1		normal	MC25		

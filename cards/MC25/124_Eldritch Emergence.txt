@@ -1,0 +1,1 @@
+﻿Eldritch Emergence	B	cube	Sorcery	124	B	3BB	You may cast this spell as though it had flash if you control a Horror creature.NEWLINEDestroy all non-Horror creatures.			normal	MC25		!FT: fluffyDeathbringer2NEWLINE!design elmikkino

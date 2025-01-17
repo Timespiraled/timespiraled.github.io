@@ -1,0 +1,1 @@
+﻿Legacy Warmask	W	cube	Artifact – Equipment 	38	W	1W	When Legacy Warmask enters, return target creature card with mana value 2 or less from your graveyard to the battlefield, then attach Legacy Warmask to that creature.NEWLINEEquipped creature gets +1/+1.NEWLINEEquip 1			normal	MC25		

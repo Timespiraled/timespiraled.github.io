@@ -1,0 +1,1 @@
+﻿Consult the Dewdrops	U	cube	Instant	62	U	1U	Look at the top four cards of your library. You may reveal a noncreature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.			normal	MC25		

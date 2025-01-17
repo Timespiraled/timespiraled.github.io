@@ -1,0 +1,1 @@
+﻿Mennin Pack	B	cube	Creature – Goblin 	137	B	B	FlashNEWLINEWhen Mennin Pack enters, each opponent loses 1 life.NEWLINEWhen Mennin Pack dies, each opponent discards a card.	1/1		normal	MC25		!FT: fluffyDeathbringer2

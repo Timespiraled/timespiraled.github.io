@@ -1,0 +1,1 @@
+﻿Worn Study	U	cube	Artifact	105	U	1U	T: Scry 1.NEWLINE1U, T: Draw a card.			normal	MC25		!FT: gynoidpoet

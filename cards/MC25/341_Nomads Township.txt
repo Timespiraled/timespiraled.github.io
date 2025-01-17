@@ -1,0 +1,1 @@
+﻿Nomad's Township		cube	Land – Swamp Forest 	341	C		(T: Add B or G.)NEWLINEWhenever Nomad’s Township becomes tapped, you lose 1 life unless you control two or more basic lands.			normal	MC25		

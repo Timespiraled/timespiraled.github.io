@@ -1,0 +1,1 @@
+﻿Mother of Monsters	G	cube	Creature – Chimera 	229	G	4GG	Codex – Leyran Alpha, Fungal Whomper, Plated Crusher, Towering Hydraffe, The Terror of Shady Cove. (As this enters, conjure its contents into a shuffled face-up additional library.)NEWLINEWhen Mother of Monsters enters, you gain 6 life.NEWLINEWhen Mother of Monsters dies, draw a card.	6/6		normal	MC25		!Community: Splashcat

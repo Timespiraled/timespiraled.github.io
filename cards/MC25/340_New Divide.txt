@@ -1,0 +1,1 @@
+﻿New Divide		cube	Land	340	C		As New Divide enters, you may pay 2 life. If you don’t, it enters tapped.NEWLINET, Sacrifice New Divide: Search your library for a basic land card, put it onto the battlefield, then shuffle.			normal	MC25		

@@ -1,0 +1,1 @@
+﻿Advanced Powercell	G	cube	Artifact – Powercell 	208	G	1G	Advanced Powercell enters tapped.NEWLINET: Add one mana of any color.			normal	MC25		!FT: Opacana

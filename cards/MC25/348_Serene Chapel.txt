@@ -1,0 +1,1 @@
+﻿Serene Chapel		cube	Land	348	W		Serene Chapel enters tapped unless you control a basic Plains.NEWLINET: Add W.NEWLINE1WW: Until end of turn, Serene Chapel becomes a 2/1 white Spirit Cleric creature with flying and “Whenever this creature attacks, you may exile target card from a graveyard.” It’s still a land.			normal	MC25		

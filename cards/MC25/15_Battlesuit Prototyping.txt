@@ -1,0 +1,1 @@
+﻿Battlesuit Prototyping	W	cube	Enchantment – Project 	15	W	W	Whenever one or more creatures you control attack, you may put a progress counter on Battlesuit Prototyping.		NEWLINE[progress 2-6] NEWLINE[progress 7+] 	leveler	MC25		

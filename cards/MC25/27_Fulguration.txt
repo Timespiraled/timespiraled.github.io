@@ -1,0 +1,1 @@
+﻿Fulguration	W	cube	Sorcery	27	W	3WW	As an additional cost to cast this spell, you may pay 3W.NEWLINEChoose a nonland permanent type. Destroy all permanents of the chosen type. If this spell’s additional cost was paid, destroy all permanents of the chosen type you don’t control instead.			normal	MC25		

@@ -1,0 +1,1 @@
+﻿Frostfire Geysers		cube	Land – Island Mountain 	327	C		(T: Add U or R.)NEWLINEFrostfire Geysers enters tapped unless you control a basic Island or a basic Mountain.			normal	MC25		

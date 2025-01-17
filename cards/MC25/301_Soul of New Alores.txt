@@ -1,0 +1,1 @@
+﻿Soul of New Alores		cube	Legendary Artifact – Vehicle 	301	C	4	Tap two untapped creatures you control: Harmonize. (Trigger up to one harmony of one permanent you control.)NEWLINEHarmony – Choose one –NEWLINE• Soul of New Alores becomes a creature in addition to its other types until end of turn.NEWLINE• Put two +1/+1 counters on target permanent.	3/3		normal	MC25		

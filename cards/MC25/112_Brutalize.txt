@@ -1,0 +1,1 @@
+﻿Brutalize	B	cube	Sorcery	112	B	1B	Target opponent sacrifices a creature.NEWLINERerun (If you cast this from your hand, exile it as it resolves. Whenever a creature you control dies, you may cast this card from exile without paying its mana cost.)			normal	MC25		

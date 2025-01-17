@@ -1,0 +1,1 @@
+﻿Natural Philosopher	G	cube	Creature – Human Wizard 	231	G	2GG	This spell can’t be countered.NEWLINECreatures you control have ward 2.NEWLINEWhen Natural Philosopher enters, you gain 2 life for each creature you control with power 4 or greater.	4/3		normal	MC25		

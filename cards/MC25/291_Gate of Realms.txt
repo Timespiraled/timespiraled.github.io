@@ -1,0 +1,1 @@
+﻿Gate of Realms		cube	Artifact	291	C	3	When Gate of Realms enters, you may search your library for a land card, reveal it, and put that card into your hand. If you do, shuffle.NEWLINE10, T: Gate of Realms deals 3 damage to any target. This ability costs 1 less to activate for each different name among lands you control.			normal	MC25		!design Occo

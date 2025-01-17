@@ -1,0 +1,1 @@
+﻿Esalia, Steward of Caer Crann	G	cube	Legendary Creature – Elf Druid 	219	G	1G	Vigilance, ward 1NEWLINET: Add one mana of any color. If that mana is spent on a creature spell, it enters with an additional +1/+1 counter on it.	2/3		normal	MC25		

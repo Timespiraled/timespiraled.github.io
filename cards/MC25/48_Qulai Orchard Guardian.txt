@@ -1,0 +1,1 @@
+﻿Qulai, Orchard Guardian	W	cube	Legendary Creature – Fox Spirit 	48	W	2W	Attacking creatures you control have first strike.NEWLINEWhenever Qulai, Orchard Guardian attacks or becomes the target of a spell or ability an opponent controls, conjure a card named Fox of the Orange Orchard into your hand. (It’s a 1W 3/1 Fox Spirit creature.)	3/1		normal	MC25		!Community: Splashcat

@@ -1,0 +1,1 @@
+﻿Prince of Stars	R	cube	Creature – Elemental Dragon 	195	R	3RR	Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)NEWLINEFlyingNEWLINEDragon spells you cast have cascade.	4/4		normal	MC25		!design DrChillbrain

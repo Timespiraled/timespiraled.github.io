@@ -1,0 +1,1 @@
+﻿Root Corruption	U	cube	Instant	96	U	1U	Choose one –NEWLINE• Counter target spell unless its controller pays 2.NEWLINE• Create a tapped token that’s a copy of target token you control.			normal	MC25		

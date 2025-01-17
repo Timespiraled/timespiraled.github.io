@@ -1,0 +1,1 @@
+﻿Chigau, the Red Market	B	cube	Legendary Enchantment	115	B	1B	When Chigau, the Red Market enters, draw a card, then choose a creature card name.NEWLINEOnce each turn, you may cast a creature spell with the chosen name from your graveyard.			normal	MC25		

@@ -1,0 +1,1 @@
+﻿Whisperwoods Exploration	BG	cube	Sorcery	279	BG	BG	Mill three cards. When you do, return another nonland card from your graveyard to your hand.			normal	MC25		!FT: softwood1

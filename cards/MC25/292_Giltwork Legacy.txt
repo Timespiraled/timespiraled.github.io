@@ -1,0 +1,1 @@
+﻿Giltwork Legacy		cube	Artifact – Equipment 	292	C	1	Equipped creature gets +2/+1.NEWLINEWhenever equipped creature becomes untapped, you draw a card and you gain 2 life.NEWLINEEquip 3			normal	MC25		

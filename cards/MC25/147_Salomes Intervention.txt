@@ -1,0 +1,1 @@
+﻿Salome's Intervention	B	cube	Sorcery	147	B	1B	Each opponent loses 3 life and you gain 3 life.NEWLINEWhenever you cast your second spell each turn, if Salome’s Intervention wasn’t put into your graveyard this turn, return it from your graveyard to your hand.			normal	MC25		

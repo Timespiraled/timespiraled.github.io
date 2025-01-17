@@ -1,0 +1,1 @@
+﻿Kantra of Bounty	G	cube	Enchantment Creature – Spirit 	225	G	5G	Enspirit (As you cast this spell, you may exile a nonenchantment creature you control until this leaves the battlefield or fails to resolve. Reduce this spell’s cost by the exiled card’s mana value.)NEWLINEYou may play any number of lands on each of your turns.	4/4		normal	MC25		

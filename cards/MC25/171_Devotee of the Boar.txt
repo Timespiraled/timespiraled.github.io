@@ -1,0 +1,1 @@
+﻿Devotee of the Boar	R	cube	Creature – Human Berserker 	171	R	R	Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters with a +1/+1 counter on it.)NEWLINEHasteNEWLINEWhenever you cast a creature spell, it gains bloodthirst 1. (Multiple instances of bloodthirst on a spell stack.)	1/1		normal	MC25		!Community: Dravos Argentium

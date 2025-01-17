@@ -1,0 +1,1 @@
+﻿Twinfire Dragon	BR	cube	Creature – Dragon 	264	BR	2BR	Flying, hasteNEWLINEWhenever another creature dies, Twinfire Dragon gets +1/+0 until end of turn.	4/4		normal	MC25		!FT: CyberChronometer

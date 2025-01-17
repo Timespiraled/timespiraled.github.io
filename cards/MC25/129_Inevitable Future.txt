@@ -1,0 +1,1 @@
+﻿Inevitable Future	B	cube	Sorcery	129	B	6B	This spell costs 1 less to cast for each creature and/or planeswalker card in your graveyard.NEWLINEReturn target creature or planeswalker card from your graveyard to the battlefield.			normal	MC25		!FT: Toastiferous

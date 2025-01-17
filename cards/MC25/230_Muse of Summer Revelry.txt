@@ -1,0 +1,1 @@
+﻿Muse of Summer Revelry	G	cube	Legendary Creature – Faerie God 	230	G	2GG	TrampleNEWLINEWhenever Muse of Summer Revelry enters or you cast a spell with power 4 or greater, choose one –NEWLINE• You gain 3 life.NEWLINE• Create a 2/2 green Wolf creature token.NEWLINE• Draw a card.	4/3		normal	MC25		!Community: Pipsqueak

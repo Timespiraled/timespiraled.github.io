@@ -1,0 +1,1 @@
+﻿Barren Desolation		cube	Land	313	C		As Barren Desolation enters, you may pay 2 life. If you don’t, Barren Desolation enters tapped.NEWLINET, Sacrifice Barren Desolation: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.			normal	MC25		!design Timespiraled

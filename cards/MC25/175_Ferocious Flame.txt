@@ -1,0 +1,1 @@
+﻿Ferocious Flame	R	cube	Instant	175	R	R	Ferocious Flame deals 2 damage to any target. If you control a creature with power 4 or greater, it deals 4 damage instead.			normal	MC25		!FT: gynoidpoet

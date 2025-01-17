@@ -1,0 +1,1 @@
+﻿Ayala's Effigy		cube	Artifact	289	C	2	T: Add C.NEWLINESacrifice a nonland permanent: Ayala’s Effigy becomes a 2/2 Construct artifact creature until end of turn.			normal	MC25		!FT: CyberChronometer

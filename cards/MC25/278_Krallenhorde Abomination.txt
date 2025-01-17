@@ -1,0 +1,1 @@
+﻿Krallenhorde Abomination	BG	cube	Creature – Werewolf Horror 	278	BG	2BG	MenaceNEWLINEWhen this creature dies, create two tapped 3/2 colorless Eldrazi creature tokens. Put a stun counter on one of them.	6/4		normal	MC25		!Community: Pipsqueak

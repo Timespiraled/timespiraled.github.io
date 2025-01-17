@@ -1,0 +1,400 @@
+7_Almgrove Skydancer
+57_Abscond
+107_Ambitious Necromancer
+157_Ada, the Free
+207_Adiran Scryers
+8_Anointed Cursebreaker
+58_Aetheric Researcher
+108_Antithesis
+158_Anax's Endeavor
+208_Advanced Powercell
+9_Artificial Sanctity
+59_Agent of Deception
+109_Arroyo, Infinitely Branching
+159_Auros, the Red King
+209_Agency Doorbreakers
+10_Astral Capricine
+60_Buoyant Thoughts
+110_Bitter Corvus
+160_Blood Cult Covenant
+210_Arbor Protector
+11_Atal, the Shroudmaker
+61_Consider
+111_Blood Artist
+161_Bloodbelly Glutton
+211_Astral Leucrocota
+12_Avengeance Angel
+62_Consult the Dewdrops
+112_Brutalize
+162_Brightflame Phoenix
+212_Astralhorn Familiar
+13_Ayala's Blessing
+63_Cryptosphinx
+113_Carrion Scythe
+163_Brimstone Oration
+213_Belly of the Beast
+14_Banishing Initiate
+64_Daring Escapade
+114_Channeler of the Veil
+164_Cinderhoof Minotaur
+214_Consuming Symbiosis
+15_Battlesuit Prototyping
+65_Digital Encores
+115_Chigau, the Red Market
+165_Conquer Psyche
+215_Critters' Companion
+16_Beyond the Veil
+66_Diligent Fishermen
+116_Corpsecaster Mage
+166_Creative Salvage
+216_El, Humble Apprentice
+17_Big Damn Heroes
+67_Dimensional Denial
+117_Corrupted Memory
+167_Crimson Knight
+217_Elvish Wayfinder
+18_Bioluminescent Display
+68_Dream Monologue
+118_Crypt Gnawer
+168_Crimson Sunrise
+218_Embodiment of Nature
+19_Cai Lan, the Puppeteer
+69_Duncaster Nightwatcher
+119_Crypt Tutor
+169_Curio Hellkite
+219_Esalia, Steward of Caer Crann
+20_Cassia the Carefree
+70_Expel from the Dungeon
+120_Deathless Siege
+170_Damning Flames
+220_Exhaustive Harvest
+21_Celestial Concordance
+71_Forbiddance
+121_Demon of Dark Shadows
+171_Devotee of the Boar
+221_Field Tender
+22_Chronicles of the Kitsune
+72_Generated Genius
+122_Dias, Freed from Belief
+172_Exhilarating Prescience
+222_Gorganith, Ruin Maw
+23_Conscious Taboo
+73_Hand of Dominion
+123_Dirty Cleanup
+173_Extraction Mercenary
+223_Inquisitive Tracker
+24_Entelan Idealist
+74_Hydrolyze
+124_Eldritch Emergence
+174_Feeding Time
+224_Into the Woods
+25_Evolution's End
+75_Iekin's Portal
+125_Enopraxia's Endeavor
+175_Ferocious Flame
+225_Kantra of Bounty
+26_Folsen, King of Valimir
+76_Imagine
+126_Erebos, the Imminent End
+176_Festival Sabotage
+226_Kou, Primal Shepherd
+27_Fulguration
+77_Inner Thoughts
+127_Groz, the Nightshaper
+177_Fiery Erasure
+227_Mattia, Hero of Tinyvale
+28_Gaoming, Foxes' Friend
+78_Iterative Designer
+128_Halford, the Rightful King
+178_Fires of Renewal
+228_Mob Rallier
+29_Gao'Wu, Humble Sibyl
+79_Keranos's Ideosphinx
+129_Inevitable Future
+179_Flamecloaked Artisan
+229_Mother of Monsters
+30_Hanabira, Kogane's Legacy
+80_Liminality
+130_Inexorable Epidemic
+180_From Ancient Tomes
+230_Muse of Summer Revelry
+31_Helena, the Awakener
+81_Logic Module
+131_Jejun, Dark Hunter
+181_Fuel for the Fire
+231_Natural Philosopher
+32_Heliod, the Ceaseless Dawn
+82_Lumbering Thoctar
+132_Kai'Long, the Call of the Dark
+182_Heartforge Savant
+232_Nitrous Renewer
+33_Herald of the White Orchid
+83_Makodonis, Prime Exemplar
+133_Karatuy, Privileged Son
+183_Hinterland Ritualist
+233_Olten Surveyor
+34_Hundred Years of Solitude
+84_Marilye, Everplundering
+134_Legion of Giradrus
+184_Identity Module
+234_Performer of Growth
+35_Inconspicuous Loxodon
+85_Megalokraken
+135_Leyline Invoker
+185_Joys and Burdens Shared
+235_Petal Scatterer
+36_Justiciar Overseer
+86_Mizuki, Lady of All Waters
+136_Malefic Portal
+186_Lt. Daisy Saxon
+236_Powercell Cultivator
+37_Kernel Quarantine
+87_Ominous Discovery
+137_Mennin Pack
+187_Martial Maestro
+237_Primal Resurgence
+38_Legacy Warmask
+88_Power Control
+138_Mutual Destruction
+188_Metal Munch
+238_Primordial Artisan
+39_Luna, Loyal Friend
+89_Prognosticate
+139_Nherix, the Soulcage
+189_Minister of Zealots
+239_Relentless Pathcutter
+40_Margyd's Celebrant
+90_Pull from Beyond
+140_Niu Mo Wang, Ashen Absolution
+190_Nacatl Skirmisher
+240_Relic Corrosion
+41_Once More with Heart
+91_Realm Crossers
+142_Pestilent Scavenger
+191_Neon Claw Knight
+241_Root Module
+42_Order Module
+92_Reconstructed Adept
+143_Power Module
+192_Oathbreaker Orc
+242_Rova, the Fleshweaver
+43_Pact of the Moon
+93_Reflected Moment
+144_Profane Call
+193_Ominous Dragoncaller
+243_Runebound Disciple
+44_Pious Flutist
+94_Retort Nonsense
+145_Professor's Notes
+194_Paint with Starflame
+244_Savage Congregation
+45_Promised Exaltation
+95_Rixia, Rift Shunted
+146_Reclusive Augur
+195_Prince of Stars
+245_Stardust Surveyor
+46_Proud Lion
+96_Root Corruption
+147_Salome's Intervention
+196_Quantum Bit
+246_Studies Past
+47_Queen Andarli, the Fierce
+97_A Rush of Stillness in the Air
+148_Sedraxis Trepanator
+197_Ragavan, Most Wanted
+247_Vassal of the Wild
+48_Qulai, Orchard Guardian
+98_Scatter Riches
+149_Sesilius of Wicked Ways
+198_Reckless Defiance
+248_Verdant Sanctuary
+49_Seraph of the Stage
+99_Stillmarsh Brinecatcher
+150_Shikai Revenant
+199_Reckless Mutationist
+249_Victory Over Phyrexia
+50_Solari's Faithful
+100_Study the Maps
+151_Sinner's Solace
+200_Scarletblood Hound
+250_Vivien the Sagittar
+51_Spectral Chains
+101_A Sucker for You
+152_Sultan of Avarice
+201_Scourge of the Mountains
+251_Vorreia, Farseer
+52_Tegan, the Sparrowhawk
+102_Unseen Maniac
+153_Surge of Darkness
+202_Tunu, Ancient Shaper
+252_Warfield Excavator
+53_Unwrite
+103_Veiled by the Blizzard
+154_Unstill Unlife
+203_Valakut Hellkite
+253_Wildlife Sketches
+54_Visions of Sand and Steel
+104_Way of Water
+155_Void Portal
+204_Valeri Kripac
+254_Xira, Scatterer of Seeds
+55_Xifang Hu, Light Within
+105_Worn Study
+156_Young Necromancer
+205_Voidflare
+255_Yeshin of New Humanity
+56_Zareen, the Second Shah
+106_Zirrat, the Soulsearcher
+e
+206_Xiusheng of the Dragon Realm
+256_Zadyk Ritualist
+e
+e
+e
+e
+361_Bound by Nature
+e
+e
+e
+e
+362_Lian Taizi, Bountiful Earth
+er
+er
+er
+er
+er
+257_Etheria, Sublime One
+260_Deepweb Consultation
+262_Edarna the Everforge
+265_Petal-Weaver Alexa
+268_Ajani, Caller of the Hosts
+258_Frayed Nerves
+261_Salome
+263_Ogura, Contracted Rebel
+266_Tend to the Grove
+269_Gathering the Gang
+259_Lost Through Dreams
+287_Avalia, Cyber Stalker
+264_Twinfire Dragon
+267_Thunderous Avarice
+270_Tendrilsnare
+er
+er
+er
+er
+er
+271_Alonzo, Departed Detective
+277_Irbek, Crocodile Hunter
+283_Bring to Harmony
+274_Century Genius
+280_Comet, Pulled from Orbit
+272_Eternal Journey
+278_Krallenhorde Abomination
+284_Helene Trant
+275_Cosmic Coalescing
+281_Commanding Princess
+273_Somber River Bearer
+279_Whisperwoods Exploration
+285_In Dire Straits
+276_Paul, Rock Bottom
+282_Divide the Imperial Arsenal
+er
+er
+er
+er
+er
+1_﻿Aparodist
+2_Blind Eternal
+3_Formless Eidolon
+4_The Infinite
+5_Restless Explorer
+6_Zareen's Pariah
+286_Key to the Nexus
+288_Android Bodega
+289_Ayala's Effigy
+290_Barten's Journal
+291_Gate of Realms
+292_Giltwork Legacy
+293_Goblin War Chariot
+294_Harvest Reaper
+295_L.O.T.U.S.
+296_Lightblessed Claymore
+297_Masterwork Archivist
+298_Mechanus, Awakened Code
+299_Monument to the Fallen Man
+300_Pinnacle of Purity
+301_Soul of New Alores
+302_Soul-Synthesizer
+303_Tech Chaser
+304_Ubitsa Forge
+305_Unicorn of the Vale
+306_Volatile Stonework
+307_Voyager's Ark
+308_Wayfarer's Lantern
+309_Xueyang San
+363_Intrepid
+er
+er
+er
+er
+er
+348_Serene Chapel
+318_Cresting Bay
+336_Midnight Gate
+317_Cloudpeak Spires
+311_Ancestral Glade
+354_Sunlit Meadow
+346_Seaside Grotto
+356_Swarming Midden
+322_Firehearth Halls
+360_Wise Old Oak
+er
+er
+er
+er
+er
+310_Amber Hills
+312_Arctic Mine
+313_Barren Desolation
+314_Blossoming Verge
+315_Bustling Marketplace
+316_City Gate
+319_Crumbling Precipice
+320_Crystal Cavern
+321_Enchanting Palace
+323_Flooded Morass
+324_Floodwater Depths
+325_Flourishing Crevasse
+326_Forgotten Steppe
+327_Frostfire Geysers
+328_Fungal Mire
+329_Gloomcover Steppe
+330_Grim Bastion
+331_Heart of the Glade
+332_Heart of Zhedina
+333_Lavatorn Fields
+334_Lush Oasis
+335_Magmatic Torrent
+337_Murmuring Falls
+338_Mysterious Cataract
+339_Nebula of Empty Gold
+340_New Divide
+341_Nomad's Township
+342_Ocean Monastery
+343_Pool of Light
+344_Rampant Summit
+345_Resplendent Substratum
+347_Sedate Tundra
+349_Shardstone Rift
+350_Shifting Glade
+351_Shikai's Redoubt
+352_Spiraling Canyon
+353_Sunlit Highland
+355_Sunrise Orchard
+357_Timber Range
+358_Timeworn Crags
+359_Wayfarer's Shrine
+e
+e
+e
+e

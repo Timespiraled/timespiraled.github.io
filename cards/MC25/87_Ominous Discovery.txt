@@ -1,0 +1,1 @@
+﻿Ominous Discovery	U	cube	Sorcery	87	U	1U	Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.NEWLINERerun (If you cast this from your hand, exile it as it resolves. Whenever a creature you control dies, you may cast this card from exile without paying its mana cost.)			normal	MC25		

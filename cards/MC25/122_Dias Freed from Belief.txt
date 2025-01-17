@@ -1,0 +1,1 @@
+﻿Dias, Freed from Belief	B	cube	Legendary Planeswalker – Dias 	122	B	1BB			Whenever a creature you control dies, put a loyalty counter on Dias, Freed from Belief.NEWLINE[0]: Create a 2/1 black Nightmare creature token with “This creature can’t block.”NEWLINE[-X]: Destroy target creature or planeswalker unless an opponent pays twice X life.	planeswalker	MC25	3	

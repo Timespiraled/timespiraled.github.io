@@ -1,0 +1,1 @@
+﻿Flooded Morass		cube	Land – Island Swamp 	323	C		(T: Add U or B.)NEWLINEFlooded Morass enters tapped unless you control a basic Island or a basic Swamp.			normal	MC25		

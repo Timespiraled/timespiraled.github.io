@@ -1,0 +1,1 @@
+﻿Demon of Dark Shadows	B	cube	Creature – Demon 	121	B	5BB	This spell costs 2 less to cast for each creature that died this turn.NEWLINEFlying, trample	6/6		normal	MC25		!FT: fluffyDeathbringer2

@@ -1,0 +1,1 @@
+﻿Ominous Dragoncaller	R	cube	Creature – Human Shaman 	193	R	1RR	Ominous Dragoncaller gets +1/+1 and has flying as long as you control a Dragon.	3/2		adventure	MC25		Call of the Dragon	R	Sorcery – Adventure 	R	1R	Search your library for a Dragon card, reveal it, put it into your hand, then shuffle. It deals damage equal to its power to you.				!design Requiem

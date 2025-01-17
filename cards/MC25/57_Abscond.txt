@@ -1,0 +1,1 @@
+﻿Abscond	U	cube	Sorcery	57	U	XU	Gain control of target noncreature, nonland permanent with mana value X.			normal	MC25		!FT: fluffyDeathbringer2

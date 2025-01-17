@@ -1,0 +1,1 @@
+﻿Somber River Bearer	WB	cube	Creature – Human Cleric 	273	WB	WB	Whenever another creature you control enters, target opponent loses 1 life and you gain 1 life.NEWLINESacrifice Somber River Bearer: Creatures you control gain indestructible until end of turn.	2/2		normal	MC25		

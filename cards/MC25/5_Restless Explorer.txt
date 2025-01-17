@@ -1,0 +1,1 @@
+﻿Restless Explorer		cube	Creature – Human Scout 	5	C	3	When Restless Explorer enters, search your library for a land card, reveal it, put it into your hand, then shuffle.	1/2		normal	MC25		!FT:gynoidpoet

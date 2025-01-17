@@ -1,0 +1,1 @@
+﻿Runebound Disciple	G	cube	Creature – Human Warlock 	243	G	G	You may spend mana as though it were mana of any color to cast spells with mana value 5 or greater or to activate abilities of permanents or permanent cards with mana value 5 or greater.NEWLINET: Add C.	0/1		normal	MC25		

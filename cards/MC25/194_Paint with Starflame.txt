@@ -1,0 +1,1 @@
+﻿Paint with Starflame	R	cube	Instant	194	R	1R	Choose one –NEWLINE• Paint with Starflame deals 3 damage to target player or planeswalker. Scry 1.NEWLINE• Create a 2/2 red Elemental Shaman creature token with haste and “Whenever this creature attacks, scry 1.”			normal	MC25		!design gynoidpoet

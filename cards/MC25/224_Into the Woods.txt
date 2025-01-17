@@ -1,0 +1,1 @@
+﻿Into the Woods	G	cube	Sorcery	224	G	1G	Search your library for a Forest card, put it onto the battlefield, then shuffle.			normal	MC25		FT: Timespiraled

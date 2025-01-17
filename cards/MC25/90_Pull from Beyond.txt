@@ -1,0 +1,1 @@
+﻿Pull from Beyond	U	cube	Instant	90	U	1U	Scry 1, then draw a card.NEWLINEAcquiesce (If you cast this spell from your hand, exile it as it resolves. When one or more creatures you control deal combat damage to an opponent, you may cast this card from exile without paying its mana cost.)			normal	MC25		

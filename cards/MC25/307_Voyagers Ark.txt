@@ -1,0 +1,1 @@
+﻿Voyager's Ark		cube	Artifact – Vehicle 	307	C	6	At the beginning of combat on your turn, create a token that’s a copy of another target nonlegendary creature that crewed Voyager’s Ark this turn. That token gains haste.NEWLINECrew 3	6/6		normal	MC25		

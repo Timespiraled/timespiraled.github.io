@@ -1,0 +1,1 @@
+﻿Crypt Tutor	B	cube	Sorcery	119	B	1B	Search your library for a card, exile it face down, then shuffle. For as long as that card remains exiled, you may cast it. It costs 2 more to cast this way if you don’t control a legendary creature as you cast that spell.			normal	MC25		

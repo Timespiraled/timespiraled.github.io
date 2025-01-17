@@ -1,0 +1,1 @@
+﻿City Gate		cube	Land	316	C		T: Add C.NEWLINE3, T, Sacrifice City Gate: Put two +1/+1 counters on target creature you control that attacked this turn.			normal	MC25		!FT: Skagra

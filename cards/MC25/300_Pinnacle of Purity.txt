@@ -1,0 +1,1 @@
+﻿Pinnacle of Purity		cube	Artifact	300	C	1	T: Target player exiles a card from their graveyard.NEWLINE1, Exile Pinnacle of Purity: Exile all graveyards. Search your library for a basic land card, reveal it, put it into your hand, then shuffle.			normal	MC25		

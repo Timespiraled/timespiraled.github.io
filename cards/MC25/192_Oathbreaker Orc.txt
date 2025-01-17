@@ -1,0 +1,1 @@
+﻿Oathbreaker Orc	R	cube	Creature – Orc Berserker 	192	R	1R	Oathbreaker Orc attacks each combat if able.NEWLINEWhenever Oathbreaker Orc attacks, it deals 2 damage to defending player unless that player sacrifices a permanent.	2/3		normal	MC25		!design CanterburyEgg

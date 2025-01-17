@@ -1,0 +1,1 @@
+﻿Festival Sabotage	R	cube	Sorcery	176	R	R	Choose one –NEWLINE• Festival Sabotage deals 2 damage to any target.NEWLINE• Audition for red. (Create a 1/1 Construct Actor creature token, a Warrior Role giving 3/2 and trample, or a Wizard Role giving 2/2 and prowess. Roles replace older ones.)			normal	MC25		

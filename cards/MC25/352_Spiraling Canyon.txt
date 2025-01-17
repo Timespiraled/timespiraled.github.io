@@ -1,0 +1,1 @@
+﻿Spiraling Canyon		cube	Land – Mountain Plains 	352	C		(T: Add R or W.)NEWLINESpiraling Canyon enters tapped unless you control a basic Mountain or a basic Plains.			normal	MC25		

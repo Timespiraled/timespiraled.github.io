@@ -1,0 +1,1 @@
+﻿Primal Resurgence	G	cube	Enchantment – Aura 	237	G	G	Enchant landNEWLINEEnchanted land has “T: Add GG.”			normal	MC25		!FT: Zangy

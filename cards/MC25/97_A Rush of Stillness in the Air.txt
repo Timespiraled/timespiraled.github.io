@@ -1,0 +1,1 @@
+﻿A Rush of Stillness in the Air	U	cube	Sorcery	97	U	U	Return target instant or sorcery card with mana value 3 or less and without reconstruct from your graveyard to your hand.NEWLINEReconstruct 6U (You may cast this from your graveyard for its reconstruct cost reduced by the mana value of a permanent you sacrifice as you cast it this way. Then exile this.)			normal	MC25		

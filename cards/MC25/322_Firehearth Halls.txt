@@ -1,0 +1,1 @@
+﻿Firehearth Halls		cube	Land	322	R		Firehearth Halls enters tapped unless you control a basic Mountain.NEWLINET: Add R.NEWLINERR: Firehearth Halls becomes a 1/1 red Dwarf Warrior creature with double strike until end of turn. It’s still a land.			normal	MC25		
