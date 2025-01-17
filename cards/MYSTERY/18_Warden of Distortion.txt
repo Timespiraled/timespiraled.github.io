@@ -1,0 +1,1 @@
+﻿Warden of Distortion	B	cube	Legendary Creature – Nightmare Dragon 	18	B	3BB	FlyingNEWLINEIf Warden of Distortion would die, you may exile a creature card from your graveyard. If you do, Warden of Distortion becomes a copy of that creature, except it’s a 4/4 Nightmare Dragon and it has flying and this ability. It gains indestructible until end of turn. 	4/4		normal	MYSTERY		

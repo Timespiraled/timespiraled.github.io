@@ -1,0 +1,1 @@
+﻿Duke Atrios XXIV	W	cube	Legendary Creature – Merfolk Noble 	2	WUBRG	3WW	VigilanceNEWLINEWhenever an opponent casts a spell, create a Treasure token unless that player pays 1, then create a 1/1 white Merfolk creature token unless that player pays 1.NEWLINEWUBRG, T: Other creatures you control get +3/+3 and gain vigilance and indestructible until end of turn.	4/4		normal	MYSTERY		

@@ -1,0 +1,1 @@
+﻿From Within the Dark	R	cube	Enchantment	20	R	3R	Whenever a creature you control enters for the first time each turn, you may sacrifice it. If you do, exile cards from the top of your library until you exile a creature card. Put that card onto the battlefield.			normal	MYSTERY		

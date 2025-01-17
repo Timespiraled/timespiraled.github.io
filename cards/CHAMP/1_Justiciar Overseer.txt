@@ -1,0 +1,1 @@
+﻿Justiciar Overseer	W	cube	Creature – Angel Soldier 	1	W	2W	FlashNEWLINEFlyingNEWLINEWhen Justiciar Overseer enters, the next 2 damage that a source of your choice would deal to you and/or permanents you control this turn is dealt to any target instead.	3/1		normal	CHAMP		

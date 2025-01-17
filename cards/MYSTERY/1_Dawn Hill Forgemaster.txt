@@ -1,0 +1,1 @@
+﻿Dawn Hill Forgemaster	W	cube	Creature – Bird Soldier 	1	W	1W	Double strike	1/1		adventure	MYSTERY		Making of a Hero	W	Sorcery – Adventure 	W	W	Search your library for an Equipment card, reveal it, put it into your hand, then shuffle. (Then exile this card. You may cast the creature later from exile.)				

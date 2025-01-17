@@ -1,0 +1,1 @@
+﻿Danithra Muckbruiser	G	cube	Creature – Merfolk Warrior 	27	G	1G	Spells your opponents cast that target Danithra Muckbruiser cost 2 more to cast.NEWLINEDanithra Muckbruiser gets +X/+X, where X is the number of cards in your graveyard minus seven. (If there are fewer than seven, it gets +0/+0.)	2/3		normal	MYSTERY		

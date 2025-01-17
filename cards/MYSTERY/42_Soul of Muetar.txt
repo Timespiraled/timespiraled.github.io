@@ -1,0 +1,1 @@
+﻿Soul of Muetar		cube	Artifact Creature – Avatar 	42	C	4CC	Protection from colored spellsNEWLINE5CC: Exile target colored permanent.NEWLINE5CC, Exile Soul of Muetar from your graveyard: Exile target colored permanent.	6/6		normal	MYSTERY		

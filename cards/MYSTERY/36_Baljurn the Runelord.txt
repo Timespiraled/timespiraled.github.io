@@ -1,0 +1,1 @@
+﻿Baljurn, the Runelord	WUB	cube	Legendary Artifact Creature – Giant Artificer 	36	WUB	2W/BU	Whenever Baljurn, the Runelord or another nontoken artifact or enchantment you control enters, create a 0/0 blue Construct artifact creature token. Put a +1/+1 counter on each artifact and/or enchantment creature you control other than Baljurn.	3/3		normal	MYSTERY		

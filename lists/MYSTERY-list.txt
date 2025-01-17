@@ -1,0 +1,90 @@
+1_﻿Dawn Hill Forgemaster
+7_Crossing the Fog
+13_A Most Important Prince
+19_Astral Cerberus
+25_Avenger of Nature
+2_Duke Atrios XXIV
+8_Helene, Steel of the Exiled
+14_Pakka, the Shadowcloak
+20_From Within the Dark
+26_Crewmaster Gillo
+3_Ethereal Shepherd
+9_Lenkastra, Omniprophet
+15_Sakaki, Rocket Gang Boss
+21_Judgment of Hao'Tai
+27_Danithra Muckbruiser
+4_Legendweaving
+10_Mina, Jeweled Minnow
+16_Seven Deadly Sins
+22_Polis's Demise
+28_Fogspewer
+5_Lisa, the Daughter
+11_Terraformer's Globe
+17_Unrelenting
+23_Priest of Tunu
+29_Green Elemental Circle
+6_Seto San, the Dragonblade
+12_Wiretapper
+18_Warden of Distortion
+24_Twenty Thousand Leagues
+30_Kydele, World Oracle
+er
+er
+er
+er
+er
+31_Edina, Coralight Soothsayer
+32_Kederekt Deepdweller
+e
+e
+e
+er
+er
+er
+er
+er
+e
+33_Starving Stalker
+e
+e
+e
+er
+er
+er
+er
+er
+34_Aoia, Monarch of Beauty
+36_Baljurn, the Runelord
+35_Velir the Sunderer
+e
+e
+er
+er
+er
+er
+er
+37_Egg of Avarice
+38_Empyreal Exemplar
+39_Plasma Enforcer
+40_Platinum Colossus
+41_Sealed Riftway
+42_Soul of Muetar
+e
+e
+e
+e
+er
+er
+er
+er
+er
+43_Abandoned Monument
+44_Brine Fleet Bay
+45_Clutch of the Coil
+46_Ghost Quarter
+47_Hidden Garden Entrance
+48_The Last Sacred Gate
+e
+e
+e
+e

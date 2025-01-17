@@ -1,0 +1,1 @@
+﻿Kydele, World Oracle	G	cube	Legendary Enchantment Creature – Demigod 	30	G	3GG	VigilanceNEWLINEWhenever you cast a creature or planeswalker spell, draw a card.NEWLINELands you control have “T: Add CC.”	2/6		normal	MYSTERY		

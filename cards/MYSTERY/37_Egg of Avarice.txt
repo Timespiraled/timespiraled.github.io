@@ -1,0 +1,1 @@
+﻿Egg of Avarice		cube	Artifact	37	C	2	T, Sacrifice a creature: Search your library for a creature card with mana value 1, put it onto the battlefield, then shuffle. Activate only as a sorcery.			normal	MYSTERY		

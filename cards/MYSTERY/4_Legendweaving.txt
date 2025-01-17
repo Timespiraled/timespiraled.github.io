@@ -1,0 +1,1 @@
+﻿Legendweaving	W	cube	Instant	4	W	XWW	Search your library and/or graveyard for an enchantment card with mana value X, put it onto the battlefield, then shuffle. Shuffle Legendweaving into its owner’s library. X can’t be 0.			normal	MYSTERY		
