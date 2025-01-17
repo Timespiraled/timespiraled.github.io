@@ -1,0 +1,8 @@
+﻿Bitter Corvus	B	cube	Creature — Zombie Bird 	4	B	2BB	Flying
+Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)
+When Bitter Corvus enters, you may reveal the top X cards of your library, where X is Bitter Corvus’ power. You may put up to one card revealed this way into your hand. You lose life equal to its mana value. Put the rest into your graveyard. 	3/3		normal	CHAMP		REPLACEMEJusticiar Overseer	W	cube	Creature — Angel Soldier 	1	W	2W	Flash
+Flying
+When Justiciar Overseer enters, the next 2 damage that a source of your choice would deal to you and/or permanents you control this turn is dealt to any target instead.	3/1		normal	CHAMP		REPLACEMEArbor Protector	G	cube	Creature — Treefolk Shaman 	6	G	7GG	This spell costs 1 less to cast for each differently named land you control.
+Reach, trample	6/6		normal	CHAMP		REPLACEMEPious Flutist	W	cube	Creature — Human Bard 	2	W	W	When Pious Flutist enters, create an Idol token. (It’s an artifact with “1, Sacrifice this artifact: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)	1/2		normal	CHAMP		REPLACEMEReflected Moment	U	cube	Sorcery	3	U	4UU	Take an extra turn after this one. If this spell was cast from exile, take two extra turns after this one instead. Shuffle Reflected Moment into its owner’s main library.
+Prophecy 6UU (Once each turn, you may exile a card with prophecy as you reveal it. When you do, you may cast it for its prophecy cost as long as it’s exiled.)			normal	CHAMP		REPLACEMEPolis's Demise	R	cube	Sorcery	5	R	3RR	This spell can’t be countered.
+Polis’s Demise deals 5 damage to each creature. Destroy all artifacts.			normal	CHAMP		REPLACEME
