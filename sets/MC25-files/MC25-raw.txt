@@ -188,7 +188,7 @@ When Niu Mo Wang enters, you may have all players sacrifice a nontoken creature,
 B: Demigod
 Each player discards a card.
 XB: God
-Return any number of target creature cards not named Niu Mo Wang, Ashen Absolution with different mana values X or less from your graveyard to the battlefield. X can’t be 0.	class	MC25		Oriq Soulweaver	B	cube	Creature — Human Warlock 	141	B	BBB	Whenever you cast a black spell, choose up to X, where X is the number of black mana symbols in that spell’s mana cost —
+Return any number of target creature cards not named Niu Mo Wang, Ashen Absolution with different mana values X or less from your graveyard to the battlefield. X can’t be 0.	class	MC25		REPLACEMEOriq Soulweaver	B	cube	Creature — Human Warlock 	141	B	BBB	Whenever you cast a black spell, choose up to X, where X is the number of black mana symbols in that spell’s mana cost —
 • Target player loses 1 life and you gain 1 life.
 • Put a -1/-1 counter on target creature.
 • You draw a card and you lose 3 life.
