@@ -546,4 +546,4 @@ Creatures you control get +1/+1 for each nature counter on Bound by Nature and h
 Lian Taizi gets +1/+1 for each card in your hand.
 When Lian Taizi enters, return any number of target cards with different mana values from your graveyard to your hand.	1/1		normal	MC25		REPLACEMEIntrepid		cube	Legendary Artifact — Vehicle 	363	C	3	Flying
 When Intrepid enters, search your library for a land card, reveal it, put it into your hand, then shuffle.
-Wanderlust — 0: Intrepid becomes an artifact creature until end of turn. Activate only if you control four or more differently named lands.	4/4		normal	MC25		REPLACEME
+Wanderlust — 0: Intrepid becomes an artifact creature until end of turn. Activate only if you control four or more differently named lands.	3/3		normal	MC25		REPLACEME
