@@ -1,1 +1,0 @@
-﻿Abandoned Monument		cube	Land	43	C		T: Add one mana of any color. If you control another nonbasic land, Abandoned Monument doesn’t untap at the beginning of your next untap step.			normal	MYSTERY		

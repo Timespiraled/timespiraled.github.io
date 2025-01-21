@@ -1,0 +1,1 @@
+﻿Chaos Is Your Redemption	UR	cube	Instant	34	UR	1UR	Search your library for three differently named noncreature, nonland cards with mana value 3 or less not named Chaos Is Your Redemption and exile them, then shuffle. If you exile three cards this way, cast one at random without paying its mana cost. Then shuffle the rest into your library.			normal	MYSTERY		

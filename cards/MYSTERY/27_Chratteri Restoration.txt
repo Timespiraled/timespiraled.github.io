@@ -1,0 +1,1 @@
+﻿Chratteri Restoration	G	cube	Sorcery	27	G	2GG	Each player gains 4 life and returns all land cards from their graveyard to the battlefield tapped.			normal	MYSTERY		

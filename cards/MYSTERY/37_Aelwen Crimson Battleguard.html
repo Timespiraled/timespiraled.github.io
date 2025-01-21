@@ -1,6 +1,6 @@
 ﻿<html>
 <head>
-  <title>Polis's Demise</title>
+  <title>Aelwen, Crimson Battleguard</title>
   <link rel="icon" type="image/x-icon" href="/img/favicon.png">
   <link rel="stylesheet" href="/resources/mana.css">
   <link rel="stylesheet" href="/resources/header.css">
@@ -165,9 +165,9 @@
 
 	<input type="text" id="display" class="hidden" value="cards-and-text"> <!-- here to make img-container-defs snippet work properly -->
 	<div class="banner-container">
-		<a class="set-banner" id="set-banner" href="/sets/CHAMP">
-			<img class="set-logo" src="/sets/CHAMP-files/icon.png">
-			<div class="set-title">MSEM Cube League Champions</div>
+		<a class="set-banner" id="set-banner" href="/sets/MYSTERY">
+			<img class="set-logo" src="/sets/MYSTERY-files/icon.png">
+			<div class="set-title">MSEM Cube League Mystery Pool</div>
 		</a>
 	</div>
 
@@ -198,7 +198,7 @@
 					card_list_arrayified[i] = card_list_arrayified[i].split('\t');
 				}
 
-			await fetch('/cards/CHAMP/5_Poliss Demise.txt')
+			await fetch('/cards/MYSTERY/37_Aelwen Crimson Battleguard.txt')
 				.then(response => response.text())
 				.then(text => {
 					card = text;

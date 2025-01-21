@@ -1,1 +1,0 @@
-﻿Priest of Tunu	R	cube	Creature – Human Cleric 	23	R	RR	Prowess, hasteNEWLINEWhenever you cast an instant or sorcery spell, you may shuffle the cards in your hand into your library, then draw that many cards.	2/1		normal	MYSTERY		

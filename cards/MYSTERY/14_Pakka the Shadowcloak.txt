@@ -1,1 +1,0 @@
-﻿Pakka, the Shadowcloak	B	cube	Legendary Creature – Cat Rogue 	14	B	1B	Whenever a creature dies, Pakka, the Shadowcloak deals 1 damage to each opponent.	2/1		adventure	MYSTERY		Conclusion	B	Sorcery – Tale 	B	2B	Destroy target creature. (Cast a copy of this spell once while this creature is on the battlefield.)				

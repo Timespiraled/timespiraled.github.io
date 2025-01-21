@@ -1,1 +1,0 @@
-﻿Twenty Thousand Leagues	R	cube	Enchantment	24	R	R	1R, Discard a card: Draw a card.NEWLINER: You may put a creature card from your hand onto the battlefield. That creature gains haste. Activate only if twenty or more cards are in your graveyard.			normal	MYSTERY		

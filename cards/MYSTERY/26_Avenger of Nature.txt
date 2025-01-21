@@ -1,0 +1,1 @@
+﻿Avenger of Nature	G	cube	Creature – Elk Horror 	26	G	3GG	TrampleNEWLINEWhenever a player casts a noncreature spell, that player sacrifices a noncreature permanent.	5/4		normal	MYSTERY		

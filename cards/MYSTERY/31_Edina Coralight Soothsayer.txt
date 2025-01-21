@@ -1,1 +1,0 @@
-﻿Edina, Coralight Soothsayer	WU	cube	Legendary Creature – Merfolk Wizard 	31	WU	WU	Whenever you cast an artifact or enchantment spell, scry 1, then create a 1/1 white Merfolk creature token.NEWLINEWhenever you cast a Merfolk spell, look at the top card of your library. If it’s an artifact or enchantment card, you may reveal it and put it into your hand.	1/1		normal	MYSTERY		

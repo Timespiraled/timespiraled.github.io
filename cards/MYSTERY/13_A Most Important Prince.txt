@@ -1,1 +1,0 @@
-﻿A Most Important Prince	B	cube	Creature – Construct Noble 	13	B	1BB	MenaceNEWLINEWhenever you cycle A Most Important Prince or it attacks, each opponent with two or more cards in hand discards a card.NEWLINEBasic landcycling 1B (1B, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)	3/2		normal	MYSTERY		

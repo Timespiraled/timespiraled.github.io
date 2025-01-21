@@ -1,0 +1,1 @@
+﻿Starving Stalker	BG	cube	Creature – Horror 	35	BG	BG	MenaceNEWLINEDiscard a creature card or sacrifice a creature or exile a creature card from your graveyard: Put a +1/+1 counter on Starving Stalker. Activate only once each turn.	1/1		normal	MYSTERY		

@@ -1,1 +1,0 @@
-﻿Sealed Riftway		cube	Artifact	41	C	1	When Sealed Riftway enters, exile up to one target card from a graveyard.NEWLINE2, T, Sacrifice Sealed Riftway: Exile target player’s graveyard. Draw a card.			normal	MYSTERY		

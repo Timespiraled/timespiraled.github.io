@@ -1,1 +1,0 @@
-﻿Crewmaster Gillo	G	cube	Legendary Creature – Monkey Pirate 	26	G	1G	When Gillo enters, reveal the top card of your library. If it’s a land card, put it onto the battlefield tapped. If it’s a creature card, put it into your hand.NEWLINEAs long as you control five or more creatures with different names, creatures you control get +1/+1 and have trample.	1/1		normal	MYSTERY		

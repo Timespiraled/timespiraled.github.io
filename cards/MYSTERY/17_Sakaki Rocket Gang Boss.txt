@@ -1,0 +1,1 @@
+﻿Sakaki, Rocket Gang Boss	B	cube	Legendary Creature – Human Rogue 	17	B	BB	LifelinkNEWLINEOnce each turn, when you draw a card, you may reveal it and a card you own from outside the game with a different name and the same mana cost. If you do, exile the first card and put the second into your hand. (Mana costs must be identical.)	2/3		normal	MYSTERY		

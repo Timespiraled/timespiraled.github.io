@@ -1,0 +1,1 @@
+﻿Platinum Colossus		cube	Artifact Creature – Golem 	42	C	13	TrampleNEWLINEEach creature you control can’t have power less than 11 and can’t have toughness less than 11. (If it would have less, it has 11 instead.)	11/11		normal	MYSTERY		

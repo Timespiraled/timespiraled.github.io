@@ -1,1 +1,0 @@
-﻿Ghost Quarter		cube	Land	46	C		T: Add C.NEWLINET, Sacrifice Ghost Quarter: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.			normal	MYSTERY		

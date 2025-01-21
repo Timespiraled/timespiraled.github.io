@@ -1,0 +1,1 @@
+﻿Seven Deadly Sins	B	cube	Enchantment	18	B	1BB	When Seven Deadly Sins has seven or more sin counters on it, sacrifice it.NEWLINEBB, Put a sin counter on Seven Deadly Sins: Destroy target creature. This ability costs 1 more to activate for each sin counter on Seven Deadly Sins.			normal	MYSTERY		
