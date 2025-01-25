@@ -1,9 +1,14 @@
 1_Justiciar Overseer
-3_Reflected Moment
-4_﻿Bitter Corvus
-5_Polis's Demise
-6_Arbor Protector
+4_Realm Crossers
+6_﻿Bitter Corvus
+7_Polis's Demise
+9_Arbor Protector
 2_Pious Flutist
+5_Reflected Moment
+e
+8_Reckless Defiance
+e
+3_Promised Exaltation
 e
 e
 e

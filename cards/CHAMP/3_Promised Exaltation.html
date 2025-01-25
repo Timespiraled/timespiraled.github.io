@@ -1,6 +1,6 @@
 ﻿<html>
 <head>
-  <title>Reckless Defiance</title>
+  <title>Promised Exaltation</title>
   <link rel="icon" type="image/x-icon" href="/img/favicon.png">
   <link rel="stylesheet" href="/resources/mana.css">
   <link rel="stylesheet" href="/resources/header.css">
@@ -165,15 +165,15 @@
 
 	<input type="text" id="display" class="hidden" value="cards-and-text"> <!-- here to make img-container-defs snippet work properly -->
 	<div class="banner-container">
-		<a class="set-banner" id="set-banner" href="/sets/MC25">
-			<img class="set-logo" src="/sets/MC25-files/icon.png">
-			<div class="set-title">MSEM Cube 2025</div>
+		<a class="set-banner" id="set-banner" href="/sets/CHAMP">
+			<img class="set-logo" src="/sets/CHAMP-files/icon.png">
+			<div class="set-title">MSEMCube League Champions</div>
 		</a>
 	</div>
 
 	<div class="grid-container" id="grid">
 	</div>
-	<div class="printings" id="other-printings">Other Printings: <a href="/cards/CHAMP/8_Reckless Defiance">CHAMP</a></div>
+	<div class="printings" id="other-printings">Other Printings: <a href="/cards/MC25/45_Promised Exaltation">MC25</a></div>
 		
 	<script>
 		let card_list_arrayified = [];
@@ -199,7 +199,7 @@
 					card_list_arrayified[i] = card_list_arrayified[i].split('\t');
 				}
 
-			await fetch('/cards/MC25/198_Reckless Defiance.txt')
+			await fetch('/cards/CHAMP/3_Promised Exaltation.txt')
 				.then(response => response.text())
 				.then(text => {
 					card = text;
