@@ -1,1 +1,0 @@
-﻿Wiretapper	U	cube	Creature – Horror 	13	U	1UU	FlashNEWLINEWhen Wiretapper enters, choose one –NEWLINE• Exile target spell. For as long as that card remains exiled, its owner may play it. A spell cast this way costs 2 more to cast.NEWLINE• Create a copy of the card with target spell’s name. You may cast the copy. (You still pay its costs.)	3/1		normal	MYSTERY		

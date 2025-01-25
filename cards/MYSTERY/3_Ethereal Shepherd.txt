@@ -1,1 +1,0 @@
-﻿Ethereal Shepherd	W	cube	Creature – Spirit Cleric 	3	W	2W	FlyingNEWLINEDeploy 2 (As this enters, you may tap any number of other creatures you control with total power 2 or more.)NEWLINEWhen Ethereal Shepherd enters deployed, exile target creature. That creature’s controller creates a 1/1 white Spirit creature token with flying.	2/2		normal	MYSTERY		

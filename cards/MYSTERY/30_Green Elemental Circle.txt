@@ -1,1 +1,0 @@
-﻿Green Elemental Circle	G	cube	Enchantment	30	G	G	Green spells you cast with mana value 5 or greater cost 1 less to cast.NEWLINEWhenever you cast a green spell with mana value 5 or greater, draw a card.			normal	MYSTERY		

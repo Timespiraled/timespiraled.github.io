@@ -1,1 +1,0 @@
-﻿Lisa, the Daughter	W	cube	Legendary Creature – Human 	4	W	2W	When Lisa, the Daughter enters, create Mother, a legendary 4/1 black Demon creature token with flying and “This creature can’t block.”NEWLINEIf a source would deal damage to Lisa while you control a Demon creature, instead that damage is dealt to a Demon creature you control of your choice.	1/1		normal	MYSTERY		

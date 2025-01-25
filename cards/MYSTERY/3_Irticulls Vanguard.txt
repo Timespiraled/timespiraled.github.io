@@ -1,0 +1,1 @@
+﻿Irticull's Vanguard	W	cube	Creature – Human Monk 	3	W	WWW	When Irticull’s Vanguard enters, exile target nonland permanent an opponent controls until Irticull’s Vanguard leaves the battlefield.NEWLINEReprocess 1WWW (Cast a copy of this from your graveyard by exiling it and paying 1WWW. Spend only mana from differently named sources this way.)	3/2		normal	MYSTERY		

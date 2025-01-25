@@ -1,1 +1,0 @@
-﻿Plasma Enforcer		cube	Artifact Creature – Construct 	41	C	3	Sunburst (This enters with a +1/+1 counter on it for each color of mana spent to cast it.)NEWLINESacrifice another artifact: Put a +1/+1 counter on Plasma Enforcer.NEWLINEWhen Plasma Enforcer dies, create a 1/1 colorless Servo artifact creature token for each +1/+1 counter on Plasma Enforcer.	0/0		normal	MYSTERY		

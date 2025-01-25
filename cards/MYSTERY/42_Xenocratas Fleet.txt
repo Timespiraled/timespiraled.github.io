@@ -1,0 +1,1 @@
+﻿Xenocrata's Fleet		cube	Artifact	42	C	3	Whenever you cast an instant or sorcery spell, you may have Xenocrata’s Fleet become a 4/4 Ship artifact creature with haste until end of turn.NEWLINEWhenever Xenocrata’s Fleet deals combat damage to an opponent, create that many 1/1 red Warrior creature tokens.			normal	MYSTERY		

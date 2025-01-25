@@ -1,1 +1,0 @@
-﻿Messenger of the Heavens	U	cube	Creature – Bird Monk 	11	U	U	FlyingNEWLINEWhen Messenger of the Heavens enters, surveil 1.NEWLINEWhenever Messenger of the Heavens deals combat damage to a player, exile any number of target creatures in its pack, then return them to the battlefield under your control.	1/2		normal	MYSTERY		

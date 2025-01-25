@@ -1,0 +1,1 @@
+﻿Reclamation Grovesculptor	G	cube	Creature – Human Druid 	31	G	3GG	Whenever Reclamation Grovesculptor enters or attacks, put a growth counter on target noncreature permanent. It becomes a colorless Forest land and loses all other card types and land types.	5/5		normal	MYSTERY		

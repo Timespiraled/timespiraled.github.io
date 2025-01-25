@@ -1,0 +1,1 @@
+﻿Life's Work	R	cube	Enchantment	24	R	1R	At the beginning of your upkeep, put a brush counter on Life’s Work, exile cards from the top of your library until you exile a card with mana value greater than or equal to the number of brush counters on Life’s Work, then put that card into your hand.			normal	MYSTERY		maybe 2R and cast

@@ -1,60 +1,65 @@
 2_Bai Long Ma, Fabled Innocence
-8_Crossing the Fog
+8_Discoveries Worth Forgetting
 14_Archaezus, Dark Salvation
-20_Careless Violence
-26_Avenger of Nature
-3_﻿Ethereal Shepherd
+20_Bloodstained Calamity
+26_Abominable Mongrel
+3_Irticull's Vanguard
 9_Flood of Information
 15_Astral Leech
-21_From Within the Dark
-27_Chratteri Restoration
-4_Lisa, the Daughter
-10_Griffin Country
+21_Careless Violence
+27_Brutality
+4_Ivenge, False God
+10_Godwatcher
 16_Inishtu, Desert Healer
 22_Hao'Tai, the Reverent
-28_Danithra Muckbruiser
-5_Paladin's Attendant
-11_Messenger of the Heavens
-17_Sakaki, Rocket Gang Boss
-23_Judgment of Hao'Tai
+28_Chratteri Restoration
+5_Moonlight Sanctum
+11_Griffin Country
+17_Karmic Exorcism
+23_Inversion of Flesh
 29_Endless Hydra
-6_Seto San, the Dragonblade
-12_Mina, Jeweled Minnow
-18_Seven Deadly Sins
-24_Priest of Tunu
-30_Green Elemental Circle
+6_Paladin's Attendant
+12_Messenger of the Heavens
+18_Villainy
+24_Life's Work
+30_Jobiah, Devoted Farmer
 7_Slaffield Workgate
-13_Wiretapper
-19_Unrelenting
+13_Union Rail Strikebreaker
+19_Warden of Distortion
 25_Shredder of Barricades
-31_Jobiah, Devoted Farmer
-er
-er
-er
-er
-er
-32_Edina, Coralight Soothsayer
-e
-e
-e
-33_Ajani Resolute
+31_Reclamation Grovesculptor
 er
 er
 er
 er
 er
 e
-35_Starving Stalker
+e
+32_Shi Hou, the Sun King
+e
+33_﻿Ajani Resolute
+er
+er
+er
+er
+er
+e
+e
 e
 34_Chaos Is Your Redemption
 e
+e
+e
+e
+35_Geetha, Glass-Shaper
+e
 er
 er
 er
 er
 er
+36_Shadowbinder Touka
 37_Aelwen, Crimson Battleguard
-36_Velir the Sunderer
 e
 e
 e
@@ -64,11 +69,11 @@ er
 er
 er
 1_Yi Cang, Thief of Blessings
-38_Egg of Avarice
-39_Gambling Table
-40_Isochron Wand
-41_Plasma Enforcer
-42_Platinum Colossus
+38_Gambling Table
+39_Isochron Wand
+40_Mindwave Rod
+41_Shining Crusader
+42_Xenocrata's Fleet
 e
 e
 e
@@ -90,6 +95,6 @@ er
 er
 43_Anzen, Beyond the Sea
 44_Cave of Pleonexia
-45_Clutch of the Coil
-46_Hidden Garden Entrance
-48_The Last Sacred Gate
+45_Defect's Precinct
+46_Derelict Town
+48_Mosecf, the Sunseeker's Path

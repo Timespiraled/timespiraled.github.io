@@ -1,0 +1,1 @@
+﻿Gambling Table		cube	Artifact	38	G	3	At the beginning of your upkeep, you win the game if the total mana value of permanents you control is exactly 21. If it’s more than 21, sacrifice Gambling Table and all Card tokens you control. Otherwise, create a colorless Card artifact token with mana cost 2 and “2, Sacrifice this artifact: Draw a card.”			normal	MYSTERY		

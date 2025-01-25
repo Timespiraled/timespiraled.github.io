@@ -1,0 +1,1 @@
+﻿Defect's Precinct		cube	Land	45	WURG		T: Add C.NEWLINE3R: Until end of turn, Defect’s Precinct becomes a 3/3 creature. It’s still a land. It has trample if G was spent to activate this ability, has vigilance if W was spent, and has hexproof if U was spent.			normal	MYSTERY		

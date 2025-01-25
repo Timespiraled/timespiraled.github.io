@@ -1,1 +1,0 @@
-﻿Clutch of the Coil		cube	Land	45	C		T: Add C.NEWLINE1: Clutch of the Coil becomes a 1/1 Snake creature with poisonous 2 until end of turn. It’s still a land. (Whenever that creature deals combat damage to a player, that player gets two poison counters. A player with ten or more poison counters loses the game.)			normal	MYSTERY		
