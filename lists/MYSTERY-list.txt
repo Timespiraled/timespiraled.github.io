@@ -5,27 +5,27 @@
 26_Abominable Mongrel
 3_Irticull's Vanguard
 9_Flood of Information
-15_Astral Leech
+15_Karmic Exorcism
 21_Careless Violence
 27_Brutality
 4_Ivenge, False God
 10_Godwatcher
-16_Inishtu, Desert Healer
+16_Profane Emissary
 22_Hao'Tai, the Reverent
 28_Chratteri Restoration
 5_Moonlight Sanctum
 11_Griffin Country
-17_Karmic Exorcism
+17_Villainy
 23_Inversion of Flesh
-29_Endless Hydra
-6_Paladin's Attendant
+29_Heartwalker
+6_﻿Paladin's Attendant
 12_Messenger of the Heavens
-18_Villainy
+18_Warden of Distortion
 24_Life's Work
 30_Jobiah, Devoted Farmer
 7_Slaffield Workgate
 13_Union Rail Strikebreaker
-19_Warden of Distortion
+19_Yri, the Daring Blade
 25_Shredder of Barricades
 31_Reclamation Grovesculptor
 er
@@ -37,7 +37,7 @@ e
 e
 32_Shi Hou, the Sun King
 e
-33_﻿Ajani Resolute
+e
 er
 er
 er
@@ -46,21 +46,21 @@ er
 e
 e
 e
-34_Chaos Is Your Redemption
+33_Chaos Is Your Redemption
 e
 e
 e
 e
-35_Geetha, Glass-Shaper
+34_Geetha, Glass-Shaper
 e
 er
 er
 er
 er
 er
-36_Shadowbinder Touka
+35_Shadowbinder Touka
 37_Aelwen, Crimson Battleguard
-e
+36_The Tale of Kings
 e
 e
 er

@@ -1,1 +1,1 @@
-﻿Godwatcher	U	cube	Creature – Human Shaman 	10	U	2UU	When Godwatcher enters, search any player’s library for a creature card, exile it, then they shuffle their library.NEWLINEWhen Godwatcher dies, put the exiled card onto the battlefield under your control.	1/4		normal	MYSTERY		
+﻿Godwatcher	U	cube	Creature – Human Shaman 	10	U	2UU	When Godwatcher enters, search any player’s library for a creature card, exile it, then they shuffle their library.NEWLINEWhen Godwatcher dies, put the exiled card onto the battlefield under your control.	1/4		normal	MYSTERY		2

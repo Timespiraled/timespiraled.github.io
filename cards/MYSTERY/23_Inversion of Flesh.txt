@@ -1,1 +1,1 @@
-﻿Inversion of Flesh	R	cube	Sorcery	23	R	4R	Inversion of Flesh deals 5 damage to each creature and each planeswalker, and 5 damage to each player with the highest life total or tied for highest life total among players.			normal	MYSTERY		
+﻿Inversion of Flesh	R	cube	Sorcery	23	R	4R	Inversion of Flesh deals 5 damage to each creature and each planeswalker, and 5 damage to each player with the highest life total or tied for highest life total among players.			normal	MYSTERY		2

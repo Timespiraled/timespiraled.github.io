@@ -1,1 +1,1 @@
-﻿Moonlight Sanctum	W	cube	Enchantment	5	W	2W	As Moonlight Sanctum enters, choose Waxing or Waning.NEWLINE• Waxing – At the beginning of your upkeep, you gain 1 life for each enchantment you control.NEWLINE• Waning – Nonenchantment spells cost 1 more to cast.			normal	MYSTERY		
+﻿Moonlight Sanctum	W	cube	Enchantment	5	W	2W	As Moonlight Sanctum enters, choose Waxing or Waning.NEWLINE• Waxing – At the beginning of your upkeep, you gain 1 life for each enchantment you control.NEWLINE• Waning – Nonenchantment spells cost 1 more to cast.			normal	MYSTERY		2

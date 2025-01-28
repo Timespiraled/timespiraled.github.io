@@ -1,1 +1,1 @@
-﻿Inquisitor's Chamber		cube	Land	47	B		Inquisitor’s Chamber enters tapped.NEWLINET: Add B.NEWLINEBB, T, Sacrifice another permanent: Draw a card.			normal	MYSTERY		
+﻿Inquisitor's Chamber		cube	Land	47	B		Inquisitor’s Chamber enters tapped.NEWLINET: Add B.NEWLINEBB, T, Sacrifice another permanent: Draw a card.			normal	MYSTERY		1

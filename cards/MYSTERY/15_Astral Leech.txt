@@ -1,1 +1,0 @@
-﻿Astral Leech	B	cube	Enchantment Creature – Leech 	15	B	BBB		3/3	DeathtouchNEWLINEChronicle (As this enters and after your draw step, add a lore counter. Stop after III.)NEWLINE[Lore I-II] You may sacrifice another creature. If you do, draw a card.NEWLINE[Lore III] Remove all lore counters from Astral Leech. Each opponent sacrifices a creature.	leveler	MYSTERY		

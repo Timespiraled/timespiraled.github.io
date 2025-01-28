@@ -1,0 +1,1 @@
+﻿Karmic Exorcism	B	cube	Sorcery	15	B	1B	Target opponent reveals their hand. Choose a nonland card revealed this way. That player discards that card.NEWLINEYou lose 2 life and create a 2/1 black Spirit creature token with “This creature can’t block.”			normal	MYSTERY		2

@@ -1,0 +1,1 @@
+﻿Heartwalker	G	cube	Creature – Human Shaman 	29	G	1G	Creature spells you cast cost 1 less to cast.	1/3		normal	MYSTERY		3

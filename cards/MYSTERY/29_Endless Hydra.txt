@@ -1,1 +1,0 @@
-﻿Endless Hydra	G	cube	Creature – Hydra 	29	G	4G	Colossal 4–4GGG (You may cast this for its colossal cost to have it enter with four +1/+1 counters; or pay 4GGG as a sorcery: Put four +1/+1 counters on it if it has none.)NEWLINEWhenever a nontoken creature you control with a counter on it dies, create a 4/4 green Hydra creature token.	4/4		normal	MYSTERY		

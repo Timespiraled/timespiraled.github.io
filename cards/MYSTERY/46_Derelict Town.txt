@@ -1,1 +1,1 @@
-﻿Derelict Town		cube	Land	46	C		T: Add one mana of any color.NEWLINEWhen you tap Derelict Town for mana, return it to its owner’s hand.			normal	MYSTERY		
+﻿Derelict Town		cube	Land	46	C		T: Add one mana of any color.NEWLINEWhen you tap Derelict Town for mana, return it to its owner’s hand.			normal	MYSTERY		2

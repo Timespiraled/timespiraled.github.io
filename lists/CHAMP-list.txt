@@ -1,17 +1,17 @@
 1_Justiciar Overseer
 4_Realm Crossers
 6_﻿Bitter Corvus
-7_Polis's Demise
-9_Arbor Protector
+7_Neon Claw Knight
+10_Arbor Protector
 2_Pious Flutist
 5_Reflected Moment
 e
-8_Reckless Defiance
+8_Polis's Demise
 e
 3_Promised Exaltation
 e
 e
-e
+9_Reckless Defiance
 e
 er
 er
