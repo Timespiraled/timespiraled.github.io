@@ -1,1 +1,0 @@
-﻿Antithesis	B	cube	Enchantment	108	B	3BB	Creatures you don’t control get -1/-1.NEWLINEMirage 1B (You may cast this spell as though it had flash for its mirage cost. If you do, sacrifice it at the beginning of the next cleanup step.)			normal	MC25		

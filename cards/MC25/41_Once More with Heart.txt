@@ -1,1 +1,0 @@
-﻿Once More with Heart	W	cube	Sorcery	41	W	W	Return target creature card with mana value 3 or less from your graveyard to the battlefield. If its mana value is less than 3, you gain life equal to the difference.			normal	MC25		!FT: PlasterMan

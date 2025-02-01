@@ -1,1 +1,0 @@
-﻿Banishing Initiate	W	cube	Creature – Human Wizard 	14	W	1W	When Banishing Initiate enters, you may exile target nonland permanent you don’t control until Banishing Initiate leaves the battlefield.NEWLINEAt the beginning of your end step, sacrifice Banishing Initiate if a card exiled with it has mana value 3 or greater.	3/1		normal	MC25		

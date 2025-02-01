@@ -1,1 +1,0 @@
-﻿Luna, Loyal Friend	W	cube	Legendary Creature – Fox 	39	W	1W	When Luna enters, you may put a +1/+1 counter or loyalty counter on target creature or planeswalker.NEWLINEWhenever another creature or planeswalker enters, you may exile Luna. Return her to the battlefield at the beginning of the next end step.	1/1		normal	MC25		!design Cajun

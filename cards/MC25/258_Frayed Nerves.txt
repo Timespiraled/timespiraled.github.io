@@ -1,1 +1,0 @@
-﻿Frayed Nerves	WU	cube	Enchantment	258	WU	WU	Whenever a creature attacks you, tap that creature. It doesn’t untap during its controller’s next untap step.			normal	MC25		!FT: CyberChronometer

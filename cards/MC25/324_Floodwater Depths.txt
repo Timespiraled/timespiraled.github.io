@@ -1,1 +1,0 @@
-﻿Floodwater Depths		cube	Land	324	C		As Floodwater Depths enters, you may pay 2 life. If you don’t, Floodwater Depths enters tapped.NEWLINET, Sacrifice Floodwater Depths: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.			normal	MC25		!design Timespiraled

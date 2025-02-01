@@ -1,1 +1,0 @@
-﻿Gloomcover Steppe		cube	Land – Plains Swamp 	329	C		(T: Add W or B.)NEWLINEGloomcover Steppe enters tapped unless you control a basic Plains or a basic Swamp.			normal	MC25		

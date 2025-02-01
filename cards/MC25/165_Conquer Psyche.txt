@@ -1,1 +1,0 @@
-﻿Conquer Psyche	R	cube	Sorcery	165	R	2R	Exile target creature you control, then return it to the battlefield under its owner’s control. Create a token that’s a copy of it. Those creatures gain haste until end of turn. Sacrifice the token at the beginning of the next end step.			normal	MC25		

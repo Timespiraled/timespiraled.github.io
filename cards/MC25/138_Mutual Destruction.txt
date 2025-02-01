@@ -1,1 +1,0 @@
-﻿Mutual Destruction	B	cube	Enchantment	138	B	2BB	Whenever a creature you control dies, destroy target creature you don’t control.			normal	MC25		!FT: PlasterMan

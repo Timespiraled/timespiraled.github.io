@@ -1,1 +1,0 @@
-﻿Young Necromancer	B	cube	Creature – Human Wizard 	156	B	1B	Whenever a nontoken creature you control dies, create a 1/1 black Skeleton creature token.	2/1		normal	MC25		!FT: TEST

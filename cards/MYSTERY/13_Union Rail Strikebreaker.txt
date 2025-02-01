@@ -1,1 +1,0 @@
-﻿Union Rail Strikebreaker	U	cube	Creature – Human Artificer 	13	U	1U	Whenever you cast a noncreature spell, create a 1/1 colorless Construct artifact creature token.	1/1		normal	MYSTERY		2

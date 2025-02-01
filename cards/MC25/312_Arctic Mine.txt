@@ -1,1 +1,0 @@
-﻿Arctic Mine		cube	Land – Plains Swamp 	312	C		(T: Add W or B.)NEWLINEWhenever Arctic Mine becomes tapped, you lose 1 life unless you control two or more basic lands.			normal	MC25		

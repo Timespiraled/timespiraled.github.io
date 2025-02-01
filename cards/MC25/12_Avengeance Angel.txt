@@ -1,1 +1,0 @@
-﻿Avengeance Angel	W	cube	Creature – Angel 	12	W	3WW	FlyingNEWLINEWhenever Avengeance Angel attacks, you may put a creature card with mana value 2 or less from your hand or graveyard onto the battlefield.	4/4		normal	MC25		!FT: PlasterManNEWLINE!design HerziQuerzi

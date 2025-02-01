@@ -1,1 +1,0 @@
-﻿Lumbering Thoctar	U	cube	Creature – Beast 	82	U	4UU	This spell can’t be countered.NEWLINETrampleNEWLINEWhenever Lumbering Thoctar becomes the target of a spell or ability, counter it. Then put a stun counter on Lumbering Thoctar.NEWLINEWhenever Lumbering Thoctar becomes untapped, draw a card.	6/6		normal	MC25		!Community: HerziQuerzi

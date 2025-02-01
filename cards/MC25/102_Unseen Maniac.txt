@@ -1,1 +1,0 @@
-﻿Unseen Maniac	U	cube	Creature – Human Rogue 	102	U	1U	Discard a card: Unseen Maniac gets +1/+1 and can’t be blocked this turn.NEWLINEWhenever Unseen Maniac deals combat damage to a player, draw a card.	1/1		normal	MC25		!FT: fluffyDeathbringer2

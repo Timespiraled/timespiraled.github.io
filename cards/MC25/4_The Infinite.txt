@@ -1,1 +1,0 @@
-﻿The Infinite		cube	Legendary Creature – Angel 	4	C	8	FlyingNEWLINEYou pay 0 to cast your first spell each turn rather than its mana cost. If you cast a spell with X in its mana cost this way, X is 8.	4/8		normal	MC25		!design Fleur

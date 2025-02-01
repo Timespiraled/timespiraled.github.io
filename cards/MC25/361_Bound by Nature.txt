@@ -1,1 +1,0 @@
-﻿Bound by Nature	G	cube	Enchantment	361	G	XXGG	Bound by Nature enters with X nature counters on it.NEWLINEYou can’t cast nonpermanent spells.NEWLINECreatures you control get +1/+1 for each nature counter on Bound by Nature and have “T: Add G.”			normal	MC25		

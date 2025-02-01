@@ -1,1 +1,0 @@
-﻿Imagine	U	cube	Sorcery	76	U	U	Shuffle any number of cards from your graveyard into your library.NEWLINEScry 1, then draw a card.			normal	MC25		!FT: fluffyDeathbringer2

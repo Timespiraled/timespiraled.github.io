@@ -1,1 +1,0 @@
-﻿Fiery Erasure	R	cube	Instant	177	R	R	Fiery Erasure deals 3 damage to target creature or planeswalker. If that permanent would die this turn, exile it instead.			normal	MC25		!FT: Mako

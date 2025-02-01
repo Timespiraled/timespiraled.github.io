@@ -1,1 +1,0 @@
-﻿Ubitsa Forge		cube	Artifact	304	C	3	Spirited (When this enters, you may activate one of its activated abilities without paying its cost.)NEWLINE5, T, Discard a card: Create a 0/0 colorless Construct artifact creature token with “This creature gets +1/+1 for each artifact you control.” It can’t block this turn.			normal	MC25		!Community: Pipsqueak

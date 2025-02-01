@@ -1,1 +1,0 @@
-﻿Veiled by the Blizzard	U	cube	Instant	103	U	U	Until end of turn, you may cast creature spells as though they had flash.NEWLINECreatures you control can’t be the targets of spells or abilities your opponents control this turn.			normal	MC25		

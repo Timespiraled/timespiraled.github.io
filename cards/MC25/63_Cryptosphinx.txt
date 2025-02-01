@@ -1,1 +1,0 @@
-﻿Cryptosphinx	U	cube	Enchantment Creature – Sphinx 	63	U	3UU	FlyingNEWLINEBreach (Whenever this deals combat damage to a player, you may have it become an Aura Curse until your next turn. Attach it to that player.)NEWLINEWhenever a cursed opponent draws a card, you may draw two cards.	4/6		normal	MC25		

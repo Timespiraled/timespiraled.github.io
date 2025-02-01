@@ -1,1 +1,0 @@
-﻿From Ancient Tomes	R	cube	Sorcery	180	R	R	Target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it. Mana cost includes color.)			normal	MC25		

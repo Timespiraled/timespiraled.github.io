@@ -1,1 +1,0 @@
-﻿Damning Flames	R	cube	Instant	170	R	1R	Tithe (As you cast this spell, you may tap three artifacts and/or creatures you control.)NEWLINEDamning Flames deals 3 damage to any target. If this spell’s tithe was paid, it deals 6 damage instead.			normal	MC25		

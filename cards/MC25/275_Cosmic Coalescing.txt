@@ -1,1 +1,0 @@
-﻿Cosmic Coalescing	UR	cube	Instant	275	UR	XUR	Cosmic Coalescing deals X damage to any target. You may reveal a noncreature card with mana value X or less you own from outside the game and put it into your hand. X can’t be 0.NEWLINEExile Cosmic Coalescing.			normal	MC25		

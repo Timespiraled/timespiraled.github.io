@@ -1,1 +1,0 @@
-﻿Fungal Mire		cube	Land – Swamp Forest 	328	C		(T: Add B or G.)NEWLINEFungal Mire enters tapped unless you control a basic Swamp or a basic Forest.			normal	MC25		

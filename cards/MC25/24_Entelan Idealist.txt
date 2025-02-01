@@ -1,1 +1,0 @@
-﻿Entelan Idealist	W	cube	Creature – Human Wizard Scout 	24	W	W	Whenever you make first contact, Entelan Idealist gets +2/+2 until end of turn. (You make first contact the first time each turn you cast a spell with a name not in your graveyard or control already.)	0/1		normal	MC25		!FT: gynoidpoet

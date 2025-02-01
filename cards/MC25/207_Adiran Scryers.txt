@@ -1,1 +1,0 @@
-﻿Adiran Scryers	G	cube	Creature – Human Shaman 	207	G	G	T: Add one mana of any type that a land an opponent controls could produce.	1/1		normal	MC25		!FT: Opacana

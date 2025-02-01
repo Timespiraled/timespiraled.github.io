@@ -1,1 +1,0 @@
-﻿Beyond the Veil	W	cube	Enchantment	16	W	1W	When Beyond the Veil enters, another target nonland permanent phases out. (Treat it and anything attached to it as though they don’t exist.)NEWLINENonland permanents you don’t control with mana value 3 or less can’t phase in.			normal	MC25		

@@ -1,1 +1,0 @@
-﻿Lightblessed Claymore		cube	Artifact – Equipment 	296	C	3	When Lightblessed Claymore enters, attach it to target creature you control.NEWLINEEquipped creature gets +2/+0 and has lifelink.NEWLINEEquip 4			normal	MC25		

@@ -1,1 +1,0 @@
-﻿Inquisitive Tracker	G	cube	Creature – Badger Druid 	223	G	G	Graft 1 (This creature enters with a +1/+1 counter on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)NEWLINET: Add C.	0/1		normal	MC25		!Community: Zangy

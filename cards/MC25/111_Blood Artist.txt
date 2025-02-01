@@ -1,1 +1,0 @@
-﻿Blood Artist	B	cube	Creature – Vampire 	111	B	1B	Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life.	0/1		normal	MC25		!FT: Mako

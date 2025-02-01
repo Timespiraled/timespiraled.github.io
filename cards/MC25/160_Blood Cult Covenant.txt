@@ -1,1 +1,0 @@
-﻿Blood Cult Covenant	R	cube	Enchantment	160	R	1R	At the beginning of each end step, if an opponent lost life this turn, you may put a +1/+1 counter on target creature.NEWLINESacrifice a creature, Sacrifice Blood Cult Covenant: Blood Cult Covenant deals damage equal to the sacrificed creature’s power to any target.			normal	MC25		

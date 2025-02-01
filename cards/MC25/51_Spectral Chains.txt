@@ -1,1 +1,0 @@
-﻿Spectral Chains	W	cube	Enchantment – Aura 	51	W	2W	Enchant creatureNEWLINEWhen Spectral Chains enters, create two 1/1 white Spirit creature tokens with flying.NEWLINEAs long as you control a creature, enchanted creature can’t attack or block and its activated abilities can’t be activated.			normal	MC25		

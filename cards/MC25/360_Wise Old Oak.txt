@@ -1,1 +1,0 @@
-﻿Wise Old Oak		cube	Land	360	G		Wise Old Oak enters tapped unless you control a basic Forest.NEWLINET: Add G.NEWLINE3GG: Until end of turn, Wise Old Oak becomes a 4/4 green Treefolk creature with “Whenever this creature deals combat damage to a player, draw a card.” It’s still a land.			normal	MC25		

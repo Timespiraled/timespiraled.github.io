@@ -1,1 +1,0 @@
-﻿Pestilent Scavenger	B	cube	Creature – Rat Rogue 	142	B	B	DeathtouchNEWLINEWhen Pestilent Scavenger enters, you may mill three cards.	1/1		normal	MC25		!FT: Mako

@@ -1,1 +1,0 @@
-﻿Yeshin of New Humanity	G	cube	Legendary Artifact Creature – Construct 	255	G	2GG	1G: Create a 1/1 colorless Construct artifact creature token.NEWLINE2GG: Target creature you control becomes 4/4. (This lasts indefinitely.)NEWLINE4GGGG: Put four +1/+1 counters on each creature you control with power 4 or greater.	4/4		normal	MC25		!design Nix

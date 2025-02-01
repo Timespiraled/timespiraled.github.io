@@ -1,1 +1,0 @@
-﻿Scarletblood Hound	R	cube	Creature – Hound 	200	R	2R	HasteNEWLINEMotley – At the beginning of your upkeep, if there are five or more names among nonland permanents you control, Scarletblood Hound deals 3 damage to each opponent.	3/1		normal	MC25		

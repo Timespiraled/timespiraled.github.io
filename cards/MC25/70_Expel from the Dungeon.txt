@@ -1,1 +1,0 @@
-﻿Expel from the Dungeon	U	cube	Instant	70	U	3U	Target player chooses a creature they control, then returns all other creatures they control to their owners’ hands.			normal	MC25		!FT: gynoidpoet

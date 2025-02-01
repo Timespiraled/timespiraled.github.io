@@ -1,1 +1,0 @@
-﻿Brimstone Oration	R	cube	Instant	163	R	R	Foretell 1R (During your turn, you may pay 2 and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)NEWLINEBrimstone Oration deals 2 damage to any target. If this spell was foretold, it deals 4 damage to any target instead.			normal	MC25		

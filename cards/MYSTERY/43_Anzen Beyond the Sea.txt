@@ -1,1 +1,0 @@
-﻿Anzen, Beyond the Sea		cube	Legendary Land	43	C		Each land is an Island in addition to its other land types.			normal	MYSTERY		1

@@ -1,1 +1,0 @@
-﻿Zareen's Pariah		cube	Creature – Djinn Shaman 	6	WUBRG	6	Zareen’s Pariah is all colors.NEWLINEFlyingNEWLINEDuring each of your turns, you may cast a spell of each color from your graveyard.	5/4		normal	MC25		

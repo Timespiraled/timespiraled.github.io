@@ -1,1 +1,0 @@
-﻿Timeworn Crags		cube	Land	358	C		T: Add C.NEWLINE4, T, Sacrifice Timeworn Crags: Destroy target nonbasic land. This ability costs 1 less to activate for each nonbasic land you don’t control.			normal	MC25		

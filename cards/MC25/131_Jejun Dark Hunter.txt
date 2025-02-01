@@ -1,1 +1,0 @@
-﻿Jejun, Dark Hunter	B	cube	Legendary Creature – Demon 	131	B	4BB	Bloodprice BBBB (You may cast this card by sacrificing a creature and paying its bloodprice.)NEWLINELifelink, hasteNEWLINESacrifice another Demon: Jejun, Dark Hunter gains flying and indestructible until end of turn.	6/6		normal	MC25		

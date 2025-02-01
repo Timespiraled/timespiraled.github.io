@@ -1,1 +1,0 @@
-﻿Stardust Surveyor	G	cube	Creature – Human Warrior 	245	G	1GG	Trample, ward 1NEWLINEWhenever Stardust Surveyor deals combat damage to a player, you may mill cards until you mill a creature card. When you do, return target creature card from your graveyard to your hand.	3/3		normal	MC25		

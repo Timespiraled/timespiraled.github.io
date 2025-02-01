@@ -1,1 +1,0 @@
-﻿Fires of Renewal	R	cube	Instant	178	R	2R	Fires of Renewal deals 2 damage to each creature.NEWLINECreate a Treasure token.			normal	MC25		!FT: Mako

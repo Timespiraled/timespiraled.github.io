@@ -1,1 +1,0 @@
-﻿Cai Lan, the Puppeteer	W	cube	Legendary Creature – Human Bard 	19	W	1WW	VigilanceNEWLINEWhen Cai Lan enters, exile target nonland permanent an opponent controls with mana value 2 or less. Its controller creates an Idol token. (It’s an artifact with “1, Sacrifice this artifact: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)	2/3		normal	MC25		

@@ -1,1 +1,0 @@
-﻿Villainy	B	cube	Enchantment	17	B	BBB	Whenever one or more creatures die for the first time each turn, you draw a card and you lose 1 life.NEWLINEWhenever you cast a black noncreature spell, Villainy deals 2 damage to any target and you gain 2 life.			normal	MYSTERY		2

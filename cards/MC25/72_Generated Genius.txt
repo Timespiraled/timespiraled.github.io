@@ -1,1 +1,0 @@
-﻿Generated Genius	U	cube	Instant	72	U	3UU	Draw two cards.NEWLINEYou may cast an instant or sorcery spell with mana value 3 or less from your hand or graveyard without paying its mana cost. If that spell would be put into a graveyard, exile it instead.			normal	MC25		

@@ -1,1 +1,0 @@
-﻿Yri, the Daring Blade	B	cube	Legendary Creature – Human Rogue 	19	B	B	Whenever Yri, the Daring Blade and exactly one other creature attack, Yri and that creature can’t be blocked by creatures with mana value 3 or less this turn. 	2/1		normal	MYSTERY		3

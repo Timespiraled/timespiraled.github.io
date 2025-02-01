@@ -1,1 +1,0 @@
-﻿Sedraxis Trepanator	B	cube	Creature – Zombie Mutant Warrior 	148	B	B	T, Sacrifice a creature: Target player discards a card and loses 1 life. Activate only as a sorcery.	1/2		normal	MC25		!FT: Mako

@@ -1,1 +1,0 @@
-﻿Cresting Bay		cube	Land	318	U		Cresting Bay enters tapped unless you control a basic Island.NEWLINET: Add U.NEWLINE2UU: Until end of turn, Cresting Bay becomes a 3/3 blue Elemental creature with “Whenever this creature attacks, you may draw a card then discard a card.” It’s still a land.			normal	MC25		

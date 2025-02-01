@@ -1,1 +1,0 @@
-﻿Legion of Giradrus	B	cube	Creature – Skeleton Army 	134	B	B	B, T, Discard a card: Create a 1/1 black Skeleton creature token.NEWLINEB, T, Sacrifice a creature: Put a +1/+1 counter on each Skeleton you control.	1/1		normal	MC25		

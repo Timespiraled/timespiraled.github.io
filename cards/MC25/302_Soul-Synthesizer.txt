@@ -1,1 +1,0 @@
-﻿Soul-Synthesizer		cube	Artifact	302	C	1	1, T, Sacrifice Soul-Synthesizer : Look at the top seven cards of your library. You may reveal a card with an activated ability from among them and put it into your hand. Put the rest on the bottom of your library in any order.			normal	MC25		

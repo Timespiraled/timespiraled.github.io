@@ -1,1 +1,0 @@
-﻿Conscious Taboo	W	cube	Creature – Spirit 	23	W	1W	When Conscious Taboo enters, look at target opponent’s hand. You may exile a noncreature, nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs 2 more to cast.	2/1		normal	MC25		

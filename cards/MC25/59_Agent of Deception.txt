@@ -1,1 +1,0 @@
-﻿Agent of Deception	U	cube	Creature – Merfolk Rogue 	59	U	1U	FlashNEWLINEWhen Agent of Deception enters, counter target creature or planeswalker spell unless its controller pays X, where X is your devotion to blue. (Each U in the mana costs of permanents you control counts toward your devotion to blue.)	1/1		normal	MC25		

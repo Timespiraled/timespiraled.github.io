@@ -1,1 +1,0 @@
-﻿Grim Bastion		cube	Land	330	C		As Grim Bastion enters, you may pay 2 life. If you don’t, Grim Bastion enters tapped.NEWLINET, Sacrifice Grim Bastion: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.			normal	MC25		!design Timespiraled

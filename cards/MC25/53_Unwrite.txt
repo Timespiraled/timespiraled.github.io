@@ -1,1 +1,0 @@
-﻿Unwrite	W	cube	Instant	53	W	1W	Choose one –NEWLINE• Unwrite deals 3 damage to target attacking or blocking creature.NEWLINE• Destroy target artifact.NEWLINE• Destroy target enchantment.			normal	MC25		

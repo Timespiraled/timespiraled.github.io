@@ -1,1 +1,0 @@
-﻿Nitrous Renewer	G	cube	Creature – Insect 	232	G	G	When Nitrous Renewer enters, you may put a land card from your hand onto the battlefield tapped.NEWLINE3G, Exile Nitrous Renewer from your graveyard: Return target land card from your graveyard to your hand. Activate only as a sorcery.	0/1		normal	MC25		

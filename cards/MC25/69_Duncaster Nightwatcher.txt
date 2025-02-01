@@ -1,1 +1,0 @@
-﻿Duncaster Nightwatcher	U	cube	Creature – Human Detective 	69	U	3U	When Duncaster Nightwatcher enters and whenever you cast a noncreature spell, create a 1/1 colorless Human creature token.NEWLINEWhenever you attack with three or more creatures, return target noncreature, nonland card with mana value 3 or less from your graveyard to your hand.	2/2		normal	MC25		

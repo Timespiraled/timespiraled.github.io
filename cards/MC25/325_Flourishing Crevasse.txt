@@ -1,1 +1,0 @@
-﻿Flourishing Crevasse		cube	Land – Mountain Forest 	325	C		(T: Add R or G.)NEWLINEFlourishing Crevasse enters tapped unless you control a basic Mountain or a basic Forest.			normal	MC25		

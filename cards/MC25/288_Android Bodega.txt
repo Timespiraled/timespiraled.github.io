@@ -1,1 +1,0 @@
-﻿Android Bodega		cube	Artifact	288	C	2	Spirited (When this enters, you may activate one of its activated abilities without paying its cost.)NEWLINE1, T, Discard a card: You gain 4 life.NEWLINE2, T, Pay 2 life: Create a 1/1 colorless Construct artifact creature token. It can’t block this turn.NEWLINE3, T, Sacrifice a permanent: Draw a card.			normal	MC25		!Community: gynoidpoet

@@ -1,1 +1,0 @@
-﻿Lian Taizi, Bountiful Earth	G	cube	Legendary Creature – Elder Dragon 	362	G	5GG	TrampleNEWLINELian Taizi gets +1/+1 for each card in your hand.NEWLINEWhen Lian Taizi enters, return any number of target cards with different mana values from your graveyard to your hand.	1/1		normal	MC25		

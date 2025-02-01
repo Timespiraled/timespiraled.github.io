@@ -1,1 +1,0 @@
-﻿Crimson Knight	R	cube	Creature – Human Knight 	167	R	RR	HasteNEWLINERRR, Discard your hand, Sacrifice Crimson Knight: Draw three cards.	2/2		normal	MC25		!FT: PlasterMan

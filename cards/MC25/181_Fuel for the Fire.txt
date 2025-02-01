@@ -1,1 +1,0 @@
-﻿Fuel for the Fire	R	cube	Instant	181	R	1R	Choose one –NEWLINE• Fuel for the Fire deals 5 damage to target creature or planeswalker. Its controller creates a tapped Treasure token. If a permanent dealt damage this way would die this turn, exile it instead.NEWLINE• Exile target artifact. Its controller creates a tapped Treasure token.			normal	MC25		!Community: Matt

@@ -1,1 +1,0 @@
-﻿Gathering the Gang	WG	cube	Enchantment	269	WG	2GW	Whenever one or more +1/+1 counters are put on a creature you control, you may search your library for a creature card, reveal it, put it into your hand, then shuffle.			normal	MC25		

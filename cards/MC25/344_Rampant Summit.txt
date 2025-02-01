@@ -1,1 +1,0 @@
-﻿Rampant Summit		cube	Land – Mountain Forest 	344	C		(T: Add R or G.)NEWLINEWhenever Rampant Summit becomes tapped, you lose 1 life unless you control two or more basic lands.			normal	MC25		

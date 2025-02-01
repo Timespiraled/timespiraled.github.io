@@ -1,1 +1,0 @@
-﻿Field Tender	G	cube	Creature – Human Peasant 	221	G	1GG	You may play lands from your graveyard.NEWLINEWhenever a land you control enters, create a 1/1 white Peasant creature token.	1/2		normal	MC25		!FT: Popcornia

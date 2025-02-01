@@ -1,1 +1,0 @@
-﻿Unicorn of the Vale		cube	Artifact Creature – Unicorn 	305	C	3	T: Add one mana of any color.NEWLINET, Sacrifice Unicorn of the Vale: Add three mana of any one color.	1/1		normal	MC25		!FT: fluffydeathbringer2

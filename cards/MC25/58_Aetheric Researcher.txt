@@ -1,1 +1,0 @@
-﻿Aetheric Researcher	U	cube	Creature – Human Scientist 	58	U	U	Whenever you make first contact, you may draw a card. If you do, put a card from your hand on the bottom of your library. (You make first contact the first time each turn you cast a spell with a name not in your graveyard or control already.)	1/1		normal	MC25		

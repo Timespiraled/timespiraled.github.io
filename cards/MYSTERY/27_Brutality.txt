@@ -1,1 +1,0 @@
-﻿Brutality	G	cube	Enchantment	27	G	GGG	Whenever one or more creatures you control deal combat damage to a player, you may destroy target artifact or enchantment that player controls.NEWLINEWhenever you cast a green creature spell, create a 3/3 green Wurm creature token with trample.			normal	MYSTERY		2

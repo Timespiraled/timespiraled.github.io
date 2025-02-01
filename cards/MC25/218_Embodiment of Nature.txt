@@ -1,1 +1,0 @@
-﻿Embodiment of Nature	G	cube	Creature – Ox Spirit 	218	G	3GG	At the beginning of combat on your turn, choose one –NEWLINE• Embodiment of Nature gains haste and hexproof until your next turn.NEWLINE• Embodiment of Nature gains vigilance and indestructible until your next turn.NEWLINE• Embodiment of Nature gets +2/+2 and gains trample until your next turn.	5/5		normal	MC25		

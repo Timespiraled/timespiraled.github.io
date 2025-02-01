@@ -1,1 +1,0 @@
-﻿Arroyo, Infinitely Branching	B	cube	Legendary Creature – Reflection 	109	B	2BB	Once during each of your turns, when a card is put into a graveyard from anywhere, you may cast it. You may spend mana of any color to cast that spell.NEWLINEWhen Arroyo, Infinitely Branching is put into your graveyard from anywhere, you may cast it.	4/4		normal	MC25		!design Cajun

@@ -1,1 +1,0 @@
-﻿Minister of Zealots	R	cube	Creature – Human Cleric 	189	R	1R	At the beginning of combat on your turn, create a 1/1 red Cleric creature token with haste.NEWLINEAt the beginning of your end step, sacrifice each Cleric token you control unless you’ve cast an instant or sorcery spell this turn.	2/1		normal	MC25		

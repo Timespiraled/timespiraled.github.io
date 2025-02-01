@@ -1,1 +1,0 @@
-﻿Sinner's Solace	B	cube	Sorcery	151	B	1B	Target opponent reveals their hand. You choose a card from it. Exile that card. If a land card is exiled this way, its owner may conjure a card named Plains, Island, Swamp, Mountain, or Forest on top of their library.			normal	MC25		!Community: Timespiraled

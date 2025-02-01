@@ -1,1 +1,0 @@
-﻿Diligent Fishermen	U	cube	Creature – Human Citizen 	66	U	1U	When Diligent Fishermen enters, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.	1/3		normal	MC25		

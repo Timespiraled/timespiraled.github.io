@@ -1,1 +1,0 @@
-﻿Verdant Sanctuary	G	cube	Enchantment	248	G	1G	You may play basic land cards you own from outside the game.			normal	MC25		!FT: softwood1

@@ -1,1 +1,0 @@
-﻿Realm Crossers	U	cube	Creature – Human Scout 	4	U	3U	Flying, ward 2NEWLINEWhenever Realm Crossers deals combat damage to a player, create a blue enchantment token named Tambo with “At the beginning of your upkeep, draw a card if you control a Scout.”	3/3		normal	CHAMP		

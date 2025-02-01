@@ -1,1 +1,0 @@
-﻿Xira, Scatterer of Seeds	G	cube	Legendary Creature – Dryad 	254	G	G	Ferocious – Whenever a creature with power 4 or greater you control enters, untap all lands you control.	0/1		normal	MC25		!FT: softwood1

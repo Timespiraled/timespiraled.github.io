@@ -1,1 +1,0 @@
-﻿Heart of Zhedina		cube	Legendary Land	332	C		T: Add C.NEWLINEWanderlust – T: Add one mana of any color. Activate only if you control four or more differently named lands. If you control seven or more, you may add three mana of that color instead.			normal	MC25		!designer pkchu

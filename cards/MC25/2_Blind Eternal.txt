@@ -1,1 +1,0 @@
-﻿Blind Eternal		cube	Creature – Eldrazi 	2	C	9	FlyingNEWLINEBlind Eternal can’t be blocked by creatures with mana value 2 or less.NEWLINE3, Discard Blind Eternal: Search your library for a noncreature card with a mana ability, reveal it, put it into your hand, then shuffle. Activate only as a sorcery.	8/8		normal	MC25		!design Timespiraled

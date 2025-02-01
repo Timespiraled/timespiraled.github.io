@@ -1,1 +1,0 @@
-﻿Critters' Companion	G	cube	Creature – Bird Shaman 	215	G	G	T, Tap two other untapped creatures you control: Add two mana of any one color.	1/1		adventure	MC25		Eternal Bond	G	Sorcery – Adventure 	G	2G	Create two 1/1 green Frog creature tokens. (Then exile this card. You may cast the creature later from exile.)				

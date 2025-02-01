@@ -1,1 +1,0 @@
-﻿Nherix, the Soulcage	B	cube	Legendary Creature – Horror Warlock 	139	UB	1B	U/BU/B: Return Nherix, the Soulcage from your graveyard to the battlefield tapped.NEWLINE6: Return target creature card with mana value 2 or less from your graveyard to the battlefield tapped.	1/1		normal	MC25		

@@ -1,1 +1,0 @@
-﻿Century Genius	UR	cube	Creature – Human Warrior 	274	UR	1UR	Prowess, prowess, prowessNEWLINENoncreature spells you cast cost 1 less to cast.	1/1		normal	MC25		!Community: Purplemurasaki

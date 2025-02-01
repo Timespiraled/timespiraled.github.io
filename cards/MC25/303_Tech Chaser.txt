@@ -1,1 +1,0 @@
-﻿Tech Chaser		cube	Artifact Creature – Drone 	303	C	2	Flying, hasteNEWLINEWhen Tech Chaser enters, exile the top three cards of target opponent’s library. NEWLINEWhenever Tech Chaser deals combat damage to an opponent, you may cast a card exiled with it, and you may spend mana as though it were mana of any color to cast it.	1/1		normal	MC25		!Community: Purplemurasaki

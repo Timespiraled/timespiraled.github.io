@@ -1,1 +1,0 @@
-﻿Forbiddance	U	cube	Instant	71	U	UU	Counter target permanent spell.			normal	MC25		!FT: Splashcat

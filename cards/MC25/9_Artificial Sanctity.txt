@@ -1,1 +1,0 @@
-﻿Artificial Sanctity	W	cube	Enchantment	9	W	4W	Creatures you control get +2/+2.NEWLINELifecycle 3 (3, Discard this card: Create two tapped 1/1 colorless Elemental creature tokens.)			normal	MC25		!FT: Mako

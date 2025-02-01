@@ -1,1 +1,0 @@
-﻿Mindwave Rod		cube	Artifact – Equipment 	40	C	2	When Mindwave Rod enters, attach it to target creature you control.NEWLINEEquipped creature gets +1/+1 and has “Whenever this creature deals combat damage to a player, draw a card.”NEWLINEEquip 2			normal	MYSTERY		2

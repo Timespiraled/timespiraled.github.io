@@ -1,1 +1,0 @@
-﻿Way of Water	U	cube	Instant	104	U	1U	Counter up to one target spell unless its controller pays 2. Until end of turn, you may cast spells as though they had flash.			normal	MC25		!FT: gynoidpoetNEWLINE!design TEST

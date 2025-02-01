@@ -1,1 +1,0 @@
-﻿Forgotten Steppe		cube	Land – Mountain Plains 	326	C		(T: Add R or W.)NEWLINEWhenever Forgotten Steppe becomes tapped, you lose 1 life unless you control two or more basic lands.			normal	MC25		

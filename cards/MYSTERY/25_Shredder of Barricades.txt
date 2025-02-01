@@ -1,1 +1,0 @@
-﻿Shredder of Barricades	R	cube	Creature – Werewolf 	25	R	1RR	HasteNEWLINEEach creature with toughness greater than its power can’t block.	3/2		normal	MYSTERY		1

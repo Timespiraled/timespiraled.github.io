@@ -1,1 +1,0 @@
-﻿Heartforge Savant	R	cube	Creature – Human Wizard 	182	R	1R	TrampleNEWLINEWhenever you cast a noncreature spell, crystallize. If you create a Treasure this way, Heartforge Savant deals 1 damage to you for each Treasure you’ve created this turn. (Put a +1/+1 counter on a creature you control or create a Treasure.)	1/1		normal	MC25		

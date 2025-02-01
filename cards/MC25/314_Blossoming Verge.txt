@@ -1,1 +1,0 @@
-﻿Blossoming Verge		cube	Land	314	C		T: Add C.NEWLINE3, T: Draw a card. Spend only mana produced by basic lands to activate this ability.			normal	MC25		!Community: Pipsqueak

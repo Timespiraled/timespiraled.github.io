@@ -1,1 +1,0 @@
-﻿Mob Rallier	G	cube	Creature – Human Citizen 	228	G	3GG	Other creatures you control get +2/+2.	5/5		normal	MC25		!FT: fluffyDeathbringer2

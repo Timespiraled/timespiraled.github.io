@@ -1,1 +1,0 @@
-﻿Elvish Wayfinder	G	cube	Creature – Elf Scout 	217	G	1G	Whenever Elvish Wayfinder enters or attacks, reveal the top four cards of your library. You may put a land card that doesn’t share a name with a land you control into your hand. Put the rest on the bottom of your library in any order.	2/1		normal	MC25		!design Dr Batman

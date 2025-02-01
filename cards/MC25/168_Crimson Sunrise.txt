@@ -1,1 +1,0 @@
-﻿Crimson Sunrise	R	cube	Sorcery	168	R	4RR	Crimson Sunrise deals 4 damage to each creature. Each player sacrifices four nonbasic lands.			normal	MC25		!FT: fluffyDeathbringer2

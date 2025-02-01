@@ -1,1 +1,0 @@
-﻿Arbor Protector	G	cube	Creature – Treefolk Shaman 	10	G	7GG	This spell costs 1 less to cast for each differently named land you control.NEWLINEReach, trample	6/6		normal	CHAMP		

@@ -1,1 +1,0 @@
-﻿Brightflame Phoenix	R	cube	Creature – Phoenix 	162	R	RR	Flying, hasteNEWLINEAt the beginning of the end step, sacrifice Brightflame Phoenix.NEWLINERetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)	3/1		normal	MC25		!designer Bergland

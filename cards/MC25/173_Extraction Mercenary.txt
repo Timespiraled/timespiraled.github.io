@@ -1,1 +1,0 @@
-﻿Extraction Mercenary	R	cube	Creature – Human Warrior 	173	R	R	When Extraction Mercenary enters, if you attacked this turn, crystallize. (Put a +1/+1 counter on a creature you control or create a Treasure.)NEWLINE4RR: Extraction Mercenary deals 3 damage to any target.	2/1		normal	MC25		

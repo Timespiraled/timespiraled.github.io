@@ -1,1 +1,0 @@
-﻿Slaffield Workgate	W	cube	Enchantment	7	W	W	Whenever Slaffield Workgate or another enchantment you control enters, create a 0/2 white Ox creature token.NEWLINE3W: Return another target enchantment you control to its owner’s hand.			normal	MYSTERY		1

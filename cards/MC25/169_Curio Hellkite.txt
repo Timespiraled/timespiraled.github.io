@@ -1,1 +1,0 @@
-﻿Curio Hellkite	R	cube	Creature – Dragon 	169	R	2RR	FlyingNEWLINEWhenever you make first contact, Curio Hellkite deals 2 damage to any target. (You make first contact the first time each turn you cast a spell with a name not in your graveyard or control already.)	3/3		normal	MC25		

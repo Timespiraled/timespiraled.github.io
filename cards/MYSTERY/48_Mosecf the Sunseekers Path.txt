@@ -1,1 +1,0 @@
-﻿Mosecf, the Sunseeker's Path		cube	Legendary Land – Plains 	48	C		Mosecf, the Sunseeker’s Path enters tapped.NEWLINEWhenever a creature you control attacks, put a creation counter on Mosecf.NEWLINET, Remove ten creation counters from Mosecf and sacrifice it: Creatures you control get +2/+2 and gain vigilance until end of turn. Activate only as a sorcery.			normal	MYSTERY		2

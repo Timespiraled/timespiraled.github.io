@@ -1,1 +1,0 @@
-﻿Creative Salvage	R	cube	Sorcery	166	R	R	As an additional cost to cast this spell, discard a nonland card.NEWLINEDraw two cards.			normal	MC25		!FT: Timespiraled

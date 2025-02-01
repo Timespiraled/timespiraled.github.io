@@ -1,1 +1,0 @@
-﻿Metal Munch	R	cube	Sorcery	188	R	R	Choose one –NEWLINE• Destroy target artifact.NEWLINE• Metal Munch deals 1 damage to each of up to two targets.			normal	MC25		!FT: gynoidpoet

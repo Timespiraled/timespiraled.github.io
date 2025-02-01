@@ -1,1 +1,0 @@
-﻿Goblin War Chariot		cube	Artifact – Vehicle 	293	C	2	HasteNEWLINEBattle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)NEWLINEWhenever Goblin War Chariot becomes crewed, untap each creature that crewed it with mana value 1 or less. This ability triggers only once each turn.NEWLINECrew 3	3/2		normal	MC25		!design Cool Beens

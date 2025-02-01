@@ -1,1 +1,0 @@
-﻿Heart of the Glade		cube	Land – Forest Plains 	331	C		(T: Add G or W.)NEWLINEHeart of the Glade enters tapped unless you control a basic Forest or a basic Plains.			normal	MC25		

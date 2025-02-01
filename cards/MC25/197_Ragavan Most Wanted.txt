@@ -1,1 +1,0 @@
-﻿Ragavan, Most Wanted	R	cube	Legendary Creature – Monkey Pirate 	197	R	R	As long as you control two or more other Pirates, Ragavan has haste.NEWLINEWhenever one or more Pirates you control deal combat damage to a player, create a tapped Treasure token.	2/1		normal	MC25		!design gynoidpoet

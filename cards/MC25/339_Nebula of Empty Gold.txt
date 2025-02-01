@@ -1,1 +1,0 @@
-﻿Nebula of Empty Gold		cube	Land	339	C		As Nebula of Empty Gold enters, choose two or three colors. You lose life equal to the number of colors chosen this way.NEWLINET: Add one mana of any of the chosen colors.			normal	MC25		
