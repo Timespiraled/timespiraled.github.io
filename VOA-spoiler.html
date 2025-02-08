@@ -1,0 +1,917 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="sets/VOA-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>VOA visual spoiler</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 3%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/VOA-files/logo.png" />
+	<img class="preload-hidden" src="/sets/CHAMP-files/icon.png" />
+		<img class="preload-hidden" src="/sets/MC25-files/icon.png" />
+		<img class="preload-hidden" src="/sets/VOA-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="CHAMP-spoiler"><img src="sets/CHAMP-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="img/dot.png"></img></div>
+		<div class="icon"><a href="MC25-spoiler"><img src="sets/MC25-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="img/dot.png"></img></div>
+		<div class="icon"><a href="VOA-spoiler"><img src="sets/VOA-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="sets/VOA-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img data-alt_src="sets\VOA-files\img\7_Aberrant Apostle_back.png" alt="sets\VOA-files\img\7_Aberrant Apostle_front.png" id="7_Aberrant Apostle" data-flag="@XD" onclick="openSidebar('7_Aberrant Apostle',false)"><button class="flip-btn" onclick="imgFlip(7_Aberrant Apostle)"></button></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\57_Acolyte of Water_back.png" alt="sets\VOA-files\img\57_Acolyte of Water_front.png" id="57_Acolyte of Water" data-flag="@XD" onclick="openSidebar('57_Acolyte of Water',false)"><button class="flip-btn" onclick="imgFlip(57_Acolyte of Water)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\107_The Afterlife Takes Its Due.png" id="107_The Afterlife Takes Its Due" data-flag="@X" onclick="openSidebar('107_The Afterlife Takes Its Due',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\157_Ambitious Truthseeker.png" id="157_Ambitious Truthseeker" data-flag="@X" onclick="openSidebar('157_Ambitious Truthseeker',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\207_Amorphous Tyrant.png" id="207_Amorphous Tyrant" data-flag="@X" onclick="openSidebar('207_Amorphous Tyrant',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\8_Abjuration Savant.png" id="8_Abjuration Savant" data-flag="@X" onclick="openSidebar('8_Abjuration Savant',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\58_Avid Researcher.png" id="58_Avid Researcher" data-flag="@X" onclick="openSidebar('58_Avid Researcher',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\108_Ashfeaster Ghouls_back.png" alt="sets\VOA-files\img\108_Ashfeaster Ghouls_front.png" id="108_Ashfeaster Ghouls" data-flag="@XD" onclick="openSidebar('108_Ashfeaster Ghouls',false)"><button class="flip-btn" onclick="imgFlip(108_Ashfeaster Ghouls)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\158_Archfiend of Rage.png" id="158_Archfiend of Rage" data-flag="@X" onclick="openSidebar('158_Archfiend of Rage',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\208_Ancient of the Glade.png" id="208_Ancient of the Glade" data-flag="@X" onclick="openSidebar('208_Ancient of the Glade',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\9_Akrianos' Command.png" id="9_Akrianos Command" data-flag="@X" onclick="openSidebar('9_Akrianos Command',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\59_Cephalovorous Flukes_back.png" alt="sets\VOA-files\img\59_Cephalovorous Flukes_front.png" id="59_Cephalovorous Flukes" data-flag="@XD" onclick="openSidebar('59_Cephalovorous Flukes',false)"><button class="flip-btn" onclick="imgFlip(59_Cephalovorous Flukes)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\109_Assault of the Conscripted.png" id="109_Assault of the Conscripted" data-flag="@X" onclick="openSidebar('109_Assault of the Conscripted',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\159_Austere Instructor.png" id="159_Austere Instructor" data-flag="@X" onclick="openSidebar('159_Austere Instructor',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\209_Arbor Protector.png" id="209_Arbor Protector" data-flag="@X" onclick="openSidebar('209_Arbor Protector',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\10_Atieh's Elite.png" id="10_Atiehs Elite" data-flag="@X" onclick="openSidebar('10_Atiehs Elite',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\60_Consult on Ages Lost.png" id="60_Consult on Ages Lost" data-flag="@X" onclick="openSidebar('60_Consult on Ages Lost',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\110_Astral Assassination.png" id="110_Astral Assassination" data-flag="@X" onclick="openSidebar('110_Astral Assassination',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\160_Autumnal Watch.png" id="160_Autumnal Watch" data-flag="@X" onclick="openSidebar('160_Autumnal Watch',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\210_Avatar of Plume de Val.png" id="210_Avatar of Plume de Val" data-flag="@X" onclick="openSidebar('210_Avatar of Plume de Val',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\11_Avaz Rising.png" id="11_Avaz Rising" data-flag="@X" onclick="openSidebar('11_Avaz Rising',true)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\61_Cosmic Sinkhole.png" id="61_Cosmic Sinkhole" data-flag="@X" onclick="openSidebar('61_Cosmic Sinkhole',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\111_Crisis in Kaneh.png" id="111_Crisis in Kaneh" data-flag="@X" onclick="openSidebar('111_Crisis in Kaneh',true)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\161_Blazing Exultation.png" id="161_Blazing Exultation" data-flag="@X" onclick="openSidebar('161_Blazing Exultation',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\211_Avatar of the Natural.png" id="211_Avatar of the Natural" data-flag="@X" onclick="openSidebar('211_Avatar of the Natural',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\12_Ayala's Blessing.png" id="12_Ayalas Blessing" data-flag="@X" onclick="openSidebar('12_Ayalas Blessing',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\62_Cursory Glance.png" id="62_Cursory Glance" data-flag="@X" onclick="openSidebar('62_Cursory Glance',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\112_Danaj Rising.png" id="112_Danaj Rising" data-flag="@X" onclick="openSidebar('112_Danaj Rising',true)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\162_Blood Cult Covenant.png" id="162_Blood Cult Covenant" data-flag="@X" onclick="openSidebar('162_Blood Cult Covenant',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\212_Babyscale Bruiser.png" id="212_Babyscale Bruiser" data-flag="@X" onclick="openSidebar('212_Babyscale Bruiser',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\13_Bearer of the Lantern.png" id="13_Bearer of the Lantern" data-flag="@X" onclick="openSidebar('13_Bearer of the Lantern',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\63_Dawn Over Nizev.png" id="63_Dawn Over Nizev" data-flag="@X" onclick="openSidebar('63_Dawn Over Nizev',true)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\113_Dark Rite Cultist.png" id="113_Dark Rite Cultist" data-flag="@X" onclick="openSidebar('113_Dark Rite Cultist',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\163_Brazen Sacrilege.png" id="163_Brazen Sacrilege" data-flag="@X" onclick="openSidebar('163_Brazen Sacrilege',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\213_Beyond All Horizons.png" id="213_Beyond All Horizons" data-flag="@X" onclick="openSidebar('213_Beyond All Horizons',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\14_Beyond the Veil.png" id="14_Beyond the Veil" data-flag="@X" onclick="openSidebar('14_Beyond the Veil',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\64_Duncaster Nightwatcher.png" id="64_Duncaster Nightwatcher" data-flag="@X" onclick="openSidebar('64_Duncaster Nightwatcher',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\114_Dawn Over Kaneh.png" id="114_Dawn Over Kaneh" data-flag="@X" onclick="openSidebar('114_Dawn Over Kaneh',true)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\164_Bustling Bazaar.png" id="164_Bustling Bazaar" data-flag="@X" onclick="openSidebar('164_Bustling Bazaar',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\214_Border Seeker.png" id="214_Border Seeker" data-flag="@X" onclick="openSidebar('214_Border Seeker',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\15_Blessing from Wings on High.png" id="15_Blessing from Wings on High" data-flag="@X" onclick="openSidebar('15_Blessing from Wings on High',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\65_Edge of the Water.png" id="65_Edge of the Water" data-flag="@X" onclick="openSidebar('65_Edge of the Water',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\115_Departed Evangel.png" id="115_Departed Evangel" data-flag="@X" onclick="openSidebar('115_Departed Evangel',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\165_Byte Blitz.png" id="165_Byte Blitz" data-flag="@X" onclick="openSidebar('165_Byte Blitz',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\215_Build Monsters from Relics.png" id="215_Build Monsters from Relics" data-flag="@X" onclick="openSidebar('215_Build Monsters from Relics',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\16_Castigated Sister.png" id="16_Castigated Sister" data-flag="@X" onclick="openSidebar('16_Castigated Sister',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\66_Flood of Information.png" id="66_Flood of Information" data-flag="@X" onclick="openSidebar('66_Flood of Information',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\116_Descend into Insanity.png" id="116_Descend into Insanity" data-flag="@X" onclick="openSidebar('116_Descend into Insanity',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\166_Calamari Dragon.png" id="166_Calamari Dragon" data-flag="@X" onclick="openSidebar('166_Calamari Dragon',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\216_Caller of Hunger.png" id="216_Caller of Hunger" data-flag="@X" onclick="openSidebar('216_Caller of Hunger',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\17_Celestial Concordance.png" id="17_Celestial Concordance" data-flag="@X" onclick="openSidebar('17_Celestial Concordance',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\67_Forbiddance.png" id="67_Forbiddance" data-flag="@X" onclick="openSidebar('67_Forbiddance',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\117_Doom.png" id="117_Doom" data-flag="@X" onclick="openSidebar('117_Doom',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\167_Casualty of War.png" id="167_Casualty of War" data-flag="@X" onclick="openSidebar('167_Casualty of War',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\217_Colossus of Alkabah.png" id="217_Colossus of Alkabah" data-flag="@X" onclick="openSidebar('217_Colossus of Alkabah',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\18_Change of Station.png" id="18_Change of Station" data-flag="@X" onclick="openSidebar('18_Change of Station',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\68_Fractured Prodigy.png" id="68_Fractured Prodigy" data-flag="@X" onclick="openSidebar('68_Fractured Prodigy',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\118_Doomed Explorer.png" id="118_Doomed Explorer" data-flag="@X" onclick="openSidebar('118_Doomed Explorer',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\168_Champion of Scales.png" id="168_Champion of Scales" data-flag="@X" onclick="openSidebar('168_Champion of Scales',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\218_Crewmaster Gillo.png" id="218_Crewmaster Gillo" data-flag="@X" onclick="openSidebar('218_Crewmaster Gillo',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\19_Conchhorn Shinygrabber.png" id="19_Conchhorn Shinygrabber" data-flag="@X" onclick="openSidebar('19_Conchhorn Shinygrabber',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\69_Golden Age.png" id="69_Golden Age" data-flag="@X" onclick="openSidebar('69_Golden Age',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\119_Dreadbearer.png" id="119_Dreadbearer" data-flag="@X" onclick="openSidebar('119_Dreadbearer',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\169_Crimson Hellmaw.png" id="169_Crimson Hellmaw" data-flag="@X" onclick="openSidebar('169_Crimson Hellmaw',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\219_Crisis in Avaz.png" id="219_Crisis in Avaz" data-flag="@X" onclick="openSidebar('219_Crisis in Avaz',true)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\20_Crisis in Soli.png" id="20_Crisis in Soli" data-flag="@X" onclick="openSidebar('20_Crisis in Soli',true)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\70_Hasan of Clashing Truths.png" id="70_Hasan of Clashing Truths" data-flag="@X" onclick="openSidebar('70_Hasan of Clashing Truths',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\120_Dutybound Ghul.png" id="120_Dutybound Ghul" data-flag="@X" onclick="openSidebar('120_Dutybound Ghul',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\170_Cyrukan Battleaxe.png" id="170_Cyrukan Battleaxe" data-flag="@X" onclick="openSidebar('170_Cyrukan Battleaxe',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\220_Danaj Sightseer.png" id="220_Danaj Sightseer" data-flag="@X" onclick="openSidebar('220_Danaj Sightseer',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\21_Dawn Over Soli.png" id="21_Dawn Over Soli" data-flag="@X" onclick="openSidebar('21_Dawn Over Soli',true)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\71_Horizon Augur_back.png" alt="sets\VOA-files\img\71_Horizon Augur_front.png" id="71_Horizon Augur" data-flag="@XD" onclick="openSidebar('71_Horizon Augur',false)"><button class="flip-btn" onclick="imgFlip(71_Horizon Augur)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\121_Fatal Decision.png" id="121_Fatal Decision" data-flag="@X" onclick="openSidebar('121_Fatal Decision',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\171_Dawn Over Avaz.png" id="171_Dawn Over Avaz" data-flag="@X" onclick="openSidebar('171_Dawn Over Avaz',true)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\221_Dawn Over Danaj.png" id="221_Dawn Over Danaj" data-flag="@X" onclick="openSidebar('221_Dawn Over Danaj',true)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\22_Deliverance Branch.png" id="22_Deliverance Branch" data-flag="@X" onclick="openSidebar('22_Deliverance Branch',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\72_Jahan, the Third Shah_back.png" alt="sets\VOA-files\img\72_Jahan, the Third Shah_front.png" id="72_Jahan, the Third Shah" data-flag="@XD" onclick="openSidebar('72_Jahan, the Third Shah',false)"><button class="flip-btn" onclick="imgFlip(72_Jahan, the Third Shah)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\122_Greedstoker Demon.png" id="122_Greedstoker Demon" data-flag="@X" onclick="openSidebar('122_Greedstoker Demon',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\172_Efreetspeaker.png" id="172_Efreetspeaker" data-flag="@X" onclick="openSidebar('172_Efreetspeaker',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\222_Distant Worlds.png" id="222_Distant Worlds" data-flag="@X" onclick="openSidebar('222_Distant Worlds',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\23_Disciple of Faradia.png" id="23_Disciple of Faradia" data-flag="@X" onclick="openSidebar('23_Disciple of Faradia',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\73_Juyu Offering Pool.png" id="73_Juyu Offering Pool" data-flag="@X" onclick="openSidebar('73_Juyu Offering Pool',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\123_Impden Mother.png" id="123_Impden Mother" data-flag="@X" onclick="openSidebar('123_Impden Mother',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\173_Emerald Warcaller_back.png" alt="sets\VOA-files\img\173_Emerald Warcaller_front.png" id="173_Emerald Warcaller" data-flag="@XD" onclick="openSidebar('173_Emerald Warcaller',false)"><button class="flip-btn" onclick="imgFlip(173_Emerald Warcaller)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\223_Dreaded of Sahra.png" id="223_Dreaded of Sahra" data-flag="@X" onclick="openSidebar('223_Dreaded of Sahra',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\24_Embodied Soul.png" id="24_Embodied Soul" data-flag="@X" onclick="openSidebar('24_Embodied Soul',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\74_Lurzog, Kytherax's Disciple.png" id="74_Lurzog, Kytheraxs Disciple" data-flag="@X" onclick="openSidebar('74_Lurzog, Kytheraxs Disciple',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\124_Infernal Portal.png" id="124_Infernal Portal" data-flag="@X" onclick="openSidebar('124_Infernal Portal',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\174_Enraptured Countess.png" id="174_Enraptured Countess" data-flag="@X" onclick="openSidebar('174_Enraptured Countess',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\224_Fardancer Liege.png" id="224_Fardancer Liege" data-flag="@X" onclick="openSidebar('224_Fardancer Liege',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\25_End of Days.png" id="25_End of Days" data-flag="@X" onclick="openSidebar('25_End of Days',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\75_Marilye, the Thieving Blade.png" id="75_Marilye, the Thieving Blade" data-flag="@X" onclick="openSidebar('75_Marilye, the Thieving Blade',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\125_Invoking the Name.png" id="125_Invoking the Name" data-flag="@X" onclick="openSidebar('125_Invoking the Name',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\175_Extraction Mercenary.png" id="175_Extraction Mercenary" data-flag="@X" onclick="openSidebar('175_Extraction Mercenary',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\225_From Unbidden Realms.png" id="225_From Unbidden Realms" data-flag="@X" onclick="openSidebar('225_From Unbidden Realms',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\26_Etlan High Priest.png" id="26_Etlan High Priest" data-flag="@X" onclick="openSidebar('26_Etlan High Priest',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\76_Martoob Lifeshaper.png" id="76_Martoob Lifeshaper" data-flag="@X" onclick="openSidebar('76_Martoob Lifeshaper',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\126_Jejun, Dark Hunter.png" id="126_Jejun, Dark Hunter" data-flag="@X" onclick="openSidebar('126_Jejun, Dark Hunter',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\176_Fiery Efreet.png" id="176_Fiery Efreet" data-flag="@X" onclick="openSidebar('176_Fiery Efreet',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\226_Golna, the First Shah_back.png" alt="sets\VOA-files\img\226_Golna, the First Shah_front.png" id="226_Golna, the First Shah" data-flag="@XD" onclick="openSidebar('226_Golna, the First Shah',false)"><button class="flip-btn" onclick="imgFlip(226_Golna, the First Shah)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\27_Helena, the Awakener.png" id="27_Helena, the Awakener" data-flag="@X" onclick="openSidebar('27_Helena, the Awakener',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\77_Master Negotiator.png" id="77_Master Negotiator" data-flag="@X" onclick="openSidebar('77_Master Negotiator',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\127_Kai'Long, the Call of the Dark.png" id="127_KaiLong, the Call of the Dark" data-flag="@X" onclick="openSidebar('127_KaiLong, the Call of the Dark',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\177_Firebolt.png" id="177_Firebolt" data-flag="@X" onclick="openSidebar('177_Firebolt',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\227_Hierarch Ranger.png" id="227_Hierarch Ranger" data-flag="@X" onclick="openSidebar('227_Hierarch Ranger',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\28_Herald of the White Orchid.png" id="28_Herald of the White Orchid" data-flag="@X" onclick="openSidebar('28_Herald of the White Orchid',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\78_Mirrorsoul Mage.png" id="78_Mirrorsoul Mage" data-flag="@X" onclick="openSidebar('78_Mirrorsoul Mage',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\128_Lizhao, Last Breath of the Yenzu.png" id="128_Lizhao, Last Breath of the Yenzu" data-flag="@X" onclick="openSidebar('128_Lizhao, Last Breath of the Yenzu',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\178_Flensing Tormentor_back.png" alt="sets\VOA-files\img\178_Flensing Tormentor_front.png" id="178_Flensing Tormentor" data-flag="@XD" onclick="openSidebar('178_Flensing Tormentor',false)"><button class="flip-btn" onclick="imgFlip(178_Flensing Tormentor)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\228_Hunter's Hideout.png" id="228_Hunters Hideout" data-flag="@X" onclick="openSidebar('228_Hunters Hideout',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\29_High Priest of Kahroba.png" id="29_High Priest of Kahroba" data-flag="@X" onclick="openSidebar('29_High Priest of Kahroba',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\79_Monkeyshines.png" id="79_Monkeyshines" data-flag="@X" onclick="openSidebar('79_Monkeyshines',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\129_Lizhao, Lord of the Yaogu.png" id="129_Lizhao, Lord of the Yaogu" data-flag="@X" onclick="openSidebar('129_Lizhao, Lord of the Yaogu',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\179_Furious Blow.png" id="179_Furious Blow" data-flag="@X" onclick="openSidebar('179_Furious Blow',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\229_Into Strange Territories.png" id="229_Into Strange Territories" data-flag="@X" onclick="openSidebar('229_Into Strange Territories',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\30_Hollow Simulacrum.png" id="30_Hollow Simulacrum" data-flag="@X" onclick="openSidebar('30_Hollow Simulacrum',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\80_One Person's Trash.png" id="80_One Persons Trash" data-flag="@X" onclick="openSidebar('80_One Persons Trash',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\130_Merchant of Flesh.png" id="130_Merchant of Flesh" data-flag="@X" onclick="openSidebar('130_Merchant of Flesh',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\180_Hao'Tai, the Ancient One.png" id="180_HaoTai, the Ancient One" data-flag="@X" onclick="openSidebar('180_HaoTai, the Ancient One',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\230_Jade Vault Reclaimer.png" id="230_Jade Vault Reclaimer" data-flag="@X" onclick="openSidebar('230_Jade Vault Reclaimer',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\31_Journey's End.png" id="31_Journeys End" data-flag="@X" onclick="openSidebar('31_Journeys End',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\81_Opulent Ankulim.png" id="81_Opulent Ankulim" data-flag="@X" onclick="openSidebar('81_Opulent Ankulim',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\131_Mind's Contagion.png" id="131_Minds Contagion" data-flag="@X" onclick="openSidebar('131_Minds Contagion',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\181_Hidden Cache_back.png" alt="sets\VOA-files\img\181_Hidden Cache_front.png" id="181_Hidden Cache" data-flag="@XD" onclick="openSidebar('181_Hidden Cache',false)"><button class="flip-btn" onclick="imgFlip(181_Hidden Cache)"></button></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\231_Jobiah, Devoted Farmer_back.png" alt="sets\VOA-files\img\231_Jobiah, Devoted Farmer_front.png" id="231_Jobiah, Devoted Farmer" data-flag="@XD" onclick="openSidebar('231_Jobiah, Devoted Farmer',false)"><button class="flip-btn" onclick="imgFlip(231_Jobiah, Devoted Farmer)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\32_Justiciar Overseer.png" id="32_Justiciar Overseer" data-flag="@X" onclick="openSidebar('32_Justiciar Overseer',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\82_Portal Fracture.png" id="82_Portal Fracture" data-flag="@X" onclick="openSidebar('82_Portal Fracture',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\132_A Most Important Prince.png" id="132_A Most Important Prince" data-flag="@X" onclick="openSidebar('132_A Most Important Prince',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\182_Ire of Ancient Tomes.png" id="182_Ire of Ancient Tomes" data-flag="@X" onclick="openSidebar('182_Ire of Ancient Tomes',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\232_Lasting Legacy.png" id="232_Lasting Legacy" data-flag="@X" onclick="openSidebar('232_Lasting Legacy',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\33_Knight of Valimir.png" id="33_Knight of Valimir" data-flag="@X" onclick="openSidebar('33_Knight of Valimir',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\83_Prodigious Panya.png" id="83_Prodigious Panya" data-flag="@X" onclick="openSidebar('83_Prodigious Panya',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\133_Mutual Destruction.png" id="133_Mutual Destruction" data-flag="@X" onclick="openSidebar('133_Mutual Destruction',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\183_Jal's Spawn.png" id="183_Jals Spawn" data-flag="@X" onclick="openSidebar('183_Jals Spawn',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\233_Leyran Alpha.png" id="233_Leyran Alpha" data-flag="@X" onclick="openSidebar('233_Leyran Alpha',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\34_Lijing, the True Divinity.png" id="34_Lijing, the True Divinity" data-flag="@X" onclick="openSidebar('34_Lijing, the True Divinity',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\84_Psionic Rebuke.png" id="84_Psionic Rebuke" data-flag="@X" onclick="openSidebar('84_Psionic Rebuke',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\134_Nether Fiend.png" id="134_Nether Fiend" data-flag="@X" onclick="openSidebar('134_Nether Fiend',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\184_Kui Mu Lang, Warden Below.png" id="184_Kui Mu Lang, Warden Below" data-flag="@X" onclick="openSidebar('184_Kui Mu Lang, Warden Below',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\234_Long-Term Method Actor.png" id="234_Long-Term Method Actor" data-flag="@X" onclick="openSidebar('234_Long-Term Method Actor',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\35_Lisa, the Daughter.png" id="35_Lisa, the Daughter" data-flag="@X" onclick="openSidebar('35_Lisa, the Daughter',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\85_Qing Long, Capricious Wind.png" id="85_Qing Long, Capricious Wind" data-flag="@X" onclick="openSidebar('85_Qing Long, Capricious Wind',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\135_Niu Mo Wang, Ashen Absolution.png" id="135_Niu Mo Wang, Ashen Absolution" data-flag="@X" onclick="openSidebar('135_Niu Mo Wang, Ashen Absolution',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\185_Mahnaz of Moonlit Blades.png" id="185_Mahnaz of Moonlit Blades" data-flag="@X" onclick="openSidebar('185_Mahnaz of Moonlit Blades',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\235_Mana Ascetic.png" id="235_Mana Ascetic" data-flag="@X" onclick="openSidebar('235_Mana Ascetic',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\36_Luna, Loyal Friend.png" id="36_Luna, Loyal Friend" data-flag="@X" onclick="openSidebar('36_Luna, Loyal Friend',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\86_Reconstructed Adept.png" id="86_Reconstructed Adept" data-flag="@X" onclick="openSidebar('86_Reconstructed Adept',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\136_One Bad Night.png" id="136_One Bad Night" data-flag="@X" onclick="openSidebar('136_One Bad Night',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\186_Master of Imports.png" id="186_Master of Imports" data-flag="@X" onclick="openSidebar('186_Master of Imports',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\236_Martoob Beastkeeper.png" id="236_Martoob Beastkeeper" data-flag="@X" onclick="openSidebar('236_Martoob Beastkeeper',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\37_Major Benjamin Stout.png" id="37_Major Benjamin Stout" data-flag="@X" onclick="openSidebar('37_Major Benjamin Stout',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\87_Redo.png" id="87_Redo" data-flag="@X" onclick="openSidebar('87_Redo',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\137_Pay Up.png" id="137_Pay Up" data-flag="@X" onclick="openSidebar('137_Pay Up',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\187_Merkurio's Familiar.png" id="187_Merkurios Familiar" data-flag="@X" onclick="openSidebar('187_Merkurios Familiar',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\237_Nylea, the Wild Chase.png" id="237_Nylea, the Wild Chase" data-flag="@X" onclick="openSidebar('237_Nylea, the Wild Chase',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\38_Mari, Dawn Resurgent.png" id="38_Mari, Dawn Resurgent" data-flag="@X" onclick="openSidebar('38_Mari, Dawn Resurgent',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\88_Reveal Eternities.png" id="88_Reveal Eternities" data-flag="@X" onclick="openSidebar('88_Reveal Eternities',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\138_Piruz, the Fourth Shah_back.png" alt="sets\VOA-files\img\138_Piruz, the Fourth Shah_front.png" id="138_Piruz, the Fourth Shah" data-flag="@XD" onclick="openSidebar('138_Piruz, the Fourth Shah',false)"><button class="flip-btn" onclick="imgFlip(138_Piruz, the Fourth Shah)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\188_Minister of Zealots.png" id="188_Minister of Zealots" data-flag="@X" onclick="openSidebar('188_Minister of Zealots',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\238_Ophorion Refugee.png" id="238_Ophorion Refugee" data-flag="@X" onclick="openSidebar('238_Ophorion Refugee',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\39_Once More with Heart.png" id="39_Once More with Heart" data-flag="@X" onclick="openSidebar('39_Once More with Heart',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\89_Satrapy Merchant.png" id="89_Satrapy Merchant" data-flag="@X" onclick="openSidebar('89_Satrapy Merchant',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\139_Profane Emissary.png" id="139_Profane Emissary" data-flag="@X" onclick="openSidebar('139_Profane Emissary',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\189_Paygan Archer.png" id="189_Paygan Archer" data-flag="@X" onclick="openSidebar('189_Paygan Archer',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\239_Osk, the Maker's Pet.png" id="239_Osk, the Makers Pet" data-flag="@X" onclick="openSidebar('239_Osk, the Makers Pet',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\40_Ostracizer Orb.png" id="40_Ostracizer Orb" data-flag="@X" onclick="openSidebar('40_Ostracizer Orb',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\90_Scuttling Gnat_back.png" alt="sets\VOA-files\img\90_Scuttling Gnat_front.png" id="90_Scuttling Gnat" data-flag="@XD" onclick="openSidebar('90_Scuttling Gnat',false)"><button class="flip-btn" onclick="imgFlip(90_Scuttling Gnat)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\140_Rapacious Demon.png" id="140_Rapacious Demon" data-flag="@X" onclick="openSidebar('140_Rapacious Demon',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\190_Purphoros, the Fervid Flame.png" id="190_Purphoros, the Fervid Flame" data-flag="@X" onclick="openSidebar('190_Purphoros, the Fervid Flame',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\240_Rethia Cultivator.png" id="240_Rethia Cultivator" data-flag="@X" onclick="openSidebar('240_Rethia Cultivator',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\41_Out-of-Body Experience.png" id="41_Out-of-Body Experience" data-flag="@X" onclick="openSidebar('41_Out-of-Body Experience',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\91_Search for a New Land.png" id="91_Search for a New Land" data-flag="@X" onclick="openSidebar('91_Search for a New Land',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\141_Reckoner of Kaneh.png" id="141_Reckoner of Kaneh" data-flag="@X" onclick="openSidebar('141_Reckoner of Kaneh',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\191_Ragavan, Most Wanted.png" id="191_Ragavan, Most Wanted" data-flag="@X" onclick="openSidebar('191_Ragavan, Most Wanted',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\241_Rhythm of Danaj.png" id="241_Rhythm of Danaj" data-flag="@X" onclick="openSidebar('241_Rhythm of Danaj',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\42_Parish Paragon.png" id="42_Parish Paragon" data-flag="@X" onclick="openSidebar('42_Parish Paragon',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\92_Seeker of Mysteries.png" id="92_Seeker of Mysteries" data-flag="@X" onclick="openSidebar('92_Seeker of Mysteries',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\142_Rhythm of Kaneh.png" id="142_Rhythm of Kaneh" data-flag="@X" onclick="openSidebar('142_Rhythm of Kaneh',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\192_Roggar the Furious.png" id="192_Roggar the Furious" data-flag="@X" onclick="openSidebar('192_Roggar the Furious',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\242_Sacrificial Bull.png" id="242_Sacrificial Bull" data-flag="@X" onclick="openSidebar('242_Sacrificial Bull',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\43_Polytheism.png" id="43_Polytheism" data-flag="@X" onclick="openSidebar('43_Polytheism',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\93_Settling of Soli.png" id="93_Settling of Soli" data-flag="@X" onclick="openSidebar('93_Settling of Soli',true)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\143_Satrapy Overseer.png" id="143_Satrapy Overseer" data-flag="@X" onclick="openSidebar('143_Satrapy Overseer',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\193_Satrapy Protector.png" id="193_Satrapy Protector" data-flag="@X" onclick="openSidebar('193_Satrapy Protector',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\243_Satrapy Courier.png" id="243_Satrapy Courier" data-flag="@X" onclick="openSidebar('243_Satrapy Courier',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\44_Promised Exaltation.png" id="44_Promised Exaltation" data-flag="@X" onclick="openSidebar('44_Promised Exaltation',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\94_Shatter Mortal Conveyances.png" id="94_Shatter Mortal Conveyances" data-flag="@X" onclick="openSidebar('94_Shatter Mortal Conveyances',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\144_Settling of Nizev.png" id="144_Settling of Nizev" data-flag="@X" onclick="openSidebar('144_Settling of Nizev',true)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\194_Scorch.png" id="194_Scorch" data-flag="@X" onclick="openSidebar('194_Scorch',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\244_Seeker of Untouched Beauty.png" id="244_Seeker of Untouched Beauty" data-flag="@X" onclick="openSidebar('244_Seeker of Untouched Beauty',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\45_Queen Andarli, the Fierce.png" id="45_Queen Andarli, the Fierce" data-flag="@X" onclick="openSidebar('45_Queen Andarli, the Fierce',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\95_Spectrum Archmage.png" id="95_Spectrum Archmage" data-flag="@X" onclick="openSidebar('95_Spectrum Archmage',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\145_Strike from the Shadows.png" id="145_Strike from the Shadows" data-flag="@X" onclick="openSidebar('145_Strike from the Shadows',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\195_Settling of Avaz.png" id="195_Settling of Avaz" data-flag="@X" onclick="openSidebar('195_Settling of Avaz',true)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\245_Settling of Danaj.png" id="245_Settling of Danaj" data-flag="@X" onclick="openSidebar('245_Settling of Danaj',true)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\46_Queen Hannaru_back.png" alt="sets\VOA-files\img\46_Queen Hannaru_front.png" id="46_Queen Hannaru" data-flag="@XD" onclick="openSidebar('46_Queen Hannaru',false)"><button class="flip-btn" onclick="imgFlip(46_Queen Hannaru)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\96_Sphinx of Ill Omens.png" id="96_Sphinx of Ill Omens" data-flag="@X" onclick="openSidebar('96_Sphinx of Ill Omens',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\146_Sudden Drought.png" id="146_Sudden Drought" data-flag="@X" onclick="openSidebar('146_Sudden Drought',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\196_Shae, Master Evoker.png" id="196_Shae, Master Evoker" data-flag="@X" onclick="openSidebar('196_Shae, Master Evoker',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\246_Soli Rising.png" id="246_Soli Rising" data-flag="@X" onclick="openSidebar('246_Soli Rising',true)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\47_Runeclad Seeker.png" id="47_Runeclad Seeker" data-flag="@X" onclick="openSidebar('47_Runeclad Seeker',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\97_Steward of Second Sphere.png" id="97_Steward of Second Sphere" data-flag="@X" onclick="openSidebar('97_Steward of Second Sphere',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\147_Surge of Darkness.png" id="147_Surge of Darkness" data-flag="@X" onclick="openSidebar('147_Surge of Darkness',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\197_Shapur, the Fifth Shah_back.png" alt="sets\VOA-files\img\197_Shapur, the Fifth Shah_front.png" id="197_Shapur, the Fifth Shah" data-flag="@XD" onclick="openSidebar('197_Shapur, the Fifth Shah',false)"><button class="flip-btn" onclick="imgFlip(197_Shapur, the Fifth Shah)"></button></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\247_Sower of Wishes_back.png" alt="sets\VOA-files\img\247_Sower of Wishes_front.png" id="247_Sower of Wishes" data-flag="@XD" onclick="openSidebar('247_Sower of Wishes',false)"><button class="flip-btn" onclick="imgFlip(247_Sower of Wishes)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\48_Satrapy General.png" id="48_Satrapy General" data-flag="@X" onclick="openSidebar('48_Satrapy General',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\98_Streetwise Spellseeker.png" id="98_Streetwise Spellseeker" data-flag="@X" onclick="openSidebar('98_Streetwise Spellseeker',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\148_Tomb Steward_back.png" alt="sets\VOA-files\img\148_Tomb Steward_front.png" id="148_Tomb Steward" data-flag="@XD" onclick="openSidebar('148_Tomb Steward',false)"><button class="flip-btn" onclick="imgFlip(148_Tomb Steward)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\198_Strongarm.png" id="198_Strongarm" data-flag="@X" onclick="openSidebar('198_Strongarm',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\248_Spawn of Andazir.png" id="248_Spawn of Andazir" data-flag="@X" onclick="openSidebar('248_Spawn of Andazir',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\49_Savior-Tactician.png" id="49_Savior-Tactician" data-flag="@X" onclick="openSidebar('49_Savior-Tactician',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\99_Swarm of the Dispossessed.png" id="99_Swarm of the Dispossessed" data-flag="@X" onclick="openSidebar('99_Swarm of the Dispossessed',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\149_Traverse the Endless Well.png" id="149_Traverse the Endless Well" data-flag="@X" onclick="openSidebar('149_Traverse the Endless Well',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\199_Take All You Can Carry.png" id="199_Take All You Can Carry" data-flag="@X" onclick="openSidebar('199_Take All You Can Carry',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\249_Stand Unassailable.png" id="249_Stand Unassailable" data-flag="@X" onclick="openSidebar('249_Stand Unassailable',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\50_Seraph of Sunset.png" id="50_Seraph of Sunset" data-flag="@X" onclick="openSidebar('50_Seraph of Sunset',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\100_Terraformer's Globe.png" id="100_Terraformers Globe" data-flag="@X" onclick="openSidebar('100_Terraformers Globe',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\150_Undermarket Guildmaster.png" id="150_Undermarket Guildmaster" data-flag="@X" onclick="openSidebar('150_Undermarket Guildmaster',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\200_Truthseeker's Blade.png" id="200_Truthseekers Blade" data-flag="@X" onclick="openSidebar('200_Truthseekers Blade',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\250_Thriving Budling.png" id="250_Thriving Budling" data-flag="@X" onclick="openSidebar('250_Thriving Budling',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\51_Seraph of the Stage.png" id="51_Seraph of the Stage" data-flag="@X" onclick="openSidebar('51_Seraph of the Stage',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\101_Tyrant of the Depths.png" id="101_Tyrant of the Depths" data-flag="@X" onclick="openSidebar('101_Tyrant of the Depths',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\151_Undying Lich.png" id="151_Undying Lich" data-flag="@X" onclick="openSidebar('151_Undying Lich',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\201_Voidflare.png" id="201_Voidflare" data-flag="@X" onclick="openSidebar('201_Voidflare',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\251_Tower Over The Sky.png" id="251_Tower Over The Sky" data-flag="@X" onclick="openSidebar('251_Tower Over The Sky',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\52_Soli Arbalist.png" id="52_Soli Arbalist" data-flag="@X" onclick="openSidebar('52_Soli Arbalist',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\102_Wade Through.png" id="102_Wade Through" data-flag="@X" onclick="openSidebar('102_Wade Through',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\152_Unearth.png" id="152_Unearth" data-flag="@X" onclick="openSidebar('152_Unearth',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\202_Worldheart Avatar.png" id="202_Worldheart Avatar" data-flag="@X" onclick="openSidebar('202_Worldheart Avatar',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\252_Twisted Stampede.png" id="252_Twisted Stampede" data-flag="@X" onclick="openSidebar('252_Twisted Stampede',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\53_Underpass Sentinel.png" id="53_Underpass Sentinel" data-flag="@X" onclick="openSidebar('53_Underpass Sentinel',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\103_Wanderer of Many.png" id="103_Wanderer of Many" data-flag="@X" onclick="openSidebar('103_Wanderer of Many',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\153_Veindrinker's Cabalist.png" id="153_Veindrinkers Cabalist" data-flag="@X" onclick="openSidebar('153_Veindrinkers Cabalist',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\203_Xijiang, the Fiend Judge.png" id="203_Xijiang, the Fiend Judge" data-flag="@X" onclick="openSidebar('203_Xijiang, the Fiend Judge',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\253_Untethered Disciple.png" id="253_Untethered Disciple" data-flag="@X" onclick="openSidebar('253_Untethered Disciple',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\54_Unwrite.png" id="54_Unwrite" data-flag="@X" onclick="openSidebar('54_Unwrite',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\104_Watch from Above.png" id="104_Watch from Above" data-flag="@X" onclick="openSidebar('104_Watch from Above',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\154_Vibrant Rapture.png" id="154_Vibrant Rapture" data-flag="@X" onclick="openSidebar('154_Vibrant Rapture',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\204_Xiyue Dragondancer.png" id="204_Xiyue Dragondancer" data-flag="@X" onclick="openSidebar('204_Xiyue Dragondancer',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\254_Voracious Spawn_back.png" alt="sets\VOA-files\img\254_Voracious Spawn_front.png" id="254_Voracious Spawn" data-flag="@XD" onclick="openSidebar('254_Voracious Spawn',false)"><button class="flip-btn" onclick="imgFlip(254_Voracious Spawn)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\55_Waxing Angel.png" id="55_Waxing Angel" data-flag="@X" onclick="openSidebar('55_Waxing Angel',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\105_Wheat from Chaff.png" id="105_Wheat from Chaff" data-flag="@X" onclick="openSidebar('105_Wheat from Chaff',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\155_Warden of the Dead.png" id="155_Warden of the Dead" data-flag="@X" onclick="openSidebar('155_Warden of the Dead',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\205_Zare, Heart Transformed.png" id="205_Zare, Heart Transformed" data-flag="@X" onclick="openSidebar('205_Zare, Heart Transformed',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\255_Wildlife Sketches.png" id="255_Wildlife Sketches" data-flag="@X" onclick="openSidebar('255_Wildlife Sketches',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\56_Zareen, the Second Shah_back.png" alt="sets\VOA-files\img\56_Zareen, the Second Shah_front.png" id="56_Zareen, the Second Shah" data-flag="@XD" onclick="openSidebar('56_Zareen, the Second Shah',false)"><button class="flip-btn" onclick="imgFlip(56_Zareen, the Second Shah)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\106_Wildershrine Pilgrimage.png" id="106_Wildershrine Pilgrimage" data-flag="@X" onclick="openSidebar('106_Wildershrine Pilgrimage',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\156_Whistling Blades.png" id="156_Whistling Blades" data-flag="@X" onclick="openSidebar('156_Whistling Blades',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\206_Zhu Long, Refulgent Wind.png" id="206_Zhu Long, Refulgent Wind" data-flag="@X" onclick="openSidebar('206_Zhu Long, Refulgent Wind',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\256_World Made Anew.png" id="256_World Made Anew" data-flag="@X" onclick="openSidebar('256_World Made Anew',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\257_Atieh, Seer of Distant Futures.png" id="257_Atieh, Seer of Distant Futures" data-flag="@X" onclick="openSidebar('257_Atieh, Seer of Distant Futures',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\262_Bitter Duckling_back.png" alt="sets\VOA-files\img\262_Bitter Duckling_front.png" id="262_Bitter Duckling" data-flag="@XD" onclick="openSidebar('262_Bitter Duckling',false)"><button class="flip-btn" onclick="imgFlip(262_Bitter Duckling)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\266_Andazir, First to Aspire.png" id="266_Andazir, First to Aspire" data-flag="@X" onclick="openSidebar('266_Andazir, First to Aspire',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\271_Guardians of Kallian's Tomb.png" id="271_Guardians of Kallians Tomb" data-flag="@X" onclick="openSidebar('271_Guardians of Kallians Tomb',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\276_Abwad Kahroba, Failed Son.png" id="276_Abwad Kahroba, Failed Son" data-flag="@X" onclick="openSidebar('276_Abwad Kahroba, Failed Son',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\258_Atieh's Destiny.png" id="258_Atiehs Destiny" data-flag="@X" onclick="openSidebar('258_Atiehs Destiny',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\263_Delve for Treasures.png" id="263_Delve for Treasures" data-flag="@X" onclick="openSidebar('263_Delve for Treasures',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\267_Death Pits Hawker.png" id="267_Death Pits Hawker" data-flag="@X" onclick="openSidebar('267_Death Pits Hawker',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\272_Ruinous Naga.png" id="272_Ruinous Naga" data-flag="@X" onclick="openSidebar('272_Ruinous Naga',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\277_Ajani Resolute.png" id="277_Ajani Resolute" data-flag="@X" onclick="openSidebar('277_Ajani Resolute',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\259_Contemplate the Cosmos_back.png" alt="sets\VOA-files\img\259_Contemplate the Cosmos_front.png" id="259_Contemplate the Cosmos" data-flag="@XD" onclick="openSidebar('259_Contemplate the Cosmos',false)"><button class="flip-btn" onclick="imgFlip(259_Contemplate the Cosmos)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\264_Fahrib, the Ever-Scheming.png" id="264_Fahrib, the Ever-Scheming" data-flag="@X" onclick="openSidebar('264_Fahrib, the Ever-Scheming',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\268_Djinn of the Waning Candle.png" id="268_Djinn of the Waning Candle" data-flag="@X" onclick="openSidebar('268_Djinn of the Waning Candle',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\273_Sahra, Hadak's Last Warrior.png" id="273_Sahra, Hadaks Last Warrior" data-flag="@X" onclick="openSidebar('273_Sahra, Hadaks Last Warrior',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\278_Bvala, Queen of the Swarm.png" id="278_Bvala, Queen of the Swarm" data-flag="@X" onclick="openSidebar('278_Bvala, Queen of the Swarm',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\260_Desraen, Serpent's Will.png" id="260_Desraen, Serpents Will" data-flag="@X" onclick="openSidebar('260_Desraen, Serpents Will',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\265_Salome.png" id="265_Salome" data-flag="@X" onclick="openSidebar('265_Salome',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\269_Ghulish Unearthing_back.png" alt="sets\VOA-files\img\269_Ghulish Unearthing_front.png" id="269_Ghulish Unearthing" data-flag="@XD" onclick="openSidebar('269_Ghulish Unearthing',false)"><button class="flip-btn" onclick="imgFlip(269_Ghulish Unearthing)"></button></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\274_Sahra, the Consuming_back.png" alt="sets\VOA-files\img\274_Sahra, the Consuming_front.png" id="274_Sahra, the Consuming" data-flag="@XD" onclick="openSidebar('274_Sahra, the Consuming',false)"><button class="flip-btn" onclick="imgFlip(274_Sahra, the Consuming)"></button></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\279_Kahroba, Forefather of All_back.png" alt="sets\VOA-files\img\279_Kahroba, Forefather of All_front.png" id="279_Kahroba, Forefather of All" data-flag="@XD" onclick="openSidebar('279_Kahroba, Forefather of All',false)"><button class="flip-btn" onclick="imgFlip(279_Kahroba, Forefather of All)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\261_Esmerie, Skysworn General.png" id="261_Esmerie, Skysworn General" data-flag="@X" onclick="openSidebar('261_Esmerie, Skysworn General',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\349_Neural Contagion.png" id="349_Neural Contagion" data-flag="@X" onclick="openSidebar('349_Neural Contagion',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\270_Omegalomania.png" id="270_Omegalomania" data-flag="@X" onclick="openSidebar('270_Omegalomania',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\275_Tyrant of Tributes.png" id="275_Tyrant of Tributes" data-flag="@X" onclick="openSidebar('275_Tyrant of Tributes',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\280_Tenvilu, Earthen Warden_back.png" alt="sets\VOA-files\img\280_Tenvilu, Earthen Warden_front.png" id="280_Tenvilu, Earthen Warden" data-flag="@XD" onclick="openSidebar('280_Tenvilu, Earthen Warden',false)"><button class="flip-btn" onclick="imgFlip(280_Tenvilu, Earthen Warden)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\348_Will of a Fickle Lord.png" id="348_Will of a Fickle Lord" data-flag="@X" onclick="openSidebar('348_Will of a Fickle Lord',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\350_Opportunistic Raiders.png" id="350_Opportunistic Raiders" data-flag="@X" onclick="openSidebar('350_Opportunistic Raiders',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\351_Lumbering Ox.png" id="351_Lumbering Ox" data-flag="@X" onclick="openSidebar('351_Lumbering Ox',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\352_Unlikeliest Heroes.png" id="352_Unlikeliest Heroes" data-flag="@X" onclick="openSidebar('352_Unlikeliest Heroes',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\281_Fight for Succession_back.png" alt="sets\VOA-files\img\281_Fight for Succession_front.png" id="281_Fight for Succession" data-flag="@XD" onclick="openSidebar('281_Fight for Succession',false)"><button class="flip-btn" onclick="imgFlip(281_Fight for Succession)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\291_Archive Guardian.png" id="291_Archive Guardian" data-flag="@X" onclick="openSidebar('291_Archive Guardian',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\301_Dai Gui, Pillar of Sea and Sky.png" id="301_Dai Gui, Pillar of Sea and Sky" data-flag="@X" onclick="openSidebar('301_Dai Gui, Pillar of Sea and Sky',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\286_Entelan Deep Storage.png" id="286_Entelan Deep Storage" data-flag="@X" onclick="openSidebar('286_Entelan Deep Storage',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\296_Ameret, Pride of Cyrukan.png" id="296_Ameret, Pride of Cyrukan" data-flag="@X" onclick="openSidebar('296_Ameret, Pride of Cyrukan',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\282_Ishim's Meddling.png" id="282_Ishims Meddling" data-flag="@X" onclick="openSidebar('282_Ishims Meddling',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\292_Boon of the Pacts.png" id="292_Boon of the Pacts" data-flag="@X" onclick="openSidebar('292_Boon of the Pacts',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\302_Martoob, Blessing of Water_back.png" alt="sets\VOA-files\img\302_Martoob, Blessing of Water_front.png" id="302_Martoob, Blessing of Water" data-flag="@XD" onclick="openSidebar('302_Martoob, Blessing of Water',false)"><button class="flip-btn" onclick="imgFlip(302_Martoob, Blessing of Water)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\287_Hannah, Aethertechnician.png" id="287_Hannah, Aethertechnician" data-flag="@X" onclick="openSidebar('287_Hannah, Aethertechnician',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\297_Azun, Sheriff of Daisite.png" id="297_Azun, Sheriff of Daisite" data-flag="@X" onclick="openSidebar('297_Azun, Sheriff of Daisite',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\283_Mahara, General of All.png" id="283_Mahara, General of All" data-flag="@X" onclick="openSidebar('283_Mahara, General of All',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\293_Cd-hr, Raid Leader.png" id="293_Cd-hr, Raid Leader" data-flag="@X" onclick="openSidebar('293_Cd-hr, Raid Leader',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\303_Martoob of Flowing Life.png" id="303_Martoob of Flowing Life" data-flag="@X" onclick="openSidebar('303_Martoob of Flowing Life',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\288_Rahstahde, Brand of Truth.png" id="288_Rahstahde, Brand of Truth" data-flag="@X" onclick="openSidebar('288_Rahstahde, Brand of Truth',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\298_Cyrukan of Heart and Iron.png" id="298_Cyrukan of Heart and Iron" data-flag="@X" onclick="openSidebar('298_Cyrukan of Heart and Iron',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\284_Mahara, the Universal_back.png" alt="sets\VOA-files\img\284_Mahara, the Universal_front.png" id="284_Mahara, the Universal" data-flag="@XD" onclick="openSidebar('284_Mahara, the Universal',false)"><button class="flip-btn" onclick="imgFlip(284_Mahara, the Universal)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\294_Chi Lee of the Underworld.png" id="294_Chi Lee of the Underworld" data-flag="@X" onclick="openSidebar('294_Chi Lee of the Underworld',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\304_Nozar, Dunesea Merchant.png" id="304_Nozar, Dunesea Merchant" data-flag="@X" onclick="openSidebar('304_Nozar, Dunesea Merchant',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\289_Rahstahde, Word of Truth_back.png" alt="sets\VOA-files\img\289_Rahstahde, Word of Truth_front.png" id="289_Rahstahde, Word of Truth" data-flag="@XD" onclick="openSidebar('289_Rahstahde, Word of Truth',false)"><button class="flip-btn" onclick="imgFlip(289_Rahstahde, Word of Truth)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\299_One of Purpose.png" id="299_One of Purpose" data-flag="@X" onclick="openSidebar('299_One of Purpose',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\285_Siaveed, Commander of Armies.png" id="285_Siaveed, Commander of Armies" data-flag="@X" onclick="openSidebar('285_Siaveed, Commander of Armies',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\295_Tamaak the Arid Swarm.png" id="295_Tamaak the Arid Swarm" data-flag="@X" onclick="openSidebar('295_Tamaak the Arid Swarm',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\305_Recall Forgotten Eons.png" id="305_Recall Forgotten Eons" data-flag="@X" onclick="openSidebar('305_Recall Forgotten Eons',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\290_Veeni, High Truthseeker.png" id="290_Veeni, High Truthseeker" data-flag="@X" onclick="openSidebar('290_Veeni, High Truthseeker',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\300_Quinn, the Performer.png" id="300_Quinn, the Performer" data-flag="@X" onclick="openSidebar('300_Quinn, the Performer',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\353_All-Enduring Mafua.png" id="353_All-Enduring Mafua" data-flag="@X" onclick="openSidebar('353_All-Enduring Mafua',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\355_Ye Feng, Lotus Apothecary.png" id="355_Ye Feng, Lotus Apothecary" data-flag="@X" onclick="openSidebar('355_Ye Feng, Lotus Apothecary',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\357_Glinthide Hero.png" id="357_Glinthide Hero" data-flag="@X" onclick="openSidebar('357_Glinthide Hero',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\354_Oracle's Disciple.png" id="354_Oracles Disciple" data-flag="@X" onclick="openSidebar('354_Oracles Disciple',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\356_The Lost and Seeking_back.png" alt="sets\VOA-files\img\356_The Lost and Seeking_front.png" id="356_The Lost and Seeking" data-flag="@XD" onclick="openSidebar('356_The Lost and Seeking',false)"><button class="flip-btn" onclick="imgFlip(356_The Lost and Seeking)"></button></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\306_Adrift into Endless Stories.png" id="306_Adrift into Endless Stories" data-flag="@X" onclick="openSidebar('306_Adrift into Endless Stories',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\307_Aminatou, Justicar.png" id="307_Aminatou, Justicar" data-flag="@X" onclick="openSidebar('307_Aminatou, Justicar',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\310_Arcanist's Reaver.png" id="310_Arcanists Reaver" data-flag="@X" onclick="openSidebar('310_Arcanists Reaver',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\315_Champion of Foibles.png" id="315_Champion of Foibles" data-flag="@X" onclick="openSidebar('315_Champion of Foibles',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\309_Antali Archdruid.png" id="309_Antali Archdruid" data-flag="@X" onclick="openSidebar('309_Antali Archdruid',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\308_Angel of Infinite Faces.png" id="308_Angel of Infinite Faces" data-flag="@X" onclick="openSidebar('308_Angel of Infinite Faces',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\317_Chosen of Aminatou.png" id="317_Chosen of Aminatou" data-flag="@X" onclick="openSidebar('317_Chosen of Aminatou',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\330_Nefarox, Strifelord.png" id="330_Nefarox, Strifelord" data-flag="@X" onclick="openSidebar('330_Nefarox, Strifelord',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\325_Maaru, Tomb Guardian.png" id="325_Maaru, Tomb Guardian" data-flag="@X" onclick="openSidebar('325_Maaru, Tomb Guardian',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\336_Salim and Certo.png" id="336_Salim and Certo" data-flag="@X" onclick="openSidebar('336_Salim and Certo',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\316_Champion of Ideals.png" id="316_Champion of Ideals" data-flag="@X" onclick="openSidebar('316_Champion of Ideals',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\319_Dayang's Displeasure.png" id="319_Dayangs Displeasure" data-flag="@X" onclick="openSidebar('319_Dayangs Displeasure',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\338_Soulwrought Songster.png" id="338_Soulwrought Songster" data-flag="@X" onclick="openSidebar('338_Soulwrought Songster',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\342_Tumultipede.png" id="342_Tumultipede" data-flag="@X" onclick="openSidebar('342_Tumultipede',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\337_Satyr Celebrant.png" id="337_Satyr Celebrant" data-flag="@X" onclick="openSidebar('337_Satyr Celebrant',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\346_Ya'Ling, the Rune-Drake.png" id="346_YaLing, the Rune-Drake" data-flag="@X" onclick="openSidebar('346_YaLing, the Rune-Drake',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\331_Orlesia, First of the Sen.png" id="331_Orlesia, First of the Sen" data-flag="@X" onclick="openSidebar('331_Orlesia, First of the Sen',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\344_Unruly Magus.png" id="344_Unruly Magus" data-flag="@X" onclick="openSidebar('344_Unruly Magus',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\361_Inciter of Spirits Scorned.png" id="361_Inciter of Spirits Scorned" data-flag="@X" onclick="openSidebar('361_Inciter of Spirits Scorned',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\358_Breyga, Frontier Expert.png" id="358_Breyga, Frontier Expert" data-flag="@X" onclick="openSidebar('358_Breyga, Frontier Expert',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\312_A Bond that Spans Planes.png" id="312_A Bond that Spans Planes" data-flag="@X" onclick="openSidebar('312_A Bond that Spans Planes',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\324_Ineptitude.png" id="324_Ineptitude" data-flag="@X" onclick="openSidebar('324_Ineptitude',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\333_Rain Zai, Spiritscale.png" id="333_Rain Zai, Spiritscale" data-flag="@X" onclick="openSidebar('333_Rain Zai, Spiritscale',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\311_The Ardent Prodigy.png" id="311_The Ardent Prodigy" data-flag="@X" onclick="openSidebar('311_The Ardent Prodigy',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\318_Dali, the Eyes of Danaj.png" id="318_Dali, the Eyes of Danaj" data-flag="@X" onclick="openSidebar('318_Dali, the Eyes of Danaj',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\313_Brandy Axel, Combat's Baby.png" id="313_Brandy Axel, Combats Baby" data-flag="@X" onclick="openSidebar('313_Brandy Axel, Combats Baby',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\326_Main Role Maiden.png" id="326_Main Role Maiden" data-flag="@X" onclick="openSidebar('326_Main Role Maiden',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\339_Streets of Mustasheen.png" id="339_Streets of Mustasheen" data-flag="@X" onclick="openSidebar('339_Streets of Mustasheen',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\314_Call of the Huma.png" id="314_Call of the Huma" data-flag="@X" onclick="openSidebar('314_Call of the Huma',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\320_Emperor Dan Te Mogui.png" id="320_Emperor Dan Te Mogui" data-flag="@X" onclick="openSidebar('320_Emperor Dan Te Mogui',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\322_Guardian of the Devout.png" id="322_Guardian of the Devout" data-flag="@X" onclick="openSidebar('322_Guardian of the Devout',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\327_Mia, Into the Unknown.png" id="327_Mia, Into the Unknown" data-flag="@X" onclick="openSidebar('327_Mia, Into the Unknown',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\359_Calenfyr.png" id="359_Calenfyr" data-flag="@X" onclick="openSidebar('359_Calenfyr',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\323_Host of the Celebration.png" id="323_Host of the Celebration" data-flag="@X" onclick="openSidebar('323_Host of the Celebration',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\334_A Recipe for Disaster.png" id="334_A Recipe for Disaster" data-flag="@X" onclick="openSidebar('334_A Recipe for Disaster',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\345_Updraft Dancer.png" id="345_Updraft Dancer" data-flag="@X" onclick="openSidebar('345_Updraft Dancer',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\332_Over the Moon.png" id="332_Over the Moon" data-flag="@X" onclick="openSidebar('332_Over the Moon',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\362_Mortal Benediction.png" id="362_Mortal Benediction" data-flag="@X" onclick="openSidebar('362_Mortal Benediction',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\329_Nakia, Infinity Seer.png" id="329_Nakia, Infinity Seer" data-flag="@X" onclick="openSidebar('329_Nakia, Infinity Seer',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\360_Eryth, Mire Dredger.png" id="360_Eryth, Mire Dredger" data-flag="@X" onclick="openSidebar('360_Eryth, Mire Dredger',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\321_The Grand Simurgh.png" id="321_The Grand Simurgh" data-flag="@X" onclick="openSidebar('321_The Grand Simurgh',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\328_Muktann Protectors.png" id="328_Muktann Protectors" data-flag="@X" onclick="openSidebar('328_Muktann Protectors',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\335_Sahra's Harbinger.png" id="335_Sahras Harbinger" data-flag="@X" onclick="openSidebar('335_Sahras Harbinger',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\340_Swooping Manticore.png" id="340_Swooping Manticore" data-flag="@X" onclick="openSidebar('340_Swooping Manticore',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\341_Tempting Shahmaran.png" id="341_Tempting Shahmaran" data-flag="@X" onclick="openSidebar('341_Tempting Shahmaran',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\343_Twice Blessed.png" id="343_Twice Blessed" data-flag="@X" onclick="openSidebar('343_Twice Blessed',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\347_Zareen Kahroba, Shah.png" id="347_Zareen Kahroba, Shah" data-flag="@X" onclick="openSidebar('347_Zareen Kahroba, Shah',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\1_Azamir, Wayward Titan.png" id="1_Azamir, Wayward Titan" data-flag="@X" onclick="openSidebar('1_Azamir, Wayward Titan',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\2_Calfu, Greatest Toqui.png" id="2_Calfu, Greatest Toqui" data-flag="@X" onclick="openSidebar('2_Calfu, Greatest Toqui',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\3_Formless Eidolon.png" id="3_Formless Eidolon" data-flag="@X" onclick="openSidebar('3_Formless Eidolon',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\4_Makshi, Patron of Blades.png" id="4_Makshi, Patron of Blades" data-flag="@X" onclick="openSidebar('4_Makshi, Patron of Blades',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\5_Unravel Shattered Worlds.png" id="5_Unravel Shattered Worlds" data-flag="@X" onclick="openSidebar('5_Unravel Shattered Worlds',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\6_Zareen's Pariah.png" id="6_Zareens Pariah" data-flag="@X" onclick="openSidebar('6_Zareens Pariah',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\363_Academic's Claymore.png" id="363_Academics Claymore" data-flag="@X" onclick="openSidebar('363_Academics Claymore',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\364_Chromatic Lantern.png" id="364_Chromatic Lantern" data-flag="@X" onclick="openSidebar('364_Chromatic Lantern',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\365_Coalition Relic.png" id="365_Coalition Relic" data-flag="@X" onclick="openSidebar('365_Coalition Relic',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\366_Cortex Coil.png" id="366_Cortex Coil" data-flag="@X" onclick="openSidebar('366_Cortex Coil',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\367_Elemental Essence.png" id="367_Elemental Essence" data-flag="@X" onclick="openSidebar('367_Elemental Essence',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\368_Feather of the Simurgh.png" id="368_Feather of the Simurgh" data-flag="@X" onclick="openSidebar('368_Feather of the Simurgh',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\369_Gate of Realms.png" id="369_Gate of Realms" data-flag="@X" onclick="openSidebar('369_Gate of Realms',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\370_Gilded Gearhulk.png" id="370_Gilded Gearhulk" data-flag="@X" onclick="openSidebar('370_Gilded Gearhulk',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\371_Gilded Guardian.png" id="371_Gilded Guardian" data-flag="@X" onclick="openSidebar('371_Gilded Guardian',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\372_Gilded Lotus.png" id="372_Gilded Lotus" data-flag="@X" onclick="openSidebar('372_Gilded Lotus',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\373_Gilded Spyglass.png" id="373_Gilded Spyglass" data-flag="@X" onclick="openSidebar('373_Gilded Spyglass',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\374_Greater Masticore.png" id="374_Greater Masticore" data-flag="@X" onclick="openSidebar('374_Greater Masticore',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\375_Haunted Heirloom.png" id="375_Haunted Heirloom" data-flag="@X" onclick="openSidebar('375_Haunted Heirloom',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\376_Heart of Carü Mapu.png" id="376_Heart of Carü Mapu" data-flag="@X" onclick="openSidebar('376_Heart of Carü Mapu',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\377_Heartless Army.png" id="377_Heartless Army" data-flag="@X" onclick="openSidebar('377_Heartless Army',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\378_Horn of Seasons.png" id="378_Horn of Seasons" data-flag="@X" onclick="openSidebar('378_Horn of Seasons',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\379_Intrepid.png" id="379_Intrepid" data-flag="@X" onclick="openSidebar('379_Intrepid',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\380_Mana Rose.png" id="380_Mana Rose" data-flag="@X" onclick="openSidebar('380_Mana Rose',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\381_Merchant's Outpost.png" id="381_Merchants Outpost" data-flag="@X" onclick="openSidebar('381_Merchants Outpost',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\382_Mettalia, Light from Above.png" id="382_Mettalia, Light from Above" data-flag="@X" onclick="openSidebar('382_Mettalia, Light from Above',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\383_Mutalithic Golem.png" id="383_Mutalithic Golem" data-flag="@X" onclick="openSidebar('383_Mutalithic Golem',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\384_Restored Automaton.png" id="384_Restored Automaton" data-flag="@X" onclick="openSidebar('384_Restored Automaton',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\385_Rippling Curtain.png" id="385_Rippling Curtain" data-flag="@X" onclick="openSidebar('385_Rippling Curtain',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\386_Runic Pillars.png" id="386_Runic Pillars" data-flag="@X" onclick="openSidebar('386_Runic Pillars',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\387_Sealed Riftway.png" id="387_Sealed Riftway" data-flag="@X" onclick="openSidebar('387_Sealed Riftway',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\388_Setessan Armaments.png" id="388_Setessan Armaments" data-flag="@X" onclick="openSidebar('388_Setessan Armaments',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\389_Sword of Rags and Riches.png" id="389_Sword of Rags and Riches" data-flag="@X" onclick="openSidebar('389_Sword of Rags and Riches',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\390_Sword of Silver and Gold.png" id="390_Sword of Silver and Gold" data-flag="@X" onclick="openSidebar('390_Sword of Silver and Gold',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\391_Titan Snare.png" id="391_Titan Snare" data-flag="@X" onclick="openSidebar('391_Titan Snare',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\392_Titanic Fossil_back.png" alt="sets\VOA-files\img\392_Titanic Fossil_front.png" id="392_Titanic Fossil" data-flag="@XD" onclick="openSidebar('392_Titanic Fossil',false)"><button class="flip-btn" onclick="imgFlip(392_Titanic Fossil)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\393_Unicorn of the Vale.png" id="393_Unicorn of the Vale" data-flag="@X" onclick="openSidebar('393_Unicorn of the Vale',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\394_Weeping Lotus.png" id="394_Weeping Lotus" data-flag="@X" onclick="openSidebar('394_Weeping Lotus',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\395_Xedrios, Progenitor Wyrm.png" id="395_Xedrios, Progenitor Wyrm" data-flag="@X" onclick="openSidebar('395_Xedrios, Progenitor Wyrm',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\472_Soli Citadel.png" id="472_Soli Citadel" data-flag="@X" onclick="openSidebar('472_Soli Citadel',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\467_Nizev Citadel.png" id="467_Nizev Citadel" data-flag="@X" onclick="openSidebar('467_Nizev Citadel',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\460_Kaneh Citadel.png" id="460_Kaneh Citadel" data-flag="@X" onclick="openSidebar('460_Kaneh Citadel',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\451_Avaz Citadel.png" id="451_Avaz Citadel" data-flag="@X" onclick="openSidebar('451_Avaz Citadel',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\456_Danaj Citadel.png" id="456_Danaj Citadel" data-flag="@X" onclick="openSidebar('456_Danaj Citadel',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\473_Soli Fortress.png" id="473_Soli Fortress" data-flag="@X" onclick="openSidebar('473_Soli Fortress',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\468_Nizev Fortress.png" id="468_Nizev Fortress" data-flag="@X" onclick="openSidebar('468_Nizev Fortress',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\461_Kaneh Fortress.png" id="461_Kaneh Fortress" data-flag="@X" onclick="openSidebar('461_Kaneh Fortress',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\452_Avaz Fortress.png" id="452_Avaz Fortress" data-flag="@X" onclick="openSidebar('452_Avaz Fortress',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\457_Danaj Fortress.png" id="457_Danaj Fortress" data-flag="@X" onclick="openSidebar('457_Danaj Fortress',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\411_Eminent Palace.png" id="411_Eminent Palace" data-flag="@X" onclick="openSidebar('411_Eminent Palace',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\426_Ominous Palace.png" id="426_Ominous Palace" data-flag="@X" onclick="openSidebar('426_Ominous Palace',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\413_Forbidden Palace.png" id="413_Forbidden Palace" data-flag="@X" onclick="openSidebar('413_Forbidden Palace',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\397_Autumnal Boscage.png" id="397_Autumnal Boscage" data-flag="@X" onclick="openSidebar('397_Autumnal Boscage',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\405_Concordant Palace.png" id="405_Concordant Palace" data-flag="@X" onclick="openSidebar('405_Concordant Palace',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\446_Waterfront Market.png" id="446_Waterfront Market" data-flag="@X" onclick="openSidebar('446_Waterfront Market',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\448_Whispering Canal.png" id="448_Whispering Canal" data-flag="@X" onclick="openSidebar('448_Whispering Canal',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\421_Molten Mire.png" id="421_Molten Mire" data-flag="@X" onclick="openSidebar('421_Molten Mire',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\422_Montane Palace.png" id="422_Montane Palace" data-flag="@X" onclick="openSidebar('422_Montane Palace',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\441_Splendid Scenery.png" id="441_Splendid Scenery" data-flag="@X" onclick="openSidebar('441_Splendid Scenery',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\474_Soli Sanctuary.png" id="474_Soli Sanctuary" data-flag="@X" onclick="openSidebar('474_Soli Sanctuary',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\470_Nizev Temple.png" id="470_Nizev Temple" data-flag="@X" onclick="openSidebar('470_Nizev Temple',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\463_Kaneh Temple.png" id="463_Kaneh Temple" data-flag="@X" onclick="openSidebar('463_Kaneh Temple',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\454_Avaz Temple.png" id="454_Avaz Temple" data-flag="@X" onclick="openSidebar('454_Avaz Temple',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\475_Soli Temple.png" id="475_Soli Temple" data-flag="@X" onclick="openSidebar('475_Soli Temple',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\399_Boneyard Pass.png" id="399_Boneyard Pass" data-flag="@X" onclick="openSidebar('399_Boneyard Pass',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\398_Basin Fortress.png" id="398_Basin Fortress" data-flag="@X" onclick="openSidebar('398_Basin Fortress',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\434_Serene Palace.png" id="434_Serene Palace" data-flag="@X" onclick="openSidebar('434_Serene Palace',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\415_Frostpoint Caldera.png" id="415_Frostpoint Caldera" data-flag="@X" onclick="openSidebar('415_Frostpoint Caldera',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\430_Radiant Palace.png" id="430_Radiant Palace" data-flag="@X" onclick="openSidebar('430_Radiant Palace',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\410_Eidolic Palace.png" id="410_Eidolic Palace" data-flag="@X" onclick="openSidebar('410_Eidolic Palace',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\414_Forsaken Palace.png" id="414_Forsaken Palace" data-flag="@X" onclick="openSidebar('414_Forsaken Palace',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\444_Thawing Valley.png" id="444_Thawing Valley" data-flag="@X" onclick="openSidebar('444_Thawing Valley',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\427_Opalescent Palace.png" id="427_Opalescent Palace" data-flag="@X" onclick="openSidebar('427_Opalescent Palace',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\440_Spinerock Canyon.png" id="440_Spinerock Canyon" data-flag="@X" onclick="openSidebar('440_Spinerock Canyon',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\462_Kaneh Sanctuary.png" id="462_Kaneh Sanctuary" data-flag="@X" onclick="openSidebar('462_Kaneh Sanctuary',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\459_Danaj Temple.png" id="459_Danaj Temple" data-flag="@X" onclick="openSidebar('459_Danaj Temple',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\458_Danaj Sanctuary.png" id="458_Danaj Sanctuary" data-flag="@X" onclick="openSidebar('458_Danaj Sanctuary',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\469_Nizev Sanctuary.png" id="469_Nizev Sanctuary" data-flag="@X" onclick="openSidebar('469_Nizev Sanctuary',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\453_Avaz Sanctuary.png" id="453_Avaz Sanctuary" data-flag="@X" onclick="openSidebar('453_Avaz Sanctuary',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\442_Sturdy Outpost.png" id="442_Sturdy Outpost" data-flag="@X" onclick="openSidebar('442_Sturdy Outpost',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\409_Destroyed Isle.png" id="409_Destroyed Isle" data-flag="@X" onclick="openSidebar('409_Destroyed Isle',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\407_Den of Vice.png" id="407_Den of Vice" data-flag="@X" onclick="openSidebar('407_Den of Vice',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\404_Citadel Gates.png" id="404_Citadel Gates" data-flag="@X" onclick="openSidebar('404_Citadel Gates',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\443_Sunflower Fields.png" id="443_Sunflower Fields" data-flag="@X" onclick="openSidebar('443_Sunflower Fields',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\431_Reborn Altar.png" id="431_Reborn Altar" data-flag="@X" onclick="openSidebar('431_Reborn Altar',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\406_Coveted Tower.png" id="406_Coveted Tower" data-flag="@X" onclick="openSidebar('406_Coveted Tower',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\429_Pristine Chapel.png" id="429_Pristine Chapel" data-flag="@X" onclick="openSidebar('429_Pristine Chapel',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\396_Angelic Barracks.png" id="396_Angelic Barracks" data-flag="@X" onclick="openSidebar('396_Angelic Barracks',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\445_Tree of Timelines.png" id="445_Tree of Timelines" data-flag="@X" onclick="openSidebar('445_Tree of Timelines',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\400_Bustling Marketplace.png" id="400_Bustling Marketplace" data-flag="@X" onclick="openSidebar('400_Bustling Marketplace',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\401_Cave of Pleonexia.png" id="401_Cave of Pleonexia" data-flag="@X" onclick="openSidebar('401_Cave of Pleonexia',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\402_Chamber of Splendor.png" id="402_Chamber of Splendor" data-flag="@X" onclick="openSidebar('402_Chamber of Splendor',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\403_Channeling Stone.png" id="403_Channeling Stone" data-flag="@X" onclick="openSidebar('403_Channeling Stone',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\408_Desert Temple.png" id="408_Desert Temple" data-flag="@X" onclick="openSidebar('408_Desert Temple',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\412_Fabled Passage.png" id="412_Fabled Passage" data-flag="@X" onclick="openSidebar('412_Fabled Passage',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\416_Heart of Zhedina.png" id="416_Heart of Zhedina" data-flag="@X" onclick="openSidebar('416_Heart of Zhedina',false)"></div>
+			<div class="container"><img data-alt_src="sets\VOA-files\img\417_Hidden Garden Entrance_back.png" alt="sets\VOA-files\img\417_Hidden Garden Entrance_front.png" id="417_Hidden Garden Entrance" data-flag="@XD" onclick="openSidebar('417_Hidden Garden Entrance',false)"><button class="flip-btn" onclick="imgFlip(417_Hidden Garden Entrance)"></button></div>
+			<div class="container"><img alt="sets\VOA-files\img\418_The High Prairies.png" id="418_The High Prairies" data-flag="@X" onclick="openSidebar('418_The High Prairies',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\419_Imperial Port.png" id="419_Imperial Port" data-flag="@X" onclick="openSidebar('419_Imperial Port',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\420_Lotus Barrens.png" id="420_Lotus Barrens" data-flag="@X" onclick="openSidebar('420_Lotus Barrens',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\423_Morphic Verge.png" id="423_Morphic Verge" data-flag="@X" onclick="openSidebar('423_Morphic Verge',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\424_Nebula of Empty Gold.png" id="424_Nebula of Empty Gold" data-flag="@X" onclick="openSidebar('424_Nebula of Empty Gold',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\425_New Divide.png" id="425_New Divide" data-flag="@X" onclick="openSidebar('425_New Divide',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\428_Power Plant.png" id="428_Power Plant" data-flag="@X" onclick="openSidebar('428_Power Plant',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\432_Renewal Grove.png" id="432_Renewal Grove" data-flag="@X" onclick="openSidebar('432_Renewal Grove',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\433_Royal Domain.png" id="433_Royal Domain" data-flag="@X" onclick="openSidebar('433_Royal Domain',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\435_Shiftscape Canyon.png" id="435_Shiftscape Canyon" data-flag="@X" onclick="openSidebar('435_Shiftscape Canyon',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\436_Shiftscape Cascade.png" id="436_Shiftscape Cascade" data-flag="@X" onclick="openSidebar('436_Shiftscape Cascade',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\437_Shiftscape Crag.png" id="437_Shiftscape Crag" data-flag="@X" onclick="openSidebar('437_Shiftscape Crag',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\438_Shiftscape Grove.png" id="438_Shiftscape Grove" data-flag="@X" onclick="openSidebar('438_Shiftscape Grove',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\439_Shiftscape Morass.png" id="439_Shiftscape Morass" data-flag="@X" onclick="openSidebar('439_Shiftscape Morass',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\447_Wayfarer's Shrine.png" id="447_Wayfarers Shrine" data-flag="@X" onclick="openSidebar('447_Wayfarers Shrine',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\449_Wondrous Bazaar.png" id="449_Wondrous Bazaar" data-flag="@X" onclick="openSidebar('449_Wondrous Bazaar',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\450_Zhedina Exchange.png" id="450_Zhedina Exchange" data-flag="@X" onclick="openSidebar('450_Zhedina Exchange',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\455_Burgeoning Satrapy.png" id="455_Burgeoning Satrapy" data-flag="@X" onclick="openSidebar('455_Burgeoning Satrapy',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\464_Marketplace Crossroads.png" id="464_Marketplace Crossroads" data-flag="@X" onclick="openSidebar('464_Marketplace Crossroads',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\465_Mercantile Satrapy.png" id="465_Mercantile Satrapy" data-flag="@X" onclick="openSidebar('465_Mercantile Satrapy',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\466_Neutral Citystate.png" id="466_Neutral Citystate" data-flag="@X" onclick="openSidebar('466_Neutral Citystate',false)"></div>
+			<div class="container"><img alt="sets\VOA-files\img\471_Shifting City.png" id="471_Shifting City" data-flag="@X" onclick="openSidebar('471_Shifting City',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = 'img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		if (horizontal && rotated_img.style.display == 'none')
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+	}
+
+	function openSidebar(id, h=false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+
+		if (horizontal)
+		{
+			rotated_img.src = document.getElementById(id).src;
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+			if (event.key === "Enter") {
+				event.preventDefault();
+				search();
+			}
+		});
+
+		function search() {
+			window.location = ("/search?search=" + document.getElementById("search").value);
+		}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let card_name = card_list_arrayified[i].card_name;
+				for (const char of specialchars)
+				{
+					card_name = card_name.replaceAll(char, "");
+				}
+
+				window.location = ('/cards/' + card_list_arrayified[i].set + '/' + card_list_arrayified[i].number + '_' + card_name);
+			}
+	</script>
+</body>
+</html>

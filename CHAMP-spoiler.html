@@ -34,7 +34,15 @@
 			max-width: 375px;
 			position: relative;
 		}
-		.sidebar img {
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
 		}
@@ -100,17 +108,15 @@
 			cursor: pointer;
 			border: none;
 			position: absolute;
-			top: 6.5%;
-			left: 8.5%;
+			left: 50%;
+			top: 48%;
 			transform: translate(-50%, -50%);
+			opacity: 0.5;
 		}
 		.flip-btn:hover {
 			background: url('img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
-		}
-		.sidebar .flip-btn {
-			transform: translate(-50%, -85%);
 		}
 		.icon-bar {
 			display: grid;
@@ -154,7 +160,6 @@
 	<img class="preload-hidden" src="/sets/CHAMP-files/logo.png" />
 	<img class="preload-hidden" src="/sets/CHAMP-files/icon.png" />
 		<img class="preload-hidden" src="/sets/MC25-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MYSTERY-files/icon.png" />
 		<img class="preload-hidden" src="/sets/VOA-files/icon.png" />
 		<img class="preload-hidden" id="bg" src="/sets/CHAMP-files/bg.png" />
 		
@@ -164,6 +169,7 @@
 			<img class="sg-icon" src="/img/search.png">
 			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
 			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
 			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
 		</div>
 	</div>
@@ -173,8 +179,6 @@
 		 <div class="dot"><img src="img/dot.png"></img></div>
 		<div class="icon"><a href="MC25-spoiler"><img src="sets/MC25-files/icon.png"></img></a></div>
 		 <div class="dot"><img src="img/dot.png"></img></div>
-		<div class="icon"><a href="MYSTERY-spoiler"><img src="sets/MYSTERY-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="img/dot.png"></img></div>
 		<div class="icon"><a href="VOA-spoiler"><img src="sets/VOA-files/icon.png"></img></a></div>
 
 		</div>
@@ -183,46 +187,52 @@
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-				<div class="container"><img alt="sets\CHAMP-files\img\1_Justiciar Overseer.png" id="1" data-flag="@X" onclick="openSidebar('1')"></div>
-			<div class="container"><img alt="sets\CHAMP-files\img\4_Realm Crossers.png" id="4" data-flag="@X" onclick="openSidebar('4')"></div>
-			<div class="container"><img alt="sets\CHAMP-files\img\6_Bitter Corvus.png" id="6" data-flag="@X" onclick="openSidebar('6')"></div>
-			<div class="container"><img alt="sets\CHAMP-files\img\7_Neon Claw Knight.png" id="7" data-flag="@X" onclick="openSidebar('7')"></div>
-			<div class="container"><img alt="sets\CHAMP-files\img\10_Arbor Protector.png" id="10" data-flag="@X" onclick="openSidebar('10')"></div>
-			<div class="container"><img alt="sets\CHAMP-files\img\2_Pious Flutist.png" id="2" data-flag="@X" onclick="openSidebar('2')"></div>
-			<div class="container"><img alt="sets\CHAMP-files\img\5_Reflected Moment.png" id="5" data-flag="@X" onclick="openSidebar('5')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="sets\CHAMP-files\img\8_Polis's Demise.png" id="8" data-flag="@X" onclick="openSidebar('8')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="sets\CHAMP-files\img\3_Promised Exaltation.png" id="3" data-flag="@X" onclick="openSidebar('3')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="sets\CHAMP-files\img\9_Reckless Defiance.png" id="9" data-flag="@X" onclick="openSidebar('9')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+				<div class="container"><img alt="sets\CHAMP-files\img\1_Justiciar Overseer.png" id="1_Justiciar Overseer" data-flag="@X" onclick="openSidebar('1_Justiciar Overseer',false)"></div>
+			<div class="container"><img alt="sets\CHAMP-files\img\5_Realm Crossers.png" id="5_Realm Crossers" data-flag="@X" onclick="openSidebar('5_Realm Crossers',false)"></div>
+			<div class="container"><img alt="sets\CHAMP-files\img\7_Bitter Corvus.png" id="7_Bitter Corvus" data-flag="@X" onclick="openSidebar('7_Bitter Corvus',false)"></div>
+			<div class="container"><img alt="sets\CHAMP-files\img\9_Neon Claw Knight.png" id="9_Neon Claw Knight" data-flag="@X" onclick="openSidebar('9_Neon Claw Knight',false)"></div>
+			<div class="container"><img alt="sets\CHAMP-files\img\12_Arbor Protector.png" id="12_Arbor Protector" data-flag="@X" onclick="openSidebar('12_Arbor Protector',false)"></div>
+			<div class="container"><img alt="sets\CHAMP-files\img\2_Pious Flutist.png" id="2_Pious Flutist" data-flag="@X" onclick="openSidebar('2_Pious Flutist',false)"></div>
+			<div class="container"><img alt="sets\CHAMP-files\img\6_Reflected Moment.png" id="6_Reflected Moment" data-flag="@X" onclick="openSidebar('6_Reflected Moment',false)"></div>
+			<div class="container"><img alt="sets\CHAMP-files\img\8_Mutual Destruction.png" id="8_Mutual Destruction" data-flag="@X" onclick="openSidebar('8_Mutual Destruction',false)"></div>
+			<div class="container"><img alt="sets\CHAMP-files\img\10_Polis's Demise.png" id="10_Poliss Demise" data-flag="@X" onclick="openSidebar('10_Poliss Demise',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\CHAMP-files\img\3_Promised Exaltation.png" id="3_Promised Exaltation" data-flag="@X" onclick="openSidebar('3_Promised Exaltation',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\CHAMP-files\img\11_Reckless Defiance.png" id="11_Reckless Defiance" data-flag="@X" onclick="openSidebar('11_Reckless Defiance',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\CHAMP-files\img\4_Seraph of the Stage.png" id="4_Seraph of the Stage" data-flag="@X" onclick="openSidebar('4_Seraph of the Stage',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 	</div>
 </div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" src="img/er.png">
+			<img id="sidebar_img" class="sidebar-img" src="img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
 		<button class="close-btn" onclick="closeSidebar()"></button>
@@ -234,10 +244,10 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.txt')
-					.then(response => response.text())
-					.then(text => {
-						card_list_stringified = text;
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
 				await fetch('/resources/replacechars.txt')
@@ -246,12 +256,7 @@
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
-				card_list_arrayified = card_list_stringified.split('\\n');
-
-				for (let i = 0; i < card_list_arrayified.length; i++)
-				{
-					card_list_arrayified[i] = card_list_arrayified[i].split('\t');
-				}
+				card_list_arrayified = card_list.cards;
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 		
@@ -315,17 +320,51 @@
 		document.getElementById('sidebar').style.top = height + '%';
 	}
 
+	let horizontal = false;
+
 	function imgFlip(num) {
 		tmp = document.getElementById(num).src;
 		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
 		document.getElementById(num).dataset.alt_src = tmp;
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		if (horizontal && rotated_img.style.display == 'none')
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
 	}
 
-	function openSidebar(id) {
+	function openSidebar(id, h=false) {
+		horizontal = h;
 		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
 		
 		document.getElementById('sidebar').style.display = 'grid';
-		document.getElementById('sidebar_img').src = document.getElementById(id).src;
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+
+		if (horizontal)
+		{
+			rotated_img.src = document.getElementById(id).src;
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
 		if (document.getElementById(id).dataset.alt_src)
 		{
 			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
@@ -367,13 +406,13 @@
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
-				let card_name = card_list_arrayified[i][0];
+				let card_name = card_list_arrayified[i].card_name;
 				for (const char of specialchars)
 				{
 					card_name = card_name.replaceAll(char, "");
 				}
 
-				window.location = ('/cards/' + card_list_arrayified[i][11] + '/' + card_list_arrayified[i][4] + '_' + card_name);
+				window.location = ('/cards/' + card_list_arrayified[i].set + '/' + card_list_arrayified[i].number + '_' + card_name);
 			}
 	</script>
 </body>
