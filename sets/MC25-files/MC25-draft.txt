@@ -3687,3 +3687,364 @@
 			}
 		}
 	]
+[WildcardSlot(15)]
+	1 Aparodist_MC25
+	1 Blind Eternal_MC25
+	1 Formless Eidolon_MC25
+	1 The Infinite_MC25
+	1 Restless Explorer_MC25
+	1 Zareen's Pariah_MC25
+	1 Anointed Cursebreaker_MC25
+	1 Artificial Sanctity_MC25
+	1 Astral Capricine_MC25
+	1 Atal, the Shroudmaker_MC25
+	1 Avengeance Angel_MC25
+	1 Ayala's Blessing_MC25
+	1 Banishing Initiate_MC25
+	1 Battlesuit Prototyping_MC25
+	1 Beyond the Veil_MC25
+	1 Bioluminescent Display_MC25
+	1 Cai Lan, the Puppeteer_MC25
+	1 Cassia the Carefree_MC25
+	1 Celestial Concordance_MC25
+	1 Chronicles of the Kitsune_MC25
+	1 Conscious Taboo_MC25
+	1 Entelan Idealist_MC25
+	1 Evolution's End_MC25
+	1 Folsen, King of Valimir_MC25
+	1 Fulguration_MC25
+	1 Gaoming, Foxes' Friend_MC25
+	1 Gao'Wu, Humble Sibyl_MC25
+	1 Hanabira, Kogane's Legacy_MC25
+	1 Helena, the Awakener_MC25
+	1 Heliod, the Ceaseless Dawn_MC25
+	1 Herald of the White Orchid_MC25
+	1 Inconspicuous Loxodon_MC25
+	1 Justiciar Overseer_MC25
+	1 Kernel Quarantine_MC25
+	1 Legacy Warmask_MC25
+	1 Luna, Loyal Friend_MC25
+	1 Margyd's Celebrant_MC25
+	1 Once More with Heart_MC25
+	1 Order Module_MC25
+	1 Pious Flutist_MC25
+	1 Promised Exaltation_MC25
+	1 Proud Lion_MC25
+	1 Queen Andarli, the Fierce_MC25
+	1 Seraph of the Stage_MC25
+	1 Solari's Faithful_MC25
+	1 Spectral Chains_MC25
+	1 Tegan, the Sparrowhawk_MC25
+	1 Unwrite_MC25
+	1 Visions of Sand and Steel_MC25
+	1 Xifang Hu, Light Within_MC25
+	1 Zareen, the Second Shah_MC25
+	1 Abscond_MC25
+	1 Aetheric Researcher_MC25
+	1 Agent of Deception_MC25
+	1 Buoyant Thoughts_MC25
+	1 Consider_MC25
+	1 Consult the Dewdrops_MC25
+	1 Cryptosphinx_MC25
+	1 Daring Escapade_MC25
+	1 Diligent Fishermen_MC25
+	1 Dream Monologue_MC25
+	1 Duncaster Nightwatcher_MC25
+	1 Expel from the Dungeon_MC25
+	1 Forbiddance_MC25
+	1 Generated Genius_MC25
+	1 Hand of Dominion_MC25
+	1 Hydrolyze_MC25
+	1 Iekin's Portal_MC25
+	1 Imagine_MC25
+	1 Inner Thoughts_MC25
+	1 Iterative Designer_MC25
+	1 Keranos's Ideosphinx_MC25
+	1 Logic Module_MC25
+	1 Makodonis, Prime Exemplar_MC25
+	1 Megalokraken_MC25
+	1 Mizuki, Lady of All Waters_MC25
+	1 Ominous Discovery_MC25
+	1 Power Control_MC25
+	1 Prognosticate_MC25
+	1 Pull from Beyond_MC25
+	1 Realm Crossers_MC25
+	1 Reconstructed Adept_MC25
+	1 Reflected Moment_MC25
+	1 Retort Nonsense_MC25
+	1 Rixia, Rift Shunted_MC25
+	1 Root Corruption_MC25
+	1 A Rush of Stillness in the Air_MC25
+	1 Scatter Riches_MC25
+	1 Stillmarsh Brinecatcher_MC25
+	1 Study the Maps_MC25
+	1 A Sucker for You_MC25
+	1 Unseen Maniac_MC25
+	1 Veiled by the Blizzard_MC25
+	1 Way of Water_MC25
+	1 Worn Study_MC25
+	1 Zirrat, the Soulsearcher_MC25
+	1 Ambitious Necromancer_MC25
+	1 Antithesis_MC25
+	1 Arroyo, Infinitely Branching_MC25
+	1 Blood Artist_MC25
+	1 Brutalize_MC25
+	1 Carrion Scythe_MC25
+	1 Channeler of the Veil_MC25
+	1 Chigau, the Red Market_MC25
+	1 Corpsecaster Mage_MC25
+	1 Corrupted Memory_MC25
+	1 Crypt Gnawer_MC25
+	1 Crypt Tutor_MC25
+	1 Deathless Siege_MC25
+	1 Demon of Dark Shadows_MC25
+	1 Dias, Freed from Belief_MC25
+	1 Eldritch Emergence_MC25
+	1 Enopraxia's Endeavor_MC25
+	1 Erebos, the Imminent End_MC25
+	1 Groz, the Nightshaper_MC25
+	1 Halford, the Rightful King_MC25
+	1 Inevitable Future_MC25
+	1 Inexorable Epidemic_MC25
+	1 Jejun, Dark Hunter_MC25
+	1 Kai'Long, the Call of the Dark_MC25
+	1 Legion of Giradrus_MC25
+	1 Leyline Invoker_MC25
+	1 Malefic Portal_MC25
+	1 Mennin Pack_MC25
+	1 Mutual Destruction_MC25
+	1 Nherix, the Soulcage_MC25
+	1 Niu Mo Wang, Ashen Absolution_MC25
+	1 Oriq Soulweaver_MC25
+	1 Pestilent Scavenger_MC25
+	1 Power Module_MC25
+	1 Professor's Notes_MC25
+	1 Reclusive Augur_MC25
+	1 Salome's Intervention_MC25
+	1 Sedraxis Trepanator_MC25
+	1 Sesilius of Wicked Ways_MC25
+	1 Shikai Revenant_MC25
+	1 Sultan of Avarice_MC25
+	1 Surge of Darkness_MC25
+	1 Unstill Unlife_MC25
+	1 Void Portal_MC25
+	1 Young Necromancer_MC25
+	1 Ada, the Free_MC25
+	1 Anax's Endeavor_MC25
+	1 Auros, the Red King_MC25
+	1 Blood Cult Covenant_MC25
+	1 Bloodbelly Glutton_MC25
+	1 Brightflame Phoenix_MC25
+	1 Brimstone Oration_MC25
+	1 Cinderhoof Minotaur_MC25
+	1 Conquer Psyche_MC25
+	1 Creative Salvage_MC25
+	1 Crimson Knight_MC25
+	1 Crimson Sunrise_MC25
+	1 Curio Hellkite_MC25
+	1 Damning Flames_MC25
+	1 Exhilarating Prescience_MC25
+	1 Extraction Mercenary_MC25
+	1 Feeding Time_MC25
+	1 Ferocious Flame_MC25
+	1 Festival Sabotage_MC25
+	1 Fiery Erasure_MC25
+	1 Fires of Renewal_MC25
+	1 Flamecloaked Artisan_MC25
+	1 From Ancient Tomes_MC25
+	1 Heartforge Savant_MC25
+	1 Hinterland Ritualist_MC25
+	1 Identity Module_MC25
+	1 Lt. Daisy Saxon_MC25
+	1 Martial Maestro_MC25
+	1 Metal Munch_MC25
+	1 Minister of Zealots_MC25
+	1 Nacatl Skirmisher_MC25
+	1 Neon Claw Knight_MC25
+	1 Oathbreaker Orc_MC25
+	1 Ominous Dragoncaller_MC25
+	1 Paint with Starflame_MC25
+	1 Prince of Stars_MC25
+	1 Quantum Bit_MC25
+	1 Ragavan, Most Wanted_MC25
+	1 Reckless Mutationist_MC25
+	1 Scarletblood Hound_MC25
+	1 Scourge of the Mountains_MC25
+	1 Tunu, Ancient Shaper_MC25
+	1 Valeri Kripac_MC25
+	1 Voidflare_MC25
+	1 Xiusheng of the Dragon Realm_MC25
+	1 Adiran Scryers_MC25
+	1 Advanced Powercell_MC25
+	1 Agency Doorbreakers_MC25
+	1 Arbor Protector_MC25
+	1 Astral Leucrocota_MC25
+	1 Astralhorn Familiar_MC25
+	1 Consuming Symbiosis_MC25
+	1 Critters' Companion_MC25
+	1 El, Humble Apprentice_MC25
+	1 Elvish Wayfinder_MC25
+	1 Embodiment of Nature_MC25
+	1 Esalia, Steward of Caer Crann_MC25
+	1 Field Tender_MC25
+	1 Gorganith, Ruin Maw_MC25
+	1 Into the Woods_MC25
+	1 Kantra of Bounty_MC25
+	1 Kou, Primal Shepherd_MC25
+	1 Mattia, Hero of Tinyvale_MC25
+	1 Mob Rallier_MC25
+	1 Natural Philosopher_MC25
+	1 Nitrous Renewer_MC25
+	1 Olten Surveyor_MC25
+	1 Performer of Growth_MC25
+	1 Petal Scatterer_MC25
+	1 Powercell Cultivator_MC25
+	1 Primal Resurgence_MC25
+	1 Primordial Artisan_MC25
+	1 Relentless Pathcutter_MC25
+	1 Relic Corrosion_MC25
+	1 Root Module_MC25
+	1 Rova, the Fleshweaver_MC25
+	1 Runebound Disciple_MC25
+	1 Savage Congregation_MC25
+	1 Stardust Surveyor_MC25
+	1 Studies Past_MC25
+	1 Vassal of the Wild_MC25
+	1 Victory Over Phyrexia_MC25
+	1 Vivien the Sagittar_MC25
+	1 Vorreia, Farseer_MC25
+	1 Warfield Excavator_MC25
+	1 Wildlife Sketches_MC25
+	1 Xira, Scatterer of Seeds_MC25
+	1 Yeshin of New Humanity_MC25
+	1 Zadyk Ritualist_MC25
+	1 Frayed Nerves_MC25
+	1 Lost Through Dreams_MC25
+	1 Salome_MC25
+	1 Edarna the Everforge_MC25
+	1 Twinfire Dragon_MC25
+	1 Petal-Weaver Alexa_MC25
+	1 Tend to the Grove_MC25
+	1 Gathering the Gang_MC25
+	1 Tendrilsnare_MC25
+	1 Alonzo, Departed Detective_MC25
+	1 Somber River Bearer_MC25
+	1 Cosmic Coalescing_MC25
+	1 Paul, Rock Bottom_MC25
+	1 Irbek, Crocodile Hunter_MC25
+	1 Whisperwoods Exploration_MC25
+	1 Comet, Pulled from Orbit_MC25
+	1 Commanding Princess_MC25
+	1 Helene Trant_MC25
+	1 In Dire Straits_MC25
+	1 Avalia, Cyber Stalker_MC25
+	1 Ayala's Effigy_MC25
+	1 Barten's Journal_MC25
+	1 Gate of Realms_MC25
+	1 Giltwork Legacy_MC25
+	1 Goblin War Chariot_MC25
+	1 Harvest Reaper_MC25
+	1 L.O.T.U.S._MC25
+	1 Lightblessed Claymore_MC25
+	1 Masterwork Archivist_MC25
+	1 Monument to the Fallen Man_MC25
+	1 Pinnacle of Purity_MC25
+	1 Soul of New Alores_MC25
+	1 Soul-Synthesizer_MC25
+	1 Unicorn of the Vale_MC25
+	1 Volatile Stonework_MC25
+	1 Voyager's Ark_MC25
+	1 Wayfarer's Lantern_MC25
+	1 Xueyang San_MC25
+	1 Amber Hills_MC25
+	1 Ancestral Glade_MC25
+	1 Arctic Mine_MC25
+	1 Barren Desolation_MC25
+	1 Bustling Marketplace_MC25
+	1 City Gate_MC25
+	1 Cloudpeak Spires_MC25
+	1 Cresting Bay_MC25
+	1 Crumbling Precipice_MC25
+	1 Crystal Cavern_MC25
+	1 Enchanting Palace_MC25
+	1 Firehearth Halls_MC25
+	1 Flooded Morass_MC25
+	1 Floodwater Depths_MC25
+	1 Flourishing Crevasse_MC25
+	1 Forgotten Steppe_MC25
+	1 Frostfire Geysers_MC25
+	1 Fungal Mire_MC25
+	1 Gloomcover Steppe_MC25
+	1 Grim Bastion_MC25
+	1 Heart of the Glade_MC25
+	1 Heart of Zhedina_MC25
+	1 Lavatorn Fields_MC25
+	1 Lush Oasis_MC25
+	1 Magmatic Torrent_MC25
+	1 Midnight Gate_MC25
+	1 Murmuring Falls_MC25
+	1 Mysterious Cataract_MC25
+	1 Nebula of Empty Gold_MC25
+	1 New Divide_MC25
+	1 Nomad's Township_MC25
+	1 Ocean Monastery_MC25
+	1 Pool of Light_MC25
+	1 Rampant Summit_MC25
+	1 Resplendent Substratum_MC25
+	1 Seaside Grotto_MC25
+	1 Sedate Tundra_MC25
+	1 Serene Chapel_MC25
+	1 Shardstone Rift_MC25
+	1 Shifting Glade_MC25
+	1 Shikai's Redoubt_MC25
+	1 Spiraling Canyon_MC25
+	1 Sunlit Highland_MC25
+	1 Sunlit Meadow_MC25
+	1 Sunrise Orchard_MC25
+	1 Swarming Midden_MC25
+	1 Timber Range_MC25
+	1 Timeworn Crags_MC25
+	1 Wayfarer's Shrine_MC25
+	1 Wise Old Oak_MC25
+	1 Almgrove Skydancer
+	1 Big Damn Heroes
+	1 Hundred Years of Solitude
+	1 Pact of the Moon
+	1 Qulai, Orchard Guardian
+	1 Digital Encores
+	1 Dimensional Denial
+	1 Liminality
+	1 Lumbering Thoctar
+	1 Marilye, Everplundering
+	1 Bitter Corvus
+	1 Dirty Cleanup
+	1 Karatuy, Privileged Son
+	1 Profane Call
+	1 Sinner's Solace
+	1 Devotee of the Boar
+	1 Fuel for the Fire
+	1 Joys and Burdens Shared
+	1 Reckless Defiance
+	1 Valakut Hellkite
+	1 Belly of the Beast
+	1 Exhaustive Harvest
+	1 Inquisitive Tracker
+	1 Muse of Summer Revelry
+	1 Etheria, Sublime One
+	1 Deepweb Consultation
+	1 Ogura, Contracted Rebel
+	1 Thunderous Avarice
+	1 Ajani, Caller of the Hosts
+	1 Eternal Journey
+	1 Century Genius
+	1 Krallenhorde Abomination
+	1 Divide the Imperial Arsenal
+	1 Bring to Harmony
+	1 Android Bodega
+	1 Mechanus, Awakened Code
+	1 Tech Chaser
+	1 Ubitsa Forge
+	1 Blossoming Verge
+	1 Lian Taizi, Bountiful Earth
+	1 Bound by Nature
+	1 Intrepid

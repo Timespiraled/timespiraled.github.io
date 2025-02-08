@@ -4975,3 +4975,480 @@
 			}
 		}
 	]
+[Cube Slot(15)]
+	1 Shiftscape Canyon
+	1 Shiftscape Cascade
+	1 Shiftscape Crag
+	1 Shiftscape Grove
+	1 Shiftscape Morass
+	1 Angelic Barracks
+	1 Citadel Gates
+	1 Coveted Tower
+	1 Den of Vice
+	1 Destroyed Isle
+	1 Pristine Chapel
+	1 Reborn Altar
+	1 Sturdy Outpost
+	1 Sunflower Fields
+	1 Tree of Timelines
+	1 Formless Eidolon
+	1 Intrepid
+	1 Mutalithic Golem
+	1 Morphic Verge
+	1 Zareen's Pariah
+	1 Elemental Essence
+	1 Gilded Guardian
+	1 Greater Masticore
+	1 Haunted Heirloom
+	1 Heartless Army
+	1 Sword of Rags and Riches
+	1 Xedrios, Progenitor Wyrm
+	1 Bustling Marketplace
+	1 Cave of Pleonexia
+	1 Chamber of Splendor
+	1 Nebula of Empty Gold
+	1 New Divide
+	1 Wondrous Bazaar
+	1 Concordant Palace
+	1 Eidolic Palace
+	1 Eminent Palace
+	1 Forbidden Palace
+	1 Forsaken Palace
+	1 Montane Palace
+	1 Ominous Palace
+	1 Opalescent Palace
+	1 Radiant Palace
+	1 Serene Palace
+	1 Autumnal Boscage
+	1 Molten Mire
+	1 Splendid Scenery
+	1 Waterfront Market
+	1 Whispering Canal
+	1 Basin Fortress
+	1 Boneyard Pass
+	1 Frostpoint Caldera
+	1 Spinerock Canyon
+	1 Thawing Valley
+	1 Chromatic Lantern
+	1 Sword of Silver and Gold
+	1 Imperial Port
+	1 Adrift into Endless Stories
+	1 Aminatou, Justicar
+	1 Angel of Infinite Faces
+	1 Call of the Huma
+	1 Champion of Foibles
+	1 Champion of Ideals
+	1 Chosen of Aminatou
+	1 Guardian of the Devout
+	1 Maaru, Tomb Guardian
+	1 Nakia, Infinity Seer
+	1 Unruly Magus
+	1 Ya'Ling, the Rune-Drake
+	1 Orlesia, First of the Sen
+	1 Dayang's Displeasure
+	1 Arcanist's Reaver
+	1 Nefarox, Strifelord
+	1 Tumultipede
+	1 Antali Archdruid
+	1 Soulwrought Songster
+	1 Inciter of Spirits Scorned
+	1 Breyga, Frontier Expert
+	1 Satyr Celebrant
+	1 Salim and Certo
+	1 Calenfyr
+	1 Streets of Mustasheen
+	1 Rain Zai, Spiritscale
+	1 Mortal Benediction
+	1 A Recipe for Disaster
+	1 Eryth, Mire Dredger
+	1 Dali, the Eyes of Danaj
+	1 Ineptitude
+	1 Mia, Into the Unknown
+	1 Main Role Maiden
+	1 Over the Moon
+	1 Host of the Celebration
+	1 The Ardent Prodigy
+	1 A Bond that Spans Planes
+	1 Updraft Dancer
+	1 Brandy Axel, Combat's Baby
+	1 Emperor Dan Te Mogui
+	1 Power Plant
+	1 Contemplate the Cosmos
+	1 Fight for Succession
+	1 Salome
+	1 Esmerie, Skysworn General
+	1 Nozar, Dunesea Merchant
+	1 Ajani Resolute
+	1 Bitter Duckling
+	1 Omegalomania
+	1 Atieh, Seer of Distant Futures
+	1 Fahrib, the Ever-Scheming
+	1 Andazir, First to Aspire
+	1 Sahra, Hadak's Last Warrior
+	1 Abwad Kahroba, Failed Son
+	1 Mahara, General of All
+	1 Rahstahde, Brand of Truth
+	1 Tamaak the Arid Swarm
+	1 Cyrukan of Heart and Iron
+	1 Martoob of Flowing Life
+	1 Veeni, High Truthseeker
+	1 Ghulish Unearthing
+	1 Sahra, the Consuming
+	1 Kahroba, Forefather of All
+	1 Mahara, the Universal
+	1 Rahstahde, Word of Truth
+	1 Martoob, Blessing of Water
+	1 Ruinous Naga
+	1 Archive Guardian
+	1 Tyrant of Tributes
+	1 Tenvilu, Earthen Warden
+	1 Quinn, the Performer
+	1 Titanic Fossil
+	1 Recall Forgotten Eons
+	1 Dai Gui, Pillar of Sea and Sky
+	1 Hannah, Aethertechnician
+	1 One of Purpose
+	1 Desraen, Serpent's Will
+	1 Death Pits Hawker
+	1 Azun, Sheriff of Daisite
+	1 Ishim's Meddling
+	1 Bvala, Queen of the Swarm
+	1 Cd-hr, Raid Leader
+	1 Atieh's Destiny
+	1 Delve for Treasures
+	1 Djinn of the Waning Candle
+	1 Boon of the Pacts
+	1 Ameret, Pride of Cyrukan
+	1 Chi Lee of the Underworld
+	1 Will of a Fickle Lord
+	1 Neural Contagion
+	1 Glinthide Hero
+	1 The Lost and Seeking
+	1 Ye Feng, Lotus Apothecary
+	1 Oracle's Disciple
+	1 All-Enduring Mafua
+	1 Opportunistic Raiders
+	1 Lumbering Ox
+	1 Unlikeliest Heroes
+	1 Siaveed, Commander of Armies
+	1 The Grand Simurgh
+	1 Zareen Kahroba, Shah
+	1 Guardians of Kallian's Tomb
+	1 Tempting Shahmaran
+	1 Sahra's Harbinger
+	1 Swooping Manticore
+	1 Muktann Protectors
+	1 Twice Blessed
+	1 Hidden Garden Entrance
+	1 Feather of the Simurgh
+	1 Entelan Deep Storage
+	1 Celestial Concordance
+	1 Change of Station
+	1 Unwrite
+	1 Once More with Heart
+	1 Journey's End
+	1 Beyond the Veil
+	1 Ayala's Blessing
+	1 End of Days
+	1 Mari, Dawn Resurgent
+	1 Ostracizer Orb
+	1 Polytheism
+	1 Calfu, Greatest Toqui
+	1 Heart of Carü Mapu
+	1 Castigated Sister
+	1 Etlan High Priest
+	1 Herald of the White Orchid
+	1 Waxing Angel
+	1 Satrapy General
+	1 Conchhorn Shinygrabber
+	1 Disciple of Faradia
+	1 Major Benjamin Stout
+	1 Dawn Over Soli
+	1 Seraph of Sunset
+	1 Savior-Tactician
+	1 Seraph of the Stage
+	1 Promised Exaltation
+	1 Zareen, the Second Shah
+	1 Hollow Simulacrum
+	1 High Priest of Kahroba
+	1 Atieh's Elite
+	1 Aberrant Apostle
+	1 Blessing from Wings on High
+	1 Underpass Sentinel
+	1 Queen Hannaru
+	1 Luna, Loyal Friend
+	1 Embodied Soul
+	1 Parish Paragon
+	1 Queen Andarli, the Fierce
+	1 Bearer of the Lantern
+	1 Soli Arbalist
+	1 Crisis in Soli
+	1 Avaz Rising
+	1 Runeclad Seeker
+	1 Deliverance Branch
+	1 Abjuration Savant
+	1 Justiciar Overseer
+	1 Knight of Valimir
+	1 Lijing, the True Divinity
+	1 Dawn Over Nizev
+	1 Golden Age
+	1 Jahan, the Third Shah
+	1 Marilye, the Thieving Blade
+	1 Martoob Lifeshaper
+	1 One Person's Trash
+	1 Opulent Ankulim
+	1 Satrapy Merchant
+	1 Settling of Soli
+	1 Streetwise Spellseeker
+	1 Tyrant of the Depths
+	1 Wildershrine Pilgrimage
+	1 Wayfarer's Shrine
+	1 Channeling Stone
+	1 Desert Temple
+	1 Heart of Zhedina
+	1 Lotus Barrens
+	1 Royal Domain
+	1 The High Prairies
+	1 Zhedina Exchange
+	1 Azamir, Wayward Titan
+	1 Coalition Relic
+	1 Mettalia, Light from Above
+	1 Runic Pillars
+	1 Makshi, Patron of Blades
+	1 Unravel Shattered Worlds
+	1 Weeping Lotus
+	1 Gilded Lotus
+	1 Gate of Realms
+	1 Sealed Riftway
+	1 Renewal Grove
+	1 Fabled Passage
+	1 Mana Rose
+	1 Gilded Spyglass
+	1 Gilded Gearhulk
+	1 Titan Snare
+	1 Academic's Claymore
+	1 Cortex Coil
+	1 Horn of Seasons
+	1 Setessan Armaments
+	1 Merchant's Outpost
+	1 Restored Automaton
+	1 Rippling Curtain
+	1 Unicorn of the Vale
+	1 Seeker of Mysteries
+	1 Wanderer of Many
+	1 Swarm of the Dispossessed
+	1 Juyu Offering Pool
+	1 Psionic Rebuke
+	1 Cosmic Sinkhole
+	1 Cursory Glance
+	1 Portal Fracture
+	1 Redo
+	1 Monkeyshines
+	1 Watch from Above
+	1 Wheat from Chaff
+	1 Flood of Information
+	1 Duncaster Nightwatcher
+	1 Hasan of Clashing Truths
+	1 Steward of Second Sphere
+	1 Shatter Mortal Conveyances
+	1 Reveal Eternities
+	1 Reconstructed Adept
+	1 Prodigious Panya
+	1 Sphinx of Ill Omens
+	1 Fractured Prodigy
+	1 Spectrum Archmage
+	1 Cephalovorous Flukes
+	1 Mirrorsoul Mage
+	1 Qing Long, Capricious Wind
+	1 Acolyte of Water
+	1 Master Negotiator
+	1 Consult on Ages Lost
+	1 Wade Through
+	1 Terraformer's Globe
+	1 Lurzog, Kytherax's Disciple
+	1 Assault of the Conscripted
+	1 Astral Assassination
+	1 Crisis in Kaneh
+	1 Danaj Rising
+	1 Dawn Over Kaneh
+	1 Doomed Explorer
+	1 Dutybound Ghul
+	1 Greedstoker Demon
+	1 Merchant of Flesh
+	1 A Most Important Prince
+	1 Pay Up
+	1 Piruz, the Fourth Shah
+	1 Profane Emissary
+	1 Reckoner of Kaneh
+	1 Rhythm of Kaneh
+	1 Satrapy Overseer
+	1 Settling of Nizev
+	1 Veindrinker's Cabalist
+	1 Ashfeaster Ghouls
+	1 Dark Rite Cultist
+	1 Impden Mother
+	1 Invoking the Name
+	1 Kai'Long, the Call of the Dark
+	1 Lizhao, Last Breath of the Yenzu
+	1 Mind's Contagion
+	1 Nether Fiend
+	1 Niu Mo Wang, Ashen Absolution
+	1 Rapacious Demon
+	1 Traverse the Endless Well
+	1 Undying Lich
+	1 Warden of the Dead
+	1 Archfiend of Rage
+	1 Austere Instructor
+	1 Bustling Bazaar
+	1 Byte Blitz
+	1 Cyrukan Battleaxe
+	1 Dawn Over Avaz
+	1 Efreetspeaker
+	1 Firebolt
+	1 Fiery Efreet
+	1 Enraptured Countess
+	1 Flensing Tormentor
+	1 Furious Blow
+	1 Hidden Cache
+	1 Ire of Ancient Tomes
+	1 Jal's Spawn
+	1 Master of Imports
+	1 Paygan Archer
+	1 Ragavan, Most Wanted
+	1 Satrapy Protector
+	1 Settling of Avaz
+	1 Shae, Master Evoker
+	1 Shapur, the Fifth Shah
+	1 Strongarm
+	1 Take All You Can Carry
+	1 Truthseeker's Blade
+	1 Xiyue Dragondancer
+	1 Border Seeker
+	1 Colossus of Alkabah
+	1 Crewmaster Gillo
+	1 Crisis in Avaz
+	1 Danaj Sightseer
+	1 Distant Worlds
+	1 Fardancer Liege
+	1 Golna, the First Shah
+	1 Hierarch Ranger
+	1 Jobiah, Devoted Farmer
+	1 Lasting Legacy
+	1 Long-Term Method Actor
+	1 Mana Ascetic
+	1 Martoob Beastkeeper
+	1 Ophorion Refugee
+	1 Osk, the Maker's Pet
+	1 Rethia Cultivator
+	1 Rhythm of Danaj
+	1 Satrapy Courier
+	1 Seeker of Untouched Beauty
+	1 Spawn of Andazir
+	1 Thriving Budling
+	1 Voracious Spawn
+	1 Voidflare
+	1 Champion of Scales
+	1 Arbor Protector
+	1 Undermarket Guildmaster
+	1 Descend into Insanity
+	1 Infernal Portal
+	1 Surge of Darkness
+	1 Jejun, Dark Hunter
+	1 Lizhao, Lord of the Yaogu
+	1 Dreadbearer
+	1 Strike from the Shadows
+	1 Sudden Drought
+	1 The Afterlife Takes Its Due
+	1 Vibrant Rapture
+	1 Akrianos' Command
+	1 Edge of the Water
+	1 Avid Researcher
+	1 Scuttling Gnat
+	1 Departed Evangel
+	1 One Bad Night
+	1 Unearth
+	1 Whistling Blades
+	1 Crimson Hellmaw
+	1 Brazen Sacrilege
+	1 Ambitious Truthseeker
+	1 Dawn Over Danaj
+	1 Dreaded of Sahra
+	1 Settling of Danaj
+	1 Minister of Zealots
+	1 Autumnal Watch
+	1 Zare, Heart Transformed
+	1 Blood Cult Covenant
+	1 Caller of Hunger
+	1 Into Strange Territories
+	1 Jade Vault Reclaimer
+	1 Sacrificial Bull
+	1 Wildlife Sketches
+	1 World Made Anew
+	1 Beyond All Horizons
+	1 From Unbidden Realms
+	1 Stand Unassailable
+	1 Tower Over The Sky
+	1 Twisted Stampede
+	1 Build Monsters from Relics
+	1 Doom
+	1 Kui Mu Lang, Warden Below
+	1 Xijiang, the Fiend Judge
+	1 Hunter's Hideout
+	1 Extraction Mercenary
+	1 Horizon Augur
+	1 Tomb Steward
+	1 Emerald Warcaller
+	1 Sower of Wishes
+	1 Avatar of the Natural
+	1 Casualty of War
+	1 Calamari Dragon
+	1 Hao'Tai, the Ancient One
+	1 Merkurio's Familiar
+	1 Worldheart Avatar
+	1 Zhu Long, Refulgent Wind
+	1 Purphoros, the Fervid Flame
+	1 Roggar the Furious
+	1 Scorch
+	1 Nylea, the Wild Chase
+	1 Ancient of the Glade
+	1 Avatar of Plume de Val
+	1 Untethered Disciple
+	1 Babyscale Bruiser
+	1 Leyran Alpha
+	1 Soli Rising
+	1 Mahnaz of Moonlit Blades
+	1 Helena, the Awakener
+	1 Lisa, the Daughter
+	1 Mutual Destruction
+	1 Out-of-Body Experience
+	1 Forbiddance
+	1 Blazing Exultation
+	1 Fatal Decision
+	1 Amorphous Tyrant
+	1 Search for a New Land
+    [Satrapy Slot(1)]
+	1 Avaz Citadel
+	2 Avaz Fortress
+	2 Avaz Sanctuary
+	2 Avaz Temple
+	1 Burgeoning Satrapy
+	1 Danaj Citadel
+	2 Danaj Fortress
+	2 Danaj Sanctuary
+	2 Danaj Temple
+	1 Kaneh Citadel
+	2 Kaneh Fortress
+	2 Kaneh Sanctuary
+	2 Kaneh Temple
+	1 Marketplace Crossroads
+	1 Mercantile Satrapy
+	1 Neutral Citystate
+	1 Nizev Citadel
+	2 Nizev Fortress
+	2 Nizev Sanctuary
+	2 Nizev Temple
+	1 Shifting City
+	1 Soli Citadel
+	2 Soli Fortress
+	2 Soli Sanctuary
+	2 Soli Temple
