@@ -1,0 +1,4977 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Shiftscape Canyon",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "435",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/435_Shiftscape Canyon.png"
+			}
+		},
+		{
+			"name": "Shiftscape Cascade",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "436",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/436_Shiftscape Cascade.png"
+			}
+		},
+		{
+			"name": "Shiftscape Crag",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "437",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/437_Shiftscape Crag.png"
+			}
+		},
+		{
+			"name": "Shiftscape Grove",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "438",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/438_Shiftscape Grove.png"
+			}
+		},
+		{
+			"name": "Shiftscape Morass",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "439",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/439_Shiftscape Morass.png"
+			}
+		},
+		{
+			"name": "Angelic Barracks",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "396",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/396_Angelic Barracks.png"
+			}
+		},
+		{
+			"name": "Citadel Gates",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "404",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/404_Citadel Gates.png"
+			}
+		},
+		{
+			"name": "Coveted Tower",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "406",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/406_Coveted Tower.png"
+			}
+		},
+		{
+			"name": "Den of Vice",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "407",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/407_Den of Vice.png"
+			}
+		},
+		{
+			"name": "Destroyed Isle",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "409",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/409_Destroyed Isle.png"
+			}
+		},
+		{
+			"name": "Pristine Chapel",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "429",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/429_Pristine Chapel.png"
+			}
+		},
+		{
+			"name": "Reborn Altar",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "431",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/431_Reborn Altar.png"
+			}
+		},
+		{
+			"name": "Sturdy Outpost",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "442",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/442_Sturdy Outpost.png"
+			}
+		},
+		{
+			"name": "Sunflower Fields",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "443",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/443_Sunflower Fields.png"
+			}
+		},
+		{
+			"name": "Tree of Timelines",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "445",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/445_Tree of Timelines.png"
+			}
+		},
+		{
+			"name": "Formless Eidolon",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Creature — Spirit Horror ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/3_Formless Eidolon.png"
+			}
+		},
+		{
+			"name": "Intrepid",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Vehicle ",
+			"collector_number": "379",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/379_Intrepid.png"
+			}
+		},
+		{
+			"name": "Mutalithic Golem",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Golem Shapeshifter ",
+			"collector_number": "383",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/383_Mutalithic Golem.png"
+			}
+		},
+		{
+			"name": "Morphic Verge",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "423",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/423_Morphic Verge.png"
+			}
+		},
+		{
+			"name": "Zareen's Pariah",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Creature — Djinn Shaman ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/6_Zareen's Pariah.png"
+			}
+		},
+		{
+			"name": "Elemental Essence",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "367",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/367_Elemental Essence.png"
+			}
+		},
+		{
+			"name": "Gilded Guardian",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "371",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/371_Gilded Guardian.png"
+			}
+		},
+		{
+			"name": "Greater Masticore",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Masticore ",
+			"collector_number": "374",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/374_Greater Masticore.png"
+			}
+		},
+		{
+			"name": "Haunted Heirloom",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Spirit Knight ",
+			"collector_number": "375",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/375_Haunted Heirloom.png"
+			}
+		},
+		{
+			"name": "Heartless Army",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Soldier Army ",
+			"collector_number": "377",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/377_Heartless Army.png"
+			}
+		},
+		{
+			"name": "Sword of Rags and Riches",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "389",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/389_Sword of Rags and Riches.png"
+			}
+		},
+		{
+			"name": "Xedrios, Progenitor Wyrm",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact Creature — Dragon ",
+			"collector_number": "395",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/395_Xedrios, Progenitor Wyrm.png"
+			}
+		},
+		{
+			"name": "Bustling Marketplace",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "400",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/400_Bustling Marketplace.png"
+			}
+		},
+		{
+			"name": "Cave of Pleonexia",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "401",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/401_Cave of Pleonexia.png"
+			}
+		},
+		{
+			"name": "Chamber of Splendor",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "402",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/402_Chamber of Splendor.png"
+			}
+		},
+		{
+			"name": "Nebula of Empty Gold",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "424",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/424_Nebula of Empty Gold.png"
+			}
+		},
+		{
+			"name": "New Divide",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "425",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/425_New Divide.png"
+			}
+		},
+		{
+			"name": "Wondrous Bazaar",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "449",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/449_Wondrous Bazaar.png"
+			}
+		},
+		{
+			"name": "Concordant Palace",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "405",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/405_Concordant Palace.png"
+			}
+		},
+		{
+			"name": "Eidolic Palace",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "410",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/410_Eidolic Palace.png"
+			}
+		},
+		{
+			"name": "Eminent Palace",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "411",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/411_Eminent Palace.png"
+			}
+		},
+		{
+			"name": "Forbidden Palace",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "413",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/413_Forbidden Palace.png"
+			}
+		},
+		{
+			"name": "Forsaken Palace",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "414",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/414_Forsaken Palace.png"
+			}
+		},
+		{
+			"name": "Montane Palace",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "422",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/422_Montane Palace.png"
+			}
+		},
+		{
+			"name": "Ominous Palace",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "426",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/426_Ominous Palace.png"
+			}
+		},
+		{
+			"name": "Opalescent Palace",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "427",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/427_Opalescent Palace.png"
+			}
+		},
+		{
+			"name": "Radiant Palace",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "430",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/430_Radiant Palace.png"
+			}
+		},
+		{
+			"name": "Serene Palace",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "434",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/434_Serene Palace.png"
+			}
+		},
+		{
+			"name": "Autumnal Boscage",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "397",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/397_Autumnal Boscage.png"
+			}
+		},
+		{
+			"name": "Molten Mire",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "421",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/421_Molten Mire.png"
+			}
+		},
+		{
+			"name": "Splendid Scenery",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "441",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/441_Splendid Scenery.png"
+			}
+		},
+		{
+			"name": "Waterfront Market",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "446",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/446_Waterfront Market.png"
+			}
+		},
+		{
+			"name": "Whispering Canal",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "448",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/448_Whispering Canal.png"
+			}
+		},
+		{
+			"name": "Basin Fortress",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "398",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/398_Basin Fortress.png"
+			}
+		},
+		{
+			"name": "Boneyard Pass",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "399",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/399_Boneyard Pass.png"
+			}
+		},
+		{
+			"name": "Frostpoint Caldera",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "415",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/415_Frostpoint Caldera.png"
+			}
+		},
+		{
+			"name": "Spinerock Canyon",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "440",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/440_Spinerock Canyon.png"
+			}
+		},
+		{
+			"name": "Thawing Valley",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "444",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/444_Thawing Valley.png"
+			}
+		},
+		{
+			"name": "Chromatic Lantern",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "364",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/364_Chromatic Lantern.png"
+			}
+		},
+		{
+			"name": "Sword of Silver and Gold",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "390",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/390_Sword of Silver and Gold.png"
+			}
+		},
+		{
+			"name": "Imperial Port",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "419",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/419_Imperial Port.png"
+			}
+		},
+		{
+			"name": "Adrift into Endless Stories",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/306_Adrift into Endless Stories.png"
+			}
+		},
+		{
+			"name": "Aminatou, Justicar",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Planeswalker — Aminatou ",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/307_Aminatou, Justicar.png"
+			}
+		},
+		{
+			"name": "Angel of Infinite Faces",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Creature — Angel Shaman ",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/308_Angel of Infinite Faces.png"
+			}
+		},
+		{
+			"name": "Call of the Huma",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Instant",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/314_Call of the Huma.png"
+			}
+		},
+		{
+			"name": "Champion of Foibles",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Creature — Azra Wizard ",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/315_Champion of Foibles.png"
+			}
+		},
+		{
+			"name": "Champion of Ideals",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Creature — Nephilim Warrior ",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/316_Champion of Ideals.png"
+			}
+		},
+		{
+			"name": "Chosen of Aminatou",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Creature — Angel Wizard ",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/317_Chosen of Aminatou.png"
+			}
+		},
+		{
+			"name": "Guardian of the Devout",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}{B}",
+			"type": "Creature — Angel Cleric ",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/322_Guardian of the Devout.png"
+			}
+		},
+		{
+			"name": "Maaru, Tomb Guardian",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}{G}",
+			"type": "Legendary Creature — Snake ",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/325_Maaru, Tomb Guardian.png"
+			}
+		},
+		{
+			"name": "Nakia, Infinity Seer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Legendary Creature — Angel Cleric ",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/329_Nakia, Infinity Seer.png"
+			}
+		},
+		{
+			"name": "Unruly Magus",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Creature — Azra Rogue Wizard ",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/344_Unruly Magus.png"
+			}
+		},
+		{
+			"name": "Ya'Ling, the Rune-Drake",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Creature — Drake ",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/346_Ya'Ling, the Rune-Drake.png"
+			}
+		},
+		{
+			"name": "Orlesia, First of the Sen",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Legendary Artifact Creature — Wizard ",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/331_Orlesia, First of the Sen.png"
+			}
+		},
+		{
+			"name": "Dayang's Displeasure",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Instant",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/319_Dayang's Displeasure.png"
+			}
+		},
+		{
+			"name": "Arcanist's Reaver",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Creature — Zombie Beast ",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/310_Arcanist's Reaver.png"
+			}
+		},
+		{
+			"name": "Nefarox, Strifelord",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Creature — Demon ",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/330_Nefarox, Strifelord.png"
+			}
+		},
+		{
+			"name": "Tumultipede",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Creature — Insect ",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/342_Tumultipede.png"
+			}
+		},
+		{
+			"name": "Antali Archdruid",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Creature — Cat Druid ",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/309_Antali Archdruid.png"
+			}
+		},
+		{
+			"name": "Soulwrought Songster",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Creature — Demon Horror ",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/338_Soulwrought Songster.png"
+			}
+		},
+		{
+			"name": "Inciter of Spirits Scorned",
+			"rarity": "rare",
+			"mana_cost": "{2}{R/G}{B}",
+			"type": "Creature — Goat Shaman ",
+			"collector_number": "361",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/361_Inciter of Spirits Scorned.png"
+			}
+		},
+		{
+			"name": "Breyga, Frontier Expert",
+			"rarity": "rare",
+			"mana_cost": "{1{R}/W}{G}",
+			"type": "Legendary Creature — Human Scout ",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/358_Breyga, Frontier Expert.png"
+			}
+		},
+		{
+			"name": "Satyr Celebrant",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Creature — Satyr Shaman ",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/337_Satyr Celebrant.png"
+			}
+		},
+		{
+			"name": "Salim and Certo",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Planeswalker — Salim Certo ",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/336_Salim and Certo.png"
+			}
+		},
+		{
+			"name": "Calenfyr",
+			"rarity": "rare",
+			"mana_cost": "{2}{G/W}{B}",
+			"type": "Legendary Creature — Dryad Avatar ",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/359_Calenfyr.png"
+			}
+		},
+		{
+			"name": "Streets of Mustasheen",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/339_Streets of Mustasheen.png"
+			}
+		},
+		{
+			"name": "Rain Zai, Spiritscale",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Legendary Planeswalker — Rain ",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/333_Rain Zai, Spiritscale.png"
+			}
+		},
+		{
+			"name": "Mortal Benediction",
+			"rarity": "rare",
+			"mana_cost": "{W/B}{G}",
+			"type": "Sorcery",
+			"collector_number": "362",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/362_Mortal Benediction.png"
+			}
+		},
+		{
+			"name": "A Recipe for Disaster",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/334_A Recipe for Disaster.png"
+			}
+		},
+		{
+			"name": "Eryth, Mire Dredger",
+			"rarity": "rare",
+			"mana_cost": "{3}{U/B}{G}",
+			"type": "Legendary Creature — Hag Warlock ",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/360_Eryth, Mire Dredger.png"
+			}
+		},
+		{
+			"name": "Dali, the Eyes of Danaj",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}{U}",
+			"type": "Legendary Creature — Sphinx Noble ",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/318_Dali, the Eyes of Danaj.png"
+			}
+		},
+		{
+			"name": "Ineptitude",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}{R}",
+			"type": "Legendary Creature — Horror Incarnation ",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/324_Ineptitude.png"
+			}
+		},
+		{
+			"name": "Mia, Into the Unknown",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Creature — Human Druid ",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/327_Mia, Into the Unknown.png"
+			}
+		},
+		{
+			"name": "Main Role Maiden",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Creature — Construct Noble ",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/326_Main Role Maiden.png"
+			}
+		},
+		{
+			"name": "Over the Moon",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/332_Over the Moon.png"
+			}
+		},
+		{
+			"name": "Host of the Celebration",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Creature — Horror ",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/323_Host of the Celebration.png"
+			}
+		},
+		{
+			"name": "The Ardent Prodigy",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/311_The Ardent Prodigy.png"
+			}
+		},
+		{
+			"name": "A Bond that Spans Planes",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/312_A Bond that Spans Planes.png"
+			}
+		},
+		{
+			"name": "Updraft Dancer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Creature — Human ",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/345_Updraft Dancer.png"
+			}
+		},
+		{
+			"name": "Brandy Axel, Combat's Baby",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/313_Brandy Axel, Combat's Baby.png"
+			}
+		},
+		{
+			"name": "Emperor Dan Te Mogui",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/320_Emperor Dan Te Mogui.png"
+			}
+		},
+		{
+			"name": "Power Plant",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "428",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/428_Power Plant.png"
+			}
+		},
+		{
+			"name": "Contemplate the Cosmos",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Instant",
+			"collector_number": "259",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/259_Contemplate the Cosmos_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/259_Contemplate the Cosmos_front.png"
+			}
+		},
+		{
+			"name": "Fight for Succession",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Instant",
+			"collector_number": "281",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/281_Fight for Succession_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/281_Fight for Succession_front.png"
+			}
+		},
+		{
+			"name": "Salome",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Planeswalker — Salome ",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/265_Salome.png"
+			}
+		},
+		{
+			"name": "Esmerie, Skysworn General",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Human Knight ",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/261_Esmerie, Skysworn General.png"
+			}
+		},
+		{
+			"name": "Nozar, Dunesea Merchant",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Human Merchant ",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/304_Nozar, Dunesea Merchant.png"
+			}
+		},
+		{
+			"name": "Ajani Resolute",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Planeswalker — Ajani ",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/277_Ajani Resolute.png"
+			}
+		},
+		{
+			"name": "Bitter Duckling",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Bird ",
+			"collector_number": "262",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/262_Bitter Duckling_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/262_Bitter Duckling_front.png"
+			}
+		},
+		{
+			"name": "Omegalomania",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/270_Omegalomania.png"
+			}
+		},
+		{
+			"name": "Atieh, Seer of Distant Futures",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Merfolk Advisor ",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/257_Atieh, Seer of Distant Futures.png"
+			}
+		},
+		{
+			"name": "Fahrib, the Ever-Scheming",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Advisor ",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/264_Fahrib, the Ever-Scheming.png"
+			}
+		},
+		{
+			"name": "Andazir, First to Aspire",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Legendary Creature — Mutant Warlock ",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/266_Andazir, First to Aspire.png"
+			}
+		},
+		{
+			"name": "Sahra, Hadak's Last Warrior",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Ogre Warrior ",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/273_Sahra, Hadak's Last Warrior.png"
+			}
+		},
+		{
+			"name": "Abwad Kahroba, Failed Son",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Mutant Warrior ",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/276_Abwad Kahroba, Failed Son.png"
+			}
+		},
+		{
+			"name": "Mahara, General of All",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/283_Mahara, General of All.png"
+			}
+		},
+		{
+			"name": "Rahstahde, Brand of Truth",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/288_Rahstahde, Brand of Truth.png"
+			}
+		},
+		{
+			"name": "Tamaak the Arid Swarm",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Insect ",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/295_Tamaak the Arid Swarm.png"
+			}
+		},
+		{
+			"name": "Cyrukan of Heart and Iron",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/298_Cyrukan of Heart and Iron.png"
+			}
+		},
+		{
+			"name": "Martoob of Flowing Life",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Human Druid ",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/303_Martoob of Flowing Life.png"
+			}
+		},
+		{
+			"name": "Veeni, High Truthseeker",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Noble Wizard ",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/290_Veeni, High Truthseeker.png"
+			}
+		},
+		{
+			"name": "Ghulish Unearthing",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "269",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/269_Ghulish Unearthing_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/269_Ghulish Unearthing_front.png"
+			}
+		},
+		{
+			"name": "Sahra, the Consuming",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Elder Demon ",
+			"collector_number": "274",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/274_Sahra, the Consuming_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/274_Sahra, the Consuming_front.png"
+			}
+		},
+		{
+			"name": "Kahroba, Forefather of All",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Elder Demon ",
+			"collector_number": "279",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/279_Kahroba, Forefather of All_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/279_Kahroba, Forefather of All_front.png"
+			}
+		},
+		{
+			"name": "Mahara, the Universal",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Elder Angel ",
+			"collector_number": "284",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/284_Mahara, the Universal_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/284_Mahara, the Universal_front.png"
+			}
+		},
+		{
+			"name": "Rahstahde, Word of Truth",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Elder Angel ",
+			"collector_number": "289",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/289_Rahstahde, Word of Truth_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/289_Rahstahde, Word of Truth_front.png"
+			}
+		},
+		{
+			"name": "Martoob, Blessing of Water",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Elder Angel ",
+			"collector_number": "302",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/302_Martoob, Blessing of Water_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/302_Martoob, Blessing of Water_front.png"
+			}
+		},
+		{
+			"name": "Ruinous Naga",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Snake Warrior ",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/272_Ruinous Naga.png"
+			}
+		},
+		{
+			"name": "Archive Guardian",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/291_Archive Guardian.png"
+			}
+		},
+		{
+			"name": "Tyrant of Tributes",
+			"rarity": "rare",
+			"mana_cost": "{6}{R}{G}",
+			"type": "Creature — Dragon ",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/275_Tyrant of Tributes.png"
+			}
+		},
+		{
+			"name": "Tenvilu, Earthen Warden",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Legendary Creature — Elder Wurm ",
+			"collector_number": "280",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/280_Tenvilu, Earthen Warden_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/280_Tenvilu, Earthen Warden_front.png"
+			}
+		},
+		{
+			"name": "Quinn, the Performer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Actor ",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/300_Quinn, the Performer.png"
+			}
+		},
+		{
+			"name": "Titanic Fossil",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "392",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/392_Titanic Fossil_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/392_Titanic Fossil_front.png"
+			}
+		},
+		{
+			"name": "Recall Forgotten Eons",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Sorcery — Revelation ",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/305_Recall Forgotten Eons.png"
+			}
+		},
+		{
+			"name": "Dai Gui, Pillar of Sea and Sky",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Turtle Monk ",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/301_Dai Gui, Pillar of Sea and Sky.png"
+			}
+		},
+		{
+			"name": "Hannah, Aethertechnician",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Artificer ",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/287_Hannah, Aethertechnician.png"
+			}
+		},
+		{
+			"name": "One of Purpose",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Monk ",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/299_One of Purpose.png"
+			}
+		},
+		{
+			"name": "Desraen, Serpent's Will",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/260_Desraen, Serpent's Will.png"
+			}
+		},
+		{
+			"name": "Death Pits Hawker",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Orc Rogue ",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/267_Death Pits Hawker.png"
+			}
+		},
+		{
+			"name": "Azun, Sheriff of Daisite",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Planeswalker — Azun ",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/297_Azun, Sheriff of Daisite.png"
+			}
+		},
+		{
+			"name": "Ishim's Meddling",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/282_Ishim's Meddling.png"
+			}
+		},
+		{
+			"name": "Bvala, Queen of the Swarm",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Legendary Planeswalker — Bvala ",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/278_Bvala, Queen of the Swarm.png"
+			}
+		},
+		{
+			"name": "Cd-hr, Raid Leader",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Planeswalker — Cd-hr ",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/293_Cd-hr, Raid Leader.png"
+			}
+		},
+		{
+			"name": "Atieh's Destiny",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Nephilim Cleric ",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/258_Atieh's Destiny.png"
+			}
+		},
+		{
+			"name": "Delve for Treasures",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{B}",
+			"type": "Instant",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/263_Delve for Treasures.png"
+			}
+		},
+		{
+			"name": "Djinn of the Waning Candle",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Djinn Wizard ",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/268_Djinn of the Waning Candle.png"
+			}
+		},
+		{
+			"name": "Boon of the Pacts",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/292_Boon of the Pacts.png"
+			}
+		},
+		{
+			"name": "Ameret, Pride of Cyrukan",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}{W}{W}",
+			"type": "Legendary Planeswalker — Ameret ",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/296_Ameret, Pride of Cyrukan.png"
+			}
+		},
+		{
+			"name": "Chi Lee of the Underworld",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Creature — Human Shaman ",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/294_Chi Lee of the Underworld.png"
+			}
+		},
+		{
+			"name": "Will of a Fickle Lord",
+			"rarity": "rare",
+			"mana_cost": "{2}{W/U}{W/U}",
+			"type": "Enchantment",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/348_Will of a Fickle Lord.png"
+			}
+		},
+		{
+			"name": "Neural Contagion",
+			"rarity": "rare",
+			"mana_cost": "{3}{U/B}{U/B}",
+			"type": "Enchantment — Aura Curse ",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/349_Neural Contagion.png"
+			}
+		},
+		{
+			"name": "Glinthide Hero",
+			"rarity": "rare",
+			"mana_cost": "{1{G}/U}{G/U}",
+			"type": "Creature — Lizard Warrior ",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/357_Glinthide Hero.png"
+			}
+		},
+		{
+			"name": "The Lost and Seeking",
+			"rarity": "rare",
+			"mana_cost": "{R/W}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "356",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/356_The Lost and Seeking_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/356_The Lost and Seeking_front.png"
+			}
+		},
+		{
+			"name": "Ye Feng, Lotus Apothecary",
+			"rarity": "rare",
+			"mana_cost": "{B/G}",
+			"type": "Legendary Creature — Rat Druid ",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/355_Ye Feng, Lotus Apothecary.png"
+			}
+		},
+		{
+			"name": "Oracle's Disciple",
+			"rarity": "rare",
+			"mana_cost": "{U/R}{U/R}",
+			"type": "Creature — Human Wizard Knight ",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/354_Oracle's Disciple.png"
+			}
+		},
+		{
+			"name": "All-Enduring Mafua",
+			"rarity": "rare",
+			"mana_cost": "{2}{W/B}{W/B}",
+			"type": "Legendary Planeswalker — Mafua ",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/353_All-Enduring Mafua.png"
+			}
+		},
+		{
+			"name": "Opportunistic Raiders",
+			"rarity": "rare",
+			"mana_cost": "{2}{B/R}{B/R}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/350_Opportunistic Raiders.png"
+			}
+		},
+		{
+			"name": "Lumbering Ox",
+			"rarity": "rare",
+			"mana_cost": "{1{R}/G}{R/G}",
+			"type": "Creature — Ox Warrior ",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/351_Lumbering Ox.png"
+			}
+		},
+		{
+			"name": "Unlikeliest Heroes",
+			"rarity": "rare",
+			"mana_cost": "{G/W}",
+			"type": "Creature — Mouse Army ",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/352_Unlikeliest Heroes.png"
+			}
+		},
+		{
+			"name": "Siaveed, Commander of Armies",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Nephilim Noble ",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/285_Siaveed, Commander of Armies.png"
+			}
+		},
+		{
+			"name": "The Grand Simurgh",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Chimera ",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/321_The Grand Simurgh.png"
+			}
+		},
+		{
+			"name": "Zareen Kahroba, Shah",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/347_Zareen Kahroba, Shah.png"
+			}
+		},
+		{
+			"name": "Guardians of Kallian's Tomb",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Artifact",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/271_Guardians of Kallian's Tomb.png"
+			}
+		},
+		{
+			"name": "Tempting Shahmaran",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}{R}",
+			"type": "Creature — Snake Warlock ",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/341_Tempting Shahmaran.png"
+			}
+		},
+		{
+			"name": "Sahra's Harbinger",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}{G}",
+			"type": "Creature — Demon Warlock ",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/335_Sahra's Harbinger.png"
+			}
+		},
+		{
+			"name": "Swooping Manticore",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}{W}",
+			"type": "Creature — Manticore ",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/340_Swooping Manticore.png"
+			}
+		},
+		{
+			"name": "Muktann Protectors",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/328_Muktann Protectors.png"
+			}
+		},
+		{
+			"name": "Twice Blessed",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/343_Twice Blessed.png"
+			}
+		},
+		{
+			"name": "Hidden Garden Entrance",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "417",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/417_Hidden Garden Entrance_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/417_Hidden Garden Entrance_front.png"
+			}
+		},
+		{
+			"name": "Feather of the Simurgh",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "368",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/368_Feather of the Simurgh.png"
+			}
+		},
+		{
+			"name": "Entelan Deep Storage",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/286_Entelan Deep Storage.png"
+			}
+		},
+		{
+			"name": "Celestial Concordance",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/17_Celestial Concordance.png"
+			}
+		},
+		{
+			"name": "Change of Station",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/18_Change of Station.png"
+			}
+		},
+		{
+			"name": "Unwrite",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/54_Unwrite.png"
+			}
+		},
+		{
+			"name": "Once More with Heart",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/39_Once More with Heart.png"
+			}
+		},
+		{
+			"name": "Journey's End",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/31_Journey's End.png"
+			}
+		},
+		{
+			"name": "Beyond the Veil",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/14_Beyond the Veil.png"
+			}
+		},
+		{
+			"name": "Ayala's Blessing",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/12_Ayala's Blessing.png"
+			}
+		},
+		{
+			"name": "End of Days",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/25_End of Days.png"
+			}
+		},
+		{
+			"name": "Mari, Dawn Resurgent",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Planeswalker — Mari ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/38_Mari, Dawn Resurgent.png"
+			}
+		},
+		{
+			"name": "Ostracizer Orb",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/40_Ostracizer Orb.png"
+			}
+		},
+		{
+			"name": "Polytheism",
+			"rarity": "rare",
+			"mana_cost": "{6}{W}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/43_Polytheism.png"
+			}
+		},
+		{
+			"name": "Calfu, Greatest Toqui",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Creature — Human Warrior Noble ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/2_Calfu, Greatest Toqui.png"
+			}
+		},
+		{
+			"name": "Heart of Carü Mapu",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "376",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/376_Heart of Carü Mapu.png"
+			}
+		},
+		{
+			"name": "Castigated Sister",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Horror Cleric ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/16_Castigated Sister.png"
+			}
+		},
+		{
+			"name": "Etlan High Priest",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/26_Etlan High Priest.png"
+			}
+		},
+		{
+			"name": "Herald of the White Orchid",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/28_Herald of the White Orchid.png"
+			}
+		},
+		{
+			"name": "Waxing Angel",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Angel ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/55_Waxing Angel.png"
+			}
+		},
+		{
+			"name": "Satrapy General",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel Warrior ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/48_Satrapy General.png"
+			}
+		},
+		{
+			"name": "Conchhorn Shinygrabber",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Turtle Knight ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/19_Conchhorn Shinygrabber.png"
+			}
+		},
+		{
+			"name": "Disciple of Faradia",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/23_Disciple of Faradia.png"
+			}
+		},
+		{
+			"name": "Major Benjamin Stout",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Rabbit Soldier ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/37_Major Benjamin Stout.png"
+			}
+		},
+		{
+			"name": "Dawn Over Soli",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/21_Dawn Over Soli.png"
+			}
+		},
+		{
+			"name": "Seraph of Sunset",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Angel ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/50_Seraph of Sunset.png"
+			}
+		},
+		{
+			"name": "Savior-Tactician",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel Soldier ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/49_Savior-Tactician.png"
+			}
+		},
+		{
+			"name": "Seraph of the Stage",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Construct Angel ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/51_Seraph of the Stage.png"
+			}
+		},
+		{
+			"name": "Promised Exaltation",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel Spirit  ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/44_Promised Exaltation.png"
+			}
+		},
+		{
+			"name": "Zareen, the Second Shah",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "56",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/56_Zareen, the Second Shah_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/56_Zareen, the Second Shah_front.png"
+			}
+		},
+		{
+			"name": "Hollow Simulacrum",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/30_Hollow Simulacrum.png"
+			}
+		},
+		{
+			"name": "High Priest of Kahroba",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Azra Cleric ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/29_High Priest of Kahroba.png"
+			}
+		},
+		{
+			"name": "Atieh's Elite",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Angel Cleric ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/10_Atieh's Elite.png"
+			}
+		},
+		{
+			"name": "Aberrant Apostle",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Horror Cleric ",
+			"collector_number": "7",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/7_Aberrant Apostle_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/7_Aberrant Apostle_front.png"
+			}
+		},
+		{
+			"name": "Blessing from Wings on High",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/15_Blessing from Wings on High.png"
+			}
+		},
+		{
+			"name": "Underpass Sentinel",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dwarf Soldier ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/53_Underpass Sentinel.png"
+			}
+		},
+		{
+			"name": "Queen Hannaru",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Noble Soldier ",
+			"collector_number": "46",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/46_Queen Hannaru_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/46_Queen Hannaru_front.png"
+			}
+		},
+		{
+			"name": "Luna, Loyal Friend",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Fox ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/36_Luna, Loyal Friend.png"
+			}
+		},
+		{
+			"name": "Embodied Soul",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/24_Embodied Soul.png"
+			}
+		},
+		{
+			"name": "Parish Paragon",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/42_Parish Paragon.png"
+			}
+		},
+		{
+			"name": "Queen Andarli, the Fierce",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Noble Soldier ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/45_Queen Andarli, the Fierce.png"
+			}
+		},
+		{
+			"name": "Bearer of the Lantern",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/13_Bearer of the Lantern.png"
+			}
+		},
+		{
+			"name": "Soli Arbalist",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Nephilim Ranger ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/52_Soli Arbalist.png"
+			}
+		},
+		{
+			"name": "Crisis in Soli",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/20_Crisis in Soli.png"
+			}
+		},
+		{
+			"name": "Avaz Rising",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/11_Avaz Rising.png"
+			}
+		},
+		{
+			"name": "Runeclad Seeker",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/47_Runeclad Seeker.png"
+			}
+		},
+		{
+			"name": "Deliverance Branch",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/22_Deliverance Branch.png"
+			}
+		},
+		{
+			"name": "Abjuration Savant",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/8_Abjuration Savant.png"
+			}
+		},
+		{
+			"name": "Justiciar Overseer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel Soldier ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/32_Justiciar Overseer.png"
+			}
+		},
+		{
+			"name": "Knight of Valimir",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight Avatar ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/33_Knight of Valimir.png"
+			}
+		},
+		{
+			"name": "Lijing, the True Divinity",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Fox Spirit ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/34_Lijing, the True Divinity.png"
+			}
+		},
+		{
+			"name": "Dawn Over Nizev",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/63_Dawn Over Nizev.png"
+			}
+		},
+		{
+			"name": "Golden Age",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/69_Golden Age.png"
+			}
+		},
+		{
+			"name": "Jahan, the Third Shah",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Nephilim Noble ",
+			"collector_number": "72",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/72_Jahan, the Third Shah_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/72_Jahan, the Third Shah_front.png"
+			}
+		},
+		{
+			"name": "Marilye, the Thieving Blade",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Marilye ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/75_Marilye, the Thieving Blade.png"
+			}
+		},
+		{
+			"name": "Martoob Lifeshaper",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Nephilim Wizard ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/76_Martoob Lifeshaper.png"
+			}
+		},
+		{
+			"name": "One Person's Trash",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/80_One Person's Trash.png"
+			}
+		},
+		{
+			"name": "Opulent Ankulim",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elemental ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/81_Opulent Ankulim.png"
+			}
+		},
+		{
+			"name": "Satrapy Merchant",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Djinn Wizard ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/89_Satrapy Merchant.png"
+			}
+		},
+		{
+			"name": "Settling of Soli",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/93_Settling of Soli.png"
+			}
+		},
+		{
+			"name": "Streetwise Spellseeker",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/98_Streetwise Spellseeker.png"
+			}
+		},
+		{
+			"name": "Tyrant of the Depths",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Construct Merfolk ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/101_Tyrant of the Depths.png"
+			}
+		},
+		{
+			"name": "Wildershrine Pilgrimage",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/106_Wildershrine Pilgrimage.png"
+			}
+		},
+		{
+			"name": "Wayfarer's Shrine",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "447",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/447_Wayfarer's Shrine.png"
+			}
+		},
+		{
+			"name": "Channeling Stone",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "403",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/403_Channeling Stone.png"
+			}
+		},
+		{
+			"name": "Desert Temple",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Desert ",
+			"collector_number": "408",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/408_Desert Temple.png"
+			}
+		},
+		{
+			"name": "Heart of Zhedina",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "416",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/416_Heart of Zhedina.png"
+			}
+		},
+		{
+			"name": "Lotus Barrens",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "420",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/420_Lotus Barrens.png"
+			}
+		},
+		{
+			"name": "Royal Domain",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "433",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/433_Royal Domain.png"
+			}
+		},
+		{
+			"name": "The High Prairies",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "418",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/418_The High Prairies.png"
+			}
+		},
+		{
+			"name": "Zhedina Exchange",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "450",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/450_Zhedina Exchange.png"
+			}
+		},
+		{
+			"name": "Azamir, Wayward Titan",
+			"rarity": "rare",
+			"mana_cost": "{8}",
+			"type": "Legendary Planeswalker — Azamir ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/1_Azamir, Wayward Titan.png"
+			}
+		},
+		{
+			"name": "Coalition Relic",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "365",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/365_Coalition Relic.png"
+			}
+		},
+		{
+			"name": "Mettalia, Light from Above",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact Creature — Construct ",
+			"collector_number": "382",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/382_Mettalia, Light from Above.png"
+			}
+		},
+		{
+			"name": "Runic Pillars",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "386",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/386_Runic Pillars.png"
+			}
+		},
+		{
+			"name": "Makshi, Patron of Blades",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Creature — Horror Warrior ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/4_Makshi, Patron of Blades.png"
+			}
+		},
+		{
+			"name": "Unravel Shattered Worlds",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Sorcery — Revelation ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/5_Unravel Shattered Worlds.png"
+			}
+		},
+		{
+			"name": "Weeping Lotus",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "394",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/394_Weeping Lotus.png"
+			}
+		},
+		{
+			"name": "Gilded Lotus",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "372",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/372_Gilded Lotus.png"
+			}
+		},
+		{
+			"name": "Gate of Realms",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "369",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/369_Gate of Realms.png"
+			}
+		},
+		{
+			"name": "Sealed Riftway",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "387",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/387_Sealed Riftway.png"
+			}
+		},
+		{
+			"name": "Renewal Grove",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "432",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/432_Renewal Grove.png"
+			}
+		},
+		{
+			"name": "Fabled Passage",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "412",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/412_Fabled Passage.png"
+			}
+		},
+		{
+			"name": "Mana Rose",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "380",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/380_Mana Rose.png"
+			}
+		},
+		{
+			"name": "Gilded Spyglass",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "373",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/373_Gilded Spyglass.png"
+			}
+		},
+		{
+			"name": "Gilded Gearhulk",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "370",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/370_Gilded Gearhulk.png"
+			}
+		},
+		{
+			"name": "Titan Snare",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "391",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/391_Titan Snare.png"
+			}
+		},
+		{
+			"name": "Academic's Claymore",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "363",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/363_Academic's Claymore.png"
+			}
+		},
+		{
+			"name": "Cortex Coil",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "366",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/366_Cortex Coil.png"
+			}
+		},
+		{
+			"name": "Horn of Seasons",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "378",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/378_Horn of Seasons.png"
+			}
+		},
+		{
+			"name": "Setessan Armaments",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "388",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/388_Setessan Armaments.png"
+			}
+		},
+		{
+			"name": "Merchant's Outpost",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "381",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/381_Merchant's Outpost.png"
+			}
+		},
+		{
+			"name": "Restored Automaton",
+			"rarity": "rare",
+			"mana_cost": "{X}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "384",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/384_Restored Automaton.png"
+			}
+		},
+		{
+			"name": "Rippling Curtain",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "385",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/385_Rippling Curtain.png"
+			}
+		},
+		{
+			"name": "Unicorn of the Vale",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Unicorn ",
+			"collector_number": "393",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/393_Unicorn of the Vale.png"
+			}
+		},
+		{
+			"name": "Seeker of Mysteries",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/92_Seeker of Mysteries.png"
+			}
+		},
+		{
+			"name": "Wanderer of Many",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Raccoon Monk ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/103_Wanderer of Many.png"
+			}
+		},
+		{
+			"name": "Swarm of the Dispossessed",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Spirit ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/99_Swarm of the Dispossessed.png"
+			}
+		},
+		{
+			"name": "Juyu Offering Pool",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Gallery ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/73_Juyu Offering Pool.png"
+			}
+		},
+		{
+			"name": "Psionic Rebuke",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/84_Psionic Rebuke.png"
+			}
+		},
+		{
+			"name": "Cosmic Sinkhole",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/61_Cosmic Sinkhole.png"
+			}
+		},
+		{
+			"name": "Cursory Glance",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/62_Cursory Glance.png"
+			}
+		},
+		{
+			"name": "Portal Fracture",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/82_Portal Fracture.png"
+			}
+		},
+		{
+			"name": "Redo",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/87_Redo.png"
+			}
+		},
+		{
+			"name": "Monkeyshines",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/79_Monkeyshines.png"
+			}
+		},
+		{
+			"name": "Watch from Above",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery — Revelation ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/104_Watch from Above.png"
+			}
+		},
+		{
+			"name": "Wheat from Chaff",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/105_Wheat from Chaff.png"
+			}
+		},
+		{
+			"name": "Flood of Information",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/66_Flood of Information.png"
+			}
+		},
+		{
+			"name": "Duncaster Nightwatcher",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Detective ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/64_Duncaster Nightwatcher.png"
+			}
+		},
+		{
+			"name": "Hasan of Clashing Truths",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Azra Wizard ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/70_Hasan of Clashing Truths.png"
+			}
+		},
+		{
+			"name": "Steward of Second Sphere",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Avatar Wizard ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/97_Steward of Second Sphere.png"
+			}
+		},
+		{
+			"name": "Shatter Mortal Conveyances",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}",
+			"type": "Sorcery — Revelation ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/94_Shatter Mortal Conveyances.png"
+			}
+		},
+		{
+			"name": "Reveal Eternities",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/88_Reveal Eternities.png"
+			}
+		},
+		{
+			"name": "Reconstructed Adept",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/86_Reconstructed Adept.png"
+			}
+		},
+		{
+			"name": "Prodigious Panya",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Mouse Warrior ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/83_Prodigious Panya.png"
+			}
+		},
+		{
+			"name": "Sphinx of Ill Omens",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Creature — Sphinx ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/96_Sphinx of Ill Omens.png"
+			}
+		},
+		{
+			"name": "Fractured Prodigy",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Construct Wizard ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/68_Fractured Prodigy.png"
+			}
+		},
+		{
+			"name": "Spectrum Archmage",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/95_Spectrum Archmage.png"
+			}
+		},
+		{
+			"name": "Cephalovorous Flukes",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Worm Horror ",
+			"collector_number": "59",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/59_Cephalovorous Flukes_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/59_Cephalovorous Flukes_front.png"
+			}
+		},
+		{
+			"name": "Mirrorsoul Mage",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/78_Mirrorsoul Mage.png"
+			}
+		},
+		{
+			"name": "Qing Long, Capricious Wind",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Elder Dragon ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/85_Qing Long, Capricious Wind.png"
+			}
+		},
+		{
+			"name": "Acolyte of Water",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Nephilim Cleric ",
+			"collector_number": "57",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/57_Acolyte of Water_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/57_Acolyte of Water_front.png"
+			}
+		},
+		{
+			"name": "Master Negotiator",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Pirate ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/77_Master Negotiator.png"
+			}
+		},
+		{
+			"name": "Consult on Ages Lost",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery — Revelation ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/60_Consult on Ages Lost.png"
+			}
+		},
+		{
+			"name": "Wade Through",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/102_Wade Through.png"
+			}
+		},
+		{
+			"name": "Terraformer's Globe",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/100_Terraformer's Globe.png"
+			}
+		},
+		{
+			"name": "Lurzog, Kytherax's Disciple",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Zombie Wizard ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/74_Lurzog, Kytherax's Disciple.png"
+			}
+		},
+		{
+			"name": "Assault of the Conscripted",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/109_Assault of the Conscripted.png"
+			}
+		},
+		{
+			"name": "Astral Assassination",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/110_Astral Assassination.png"
+			}
+		},
+		{
+			"name": "Crisis in Kaneh",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/111_Crisis in Kaneh.png"
+			}
+		},
+		{
+			"name": "Danaj Rising",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/112_Danaj Rising.png"
+			}
+		},
+		{
+			"name": "Dawn Over Kaneh",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/114_Dawn Over Kaneh.png"
+			}
+		},
+		{
+			"name": "Doomed Explorer",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/118_Doomed Explorer.png"
+			}
+		},
+		{
+			"name": "Dutybound Ghul",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Rogue ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/120_Dutybound Ghul.png"
+			}
+		},
+		{
+			"name": "Greedstoker Demon",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Demon ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/122_Greedstoker Demon.png"
+			}
+		},
+		{
+			"name": "Merchant of Flesh",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Naga Advisor ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/130_Merchant of Flesh.png"
+			}
+		},
+		{
+			"name": "A Most Important Prince",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Construct Noble ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/132_A Most Important Prince.png"
+			}
+		},
+		{
+			"name": "Pay Up",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/137_Pay Up.png"
+			}
+		},
+		{
+			"name": "Piruz, the Fourth Shah",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Azra Noble ",
+			"collector_number": "138",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/138_Piruz, the Fourth Shah_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/138_Piruz, the Fourth Shah_front.png"
+			}
+		},
+		{
+			"name": "Profane Emissary",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/139_Profane Emissary.png"
+			}
+		},
+		{
+			"name": "Reckoner of Kaneh",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Angel Soldier ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/141_Reckoner of Kaneh.png"
+			}
+		},
+		{
+			"name": "Rhythm of Kaneh",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/142_Rhythm of Kaneh.png"
+			}
+		},
+		{
+			"name": "Satrapy Overseer",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Demon Wizard ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/143_Satrapy Overseer.png"
+			}
+		},
+		{
+			"name": "Settling of Nizev",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/144_Settling of Nizev.png"
+			}
+		},
+		{
+			"name": "Veindrinker's Cabalist",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Vampire Warlock ",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/153_Veindrinker's Cabalist.png"
+			}
+		},
+		{
+			"name": "Ashfeaster Ghouls",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Horror ",
+			"collector_number": "108",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/108_Ashfeaster Ghouls_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/108_Ashfeaster Ghouls_front.png"
+			}
+		},
+		{
+			"name": "Dark Rite Cultist",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/113_Dark Rite Cultist.png"
+			}
+		},
+		{
+			"name": "Impden Mother",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/123_Impden Mother.png"
+			}
+		},
+		{
+			"name": "Invoking the Name",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/125_Invoking the Name.png"
+			}
+		},
+		{
+			"name": "Kai'Long, the Call of the Dark",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Demon ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/127_Kai'Long, the Call of the Dark.png"
+			}
+		},
+		{
+			"name": "Lizhao, Last Breath of the Yenzu",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Elder Demon ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/128_Lizhao, Last Breath of the Yenzu.png"
+			}
+		},
+		{
+			"name": "Mind's Contagion",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bird Demon ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/131_Mind's Contagion.png"
+			}
+		},
+		{
+			"name": "Nether Fiend",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Demon ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/134_Nether Fiend.png"
+			}
+		},
+		{
+			"name": "Niu Mo Wang, Ashen Absolution",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Ox Demon Monk ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/135_Niu Mo Wang, Ashen Absolution.png"
+			}
+		},
+		{
+			"name": "Rapacious Demon",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Demon ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/140_Rapacious Demon.png"
+			}
+		},
+		{
+			"name": "Traverse the Endless Well",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/149_Traverse the Endless Well.png"
+			}
+		},
+		{
+			"name": "Undying Lich",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Zombie Wizard ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/151_Undying Lich.png"
+			}
+		},
+		{
+			"name": "Warden of the Dead",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Demon ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/155_Warden of the Dead.png"
+			}
+		},
+		{
+			"name": "Archfiend of Rage",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Manticore Demon ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/158_Archfiend of Rage.png"
+			}
+		},
+		{
+			"name": "Austere Instructor",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Scientist ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/159_Austere Instructor.png"
+			}
+		},
+		{
+			"name": "Bustling Bazaar",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/164_Bustling Bazaar.png"
+			}
+		},
+		{
+			"name": "Byte Blitz",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/165_Byte Blitz.png"
+			}
+		},
+		{
+			"name": "Cyrukan Battleaxe",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/170_Cyrukan Battleaxe.png"
+			}
+		},
+		{
+			"name": "Dawn Over Avaz",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/171_Dawn Over Avaz.png"
+			}
+		},
+		{
+			"name": "Efreetspeaker",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Nephilim Cleric ",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/172_Efreetspeaker.png"
+			}
+		},
+		{
+			"name": "Firebolt",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/177_Firebolt.png"
+			}
+		},
+		{
+			"name": "Fiery Efreet",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Djinn ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/176_Fiery Efreet.png"
+			}
+		},
+		{
+			"name": "Enraptured Countess",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/174_Enraptured Countess.png"
+			}
+		},
+		{
+			"name": "Flensing Tormentor",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Horror ",
+			"collector_number": "178",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/178_Flensing Tormentor_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/178_Flensing Tormentor_front.png"
+			}
+		},
+		{
+			"name": "Furious Blow",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/179_Furious Blow.png"
+			}
+		},
+		{
+			"name": "Hidden Cache",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "181",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/181_Hidden Cache_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/181_Hidden Cache_front.png"
+			}
+		},
+		{
+			"name": "Ire of Ancient Tomes",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/182_Ire of Ancient Tomes.png"
+			}
+		},
+		{
+			"name": "Jal's Spawn",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Manticore ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/183_Jal's Spawn.png"
+			}
+		},
+		{
+			"name": "Master of Imports",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/186_Master of Imports.png"
+			}
+		},
+		{
+			"name": "Paygan Archer",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Azra Archer ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/189_Paygan Archer.png"
+			}
+		},
+		{
+			"name": "Ragavan, Most Wanted",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Monkey Pirate ",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/191_Ragavan, Most Wanted.png"
+			}
+		},
+		{
+			"name": "Satrapy Protector",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Manticore ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/193_Satrapy Protector.png"
+			}
+		},
+		{
+			"name": "Settling of Avaz",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/195_Settling of Avaz.png"
+			}
+		},
+		{
+			"name": "Shae, Master Evoker",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/196_Shae, Master Evoker.png"
+			}
+		},
+		{
+			"name": "Shapur, the Fifth Shah",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Nephilim Noble ",
+			"collector_number": "197",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/197_Shapur, the Fifth Shah_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/197_Shapur, the Fifth Shah_front.png"
+			}
+		},
+		{
+			"name": "Strongarm",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/198_Strongarm.png"
+			}
+		},
+		{
+			"name": "Take All You Can Carry",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/199_Take All You Can Carry.png"
+			}
+		},
+		{
+			"name": "Truthseeker's Blade",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/200_Truthseeker's Blade.png"
+			}
+		},
+		{
+			"name": "Xiyue Dragondancer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Construct Actor ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/204_Xiyue Dragondancer.png"
+			}
+		},
+		{
+			"name": "Border Seeker",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/214_Border Seeker.png"
+			}
+		},
+		{
+			"name": "Colossus of Alkabah",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Manticore ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/217_Colossus of Alkabah.png"
+			}
+		},
+		{
+			"name": "Crewmaster Gillo",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Monkey Pirate ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/218_Crewmaster Gillo.png"
+			}
+		},
+		{
+			"name": "Crisis in Avaz",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/219_Crisis in Avaz.png"
+			}
+		},
+		{
+			"name": "Danaj Sightseer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Angel Scout ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/220_Danaj Sightseer.png"
+			}
+		},
+		{
+			"name": "Distant Worlds",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/222_Distant Worlds.png"
+			}
+		},
+		{
+			"name": "Fardancer Liege",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Elf Druid Warrior ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/224_Fardancer Liege.png"
+			}
+		},
+		{
+			"name": "Golna, the First Shah",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "226",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/226_Golna, the First Shah_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/226_Golna, the First Shah_front.png"
+			}
+		},
+		{
+			"name": "Hierarch Ranger",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Druid Ranger ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/227_Hierarch Ranger.png"
+			}
+		},
+		{
+			"name": "Jobiah, Devoted Farmer",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Goat Druid ",
+			"collector_number": "231",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/231_Jobiah, Devoted Farmer_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/231_Jobiah, Devoted Farmer_front.png"
+			}
+		},
+		{
+			"name": "Lasting Legacy",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/232_Lasting Legacy.png"
+			}
+		},
+		{
+			"name": "Long-Term Method Actor",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Construct Elemental ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/234_Long-Term Method Actor.png"
+			}
+		},
+		{
+			"name": "Mana Ascetic",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/235_Mana Ascetic.png"
+			}
+		},
+		{
+			"name": "Martoob Beastkeeper",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Nephilim Shaman ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/236_Martoob Beastkeeper.png"
+			}
+		},
+		{
+			"name": "Ophorion Refugee",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Druid ",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/238_Ophorion Refugee.png"
+			}
+		},
+		{
+			"name": "Osk, the Maker's Pet",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Squirrel ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/239_Osk, the Maker's Pet.png"
+			}
+		},
+		{
+			"name": "Rethia Cultivator",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/240_Rethia Cultivator.png"
+			}
+		},
+		{
+			"name": "Rhythm of Danaj",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/241_Rhythm of Danaj.png"
+			}
+		},
+		{
+			"name": "Satrapy Courier",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/243_Satrapy Courier.png"
+			}
+		},
+		{
+			"name": "Seeker of Untouched Beauty",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Shaman ",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/244_Seeker of Untouched Beauty.png"
+			}
+		},
+		{
+			"name": "Spawn of Andazir",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}",
+			"type": "Creature — Snake Hydra ",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/248_Spawn of Andazir.png"
+			}
+		},
+		{
+			"name": "Thriving Budling",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Treefolk ",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/250_Thriving Budling.png"
+			}
+		},
+		{
+			"name": "Voracious Spawn",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Horror ",
+			"collector_number": "254",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/254_Voracious Spawn_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/254_Voracious Spawn_front.png"
+			}
+		},
+		{
+			"name": "Voidflare",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/201_Voidflare.png"
+			}
+		},
+		{
+			"name": "Champion of Scales",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/168_Champion of Scales.png"
+			}
+		},
+		{
+			"name": "Arbor Protector",
+			"rarity": "rare",
+			"mana_cost": "{7}{G}{G}",
+			"type": "Creature — Treefolk Shaman ",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/209_Arbor Protector.png"
+			}
+		},
+		{
+			"name": "Undermarket Guildmaster",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/150_Undermarket Guildmaster.png"
+			}
+		},
+		{
+			"name": "Descend into Insanity",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/116_Descend into Insanity.png"
+			}
+		},
+		{
+			"name": "Infernal Portal",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/124_Infernal Portal.png"
+			}
+		},
+		{
+			"name": "Surge of Darkness",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/147_Surge of Darkness.png"
+			}
+		},
+		{
+			"name": "Jejun, Dark Hunter",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Demon ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/126_Jejun, Dark Hunter.png"
+			}
+		},
+		{
+			"name": "Lizhao, Lord of the Yaogu",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Demon ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/129_Lizhao, Lord of the Yaogu.png"
+			}
+		},
+		{
+			"name": "Dreadbearer",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Creature — Leviathan ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/119_Dreadbearer.png"
+			}
+		},
+		{
+			"name": "Strike from the Shadows",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/145_Strike from the Shadows.png"
+			}
+		},
+		{
+			"name": "Sudden Drought",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/146_Sudden Drought.png"
+			}
+		},
+		{
+			"name": "The Afterlife Takes Its Due",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/107_The Afterlife Takes Its Due.png"
+			}
+		},
+		{
+			"name": "Vibrant Rapture",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/154_Vibrant Rapture.png"
+			}
+		},
+		{
+			"name": "Akrianos' Command",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/9_Akrianos' Command.png"
+			}
+		},
+		{
+			"name": "Edge of the Water",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/65_Edge of the Water.png"
+			}
+		},
+		{
+			"name": "Avid Researcher",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/58_Avid Researcher.png"
+			}
+		},
+		{
+			"name": "Scuttling Gnat",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Insect ",
+			"collector_number": "90",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/90_Scuttling Gnat_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/90_Scuttling Gnat_front.png"
+			}
+		},
+		{
+			"name": "Departed Evangel",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Monk ",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/115_Departed Evangel.png"
+			}
+		},
+		{
+			"name": "One Bad Night",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/136_One Bad Night.png"
+			}
+		},
+		{
+			"name": "Unearth",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/152_Unearth.png"
+			}
+		},
+		{
+			"name": "Whistling Blades",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Horror ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/156_Whistling Blades.png"
+			}
+		},
+		{
+			"name": "Crimson Hellmaw",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Zombie Dragon ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/169_Crimson Hellmaw.png"
+			}
+		},
+		{
+			"name": "Brazen Sacrilege",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/163_Brazen Sacrilege.png"
+			}
+		},
+		{
+			"name": "Ambitious Truthseeker",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Nephilim Warrior ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/157_Ambitious Truthseeker.png"
+			}
+		},
+		{
+			"name": "Dawn Over Danaj",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/221_Dawn Over Danaj.png"
+			}
+		},
+		{
+			"name": "Dreaded of Sahra",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Demon Warrior ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/223_Dreaded of Sahra.png"
+			}
+		},
+		{
+			"name": "Settling of Danaj",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/245_Settling of Danaj.png"
+			}
+		},
+		{
+			"name": "Minister of Zealots",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/188_Minister of Zealots.png"
+			}
+		},
+		{
+			"name": "Autumnal Watch",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Elf Soldier ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/160_Autumnal Watch.png"
+			}
+		},
+		{
+			"name": "Zare, Heart Transformed",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Legendary Creature — Human Shaman ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/205_Zare, Heart Transformed.png"
+			}
+		},
+		{
+			"name": "Blood Cult Covenant",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/162_Blood Cult Covenant.png"
+			}
+		},
+		{
+			"name": "Caller of Hunger",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/216_Caller of Hunger.png"
+			}
+		},
+		{
+			"name": "Into Strange Territories",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/229_Into Strange Territories.png"
+			}
+		},
+		{
+			"name": "Jade Vault Reclaimer",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Samurai ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/230_Jade Vault Reclaimer.png"
+			}
+		},
+		{
+			"name": "Sacrificial Bull",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Ox ",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/242_Sacrificial Bull.png"
+			}
+		},
+		{
+			"name": "Wildlife Sketches",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Gallery ",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/255_Wildlife Sketches.png"
+			}
+		},
+		{
+			"name": "World Made Anew",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/256_World Made Anew.png"
+			}
+		},
+		{
+			"name": "Beyond All Horizons",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery — Revelation ",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/213_Beyond All Horizons.png"
+			}
+		},
+		{
+			"name": "From Unbidden Realms",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Sorcery — Revelation ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/225_From Unbidden Realms.png"
+			}
+		},
+		{
+			"name": "Stand Unassailable",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery — Revelation ",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/249_Stand Unassailable.png"
+			}
+		},
+		{
+			"name": "Tower Over The Sky",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery — Revelation ",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/251_Tower Over The Sky.png"
+			}
+		},
+		{
+			"name": "Twisted Stampede",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/252_Twisted Stampede.png"
+			}
+		},
+		{
+			"name": "Build Monsters from Relics",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/215_Build Monsters from Relics.png"
+			}
+		},
+		{
+			"name": "Doom",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/117_Doom.png"
+			}
+		},
+		{
+			"name": "Kui Mu Lang, Warden Below",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Wolf Monk ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/184_Kui Mu Lang, Warden Below.png"
+			}
+		},
+		{
+			"name": "Xijiang, the Fiend Judge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Crab Spirit ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/203_Xijiang, the Fiend Judge.png"
+			}
+		},
+		{
+			"name": "Hunter's Hideout",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/228_Hunter's Hideout.png"
+			}
+		},
+		{
+			"name": "Extraction Mercenary",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/175_Extraction Mercenary.png"
+			}
+		},
+		{
+			"name": "Horizon Augur",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "71",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/71_Horizon Augur_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/71_Horizon Augur_front.png"
+			}
+		},
+		{
+			"name": "Tomb Steward",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Mutant Rogue ",
+			"collector_number": "148",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/148_Tomb Steward_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/148_Tomb Steward_front.png"
+			}
+		},
+		{
+			"name": "Emerald Warcaller",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "173",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/173_Emerald Warcaller_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/173_Emerald Warcaller_front.png"
+			}
+		},
+		{
+			"name": "Sower of Wishes",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "247",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/VOA-files/img/247_Sower of Wishes_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/247_Sower of Wishes_front.png"
+			}
+		},
+		{
+			"name": "Avatar of the Natural",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Avatar ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/211_Avatar of the Natural.png"
+			}
+		},
+		{
+			"name": "Casualty of War",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/167_Casualty of War.png"
+			}
+		},
+		{
+			"name": "Calamari Dragon",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Squid Dragon ",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/166_Calamari Dragon.png"
+			}
+		},
+		{
+			"name": "Hao'Tai, the Ancient One",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Dragon ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/180_Hao'Tai, the Ancient One.png"
+			}
+		},
+		{
+			"name": "Merkurio's Familiar",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Phoenix ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/187_Merkurio's Familiar.png"
+			}
+		},
+		{
+			"name": "Worldheart Avatar",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elemental Avatar ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/202_Worldheart Avatar.png"
+			}
+		},
+		{
+			"name": "Zhu Long, Refulgent Wind",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Creature — Elder Dragon ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/206_Zhu Long, Refulgent Wind.png"
+			}
+		},
+		{
+			"name": "Purphoros, the Fervid Flame",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/190_Purphoros, the Fervid Flame.png"
+			}
+		},
+		{
+			"name": "Roggar the Furious",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/192_Roggar the Furious.png"
+			}
+		},
+		{
+			"name": "Scorch",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/194_Scorch.png"
+			}
+		},
+		{
+			"name": "Nylea, the Wild Chase",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/237_Nylea, the Wild Chase.png"
+			}
+		},
+		{
+			"name": "Ancient of the Glade",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/208_Ancient of the Glade.png"
+			}
+		},
+		{
+			"name": "Avatar of Plume de Val",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Avatar ",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/210_Avatar of Plume de Val.png"
+			}
+		},
+		{
+			"name": "Untethered Disciple",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Insect Monk ",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/253_Untethered Disciple.png"
+			}
+		},
+		{
+			"name": "Babyscale Bruiser",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Lizard Scout ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/212_Babyscale Bruiser.png"
+			}
+		},
+		{
+			"name": "Leyran Alpha",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Wolf ",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/233_Leyran Alpha.png"
+			}
+		},
+		{
+			"name": "Avaz Citadel",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "451",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/451_Avaz Citadel.png"
+			}
+		},
+		{
+			"name": "Avaz Fortress",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "452",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/452_Avaz Fortress.png"
+			}
+		},
+		{
+			"name": "Avaz Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "453",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/453_Avaz Sanctuary.png"
+			}
+		},
+		{
+			"name": "Avaz Temple",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "454",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/454_Avaz Temple.png"
+			}
+		},
+		{
+			"name": "Burgeoning Satrapy",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "455",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/455_Burgeoning Satrapy.png"
+			}
+		},
+		{
+			"name": "Danaj Citadel",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "456",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/456_Danaj Citadel.png"
+			}
+		},
+		{
+			"name": "Danaj Fortress",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "457",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/457_Danaj Fortress.png"
+			}
+		},
+		{
+			"name": "Danaj Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "458",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/458_Danaj Sanctuary.png"
+			}
+		},
+		{
+			"name": "Danaj Temple",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "459",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/459_Danaj Temple.png"
+			}
+		},
+		{
+			"name": "Kaneh Citadel",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "460",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/460_Kaneh Citadel.png"
+			}
+		},
+		{
+			"name": "Kaneh Fortress",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "461",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/461_Kaneh Fortress.png"
+			}
+		},
+		{
+			"name": "Kaneh Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "462",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/462_Kaneh Sanctuary.png"
+			}
+		},
+		{
+			"name": "Kaneh Temple",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "463",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/463_Kaneh Temple.png"
+			}
+		},
+		{
+			"name": "Marketplace Crossroads",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "464",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/464_Marketplace Crossroads.png"
+			}
+		},
+		{
+			"name": "Mercantile Satrapy",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "465",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/465_Mercantile Satrapy.png"
+			}
+		},
+		{
+			"name": "Neutral Citystate",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "466",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/466_Neutral Citystate.png"
+			}
+		},
+		{
+			"name": "Nizev Citadel",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "467",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/467_Nizev Citadel.png"
+			}
+		},
+		{
+			"name": "Nizev Fortress",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "468",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/468_Nizev Fortress.png"
+			}
+		},
+		{
+			"name": "Nizev Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "469",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/469_Nizev Sanctuary.png"
+			}
+		},
+		{
+			"name": "Nizev Temple",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "470",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/470_Nizev Temple.png"
+			}
+		},
+		{
+			"name": "Shifting City",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "471",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/471_Shifting City.png"
+			}
+		},
+		{
+			"name": "Soli Citadel",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "472",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/472_Soli Citadel.png"
+			}
+		},
+		{
+			"name": "Soli Fortress",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "473",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/473_Soli Fortress.png"
+			}
+		},
+		{
+			"name": "Soli Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "474",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/474_Soli Sanctuary.png"
+			}
+		},
+		{
+			"name": "Soli Temple",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "475",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/475_Soli Temple.png"
+			}
+		},
+		{
+			"name": "Soli Rising",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/246_Soli Rising.png"
+			}
+		},
+		{
+			"name": "Mahnaz of Moonlit Blades",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/185_Mahnaz of Moonlit Blades.png"
+			}
+		},
+		{
+			"name": "Helena, the Awakener",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Planeswalker — Helena ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/27_Helena, the Awakener.png"
+			}
+		},
+		{
+			"name": "Lisa, the Daughter",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/35_Lisa, the Daughter.png"
+			}
+		},
+		{
+			"name": "Mutual Destruction",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/133_Mutual Destruction.png"
+			}
+		},
+		{
+			"name": "Out-of-Body Experience",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/41_Out-of-Body Experience.png"
+			}
+		},
+		{
+			"name": "Forbiddance",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/67_Forbiddance.png"
+			}
+		},
+		{
+			"name": "Blazing Exultation",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/161_Blazing Exultation.png"
+			}
+		},
+		{
+			"name": "Fatal Decision",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/121_Fatal Decision.png"
+			}
+		},
+		{
+			"name": "Amorphous Tyrant",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Horror ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/207_Amorphous Tyrant.png"
+			}
+		},
+		{
+			"name": "Search for a New Land",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/VOA-files/img/91_Search for a New Land.png"
+			}
+		}
+	]

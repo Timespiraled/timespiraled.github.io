@@ -1,0 +1,3689 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Aparodist",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/1_Aparodist.png"
+			}
+		},
+		{
+			"name": "Blind Eternal",
+			"rarity": "rare",
+			"mana_cost": "{9}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/2_Blind Eternal.png"
+			}
+		},
+		{
+			"name": "Formless Eidolon",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Creature — Spirit Horror ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/3_Formless Eidolon.png"
+			}
+		},
+		{
+			"name": "The Infinite",
+			"rarity": "rare",
+			"mana_cost": "{8}",
+			"type": "Legendary Creature — Angel ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/4_The Infinite.png"
+			}
+		},
+		{
+			"name": "Restless Explorer",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/5_Restless Explorer.png"
+			}
+		},
+		{
+			"name": "Zareen's Pariah",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Creature — Djinn Shaman ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/6_Zareen's Pariah.png"
+			}
+		},
+		{
+			"name": "Anointed Cursebreaker",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric Soldier ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/8_Anointed Cursebreaker.png"
+			}
+		},
+		{
+			"name": "Artificial Sanctity",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/9_Artificial Sanctity.png"
+			}
+		},
+		{
+			"name": "Astral Capricine",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Enchantment Creature — Goat ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/10_Astral Capricine.png"
+			}
+		},
+		{
+			"name": "Atal, the Shroudmaker",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}{W}",
+			"type": "Legendary Creature — Elder Horror ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/11_Atal, the Shroudmaker.png"
+			}
+		},
+		{
+			"name": "Avengeance Angel",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/12_Avengeance Angel.png"
+			}
+		},
+		{
+			"name": "Ayala's Blessing",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/13_Ayala's Blessing.png"
+			}
+		},
+		{
+			"name": "Banishing Initiate",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/14_Banishing Initiate.png"
+			}
+		},
+		{
+			"name": "Battlesuit Prototyping",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Project ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/15_Battlesuit Prototyping.png"
+			}
+		},
+		{
+			"name": "Beyond the Veil",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/16_Beyond the Veil.png"
+			}
+		},
+		{
+			"name": "Bioluminescent Display",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/18_Bioluminescent Display.png"
+			}
+		},
+		{
+			"name": "Cai Lan, the Puppeteer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Bard ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/19_Cai Lan, the Puppeteer.png"
+			}
+		},
+		{
+			"name": "Cassia the Carefree",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Planeswalker — Cassia ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/20_Cassia the Carefree.png"
+			}
+		},
+		{
+			"name": "Celestial Concordance",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/21_Celestial Concordance.png"
+			}
+		},
+		{
+			"name": "Chronicles of the Kitsune",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Gallery ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/22_Chronicles of the Kitsune.png"
+			}
+		},
+		{
+			"name": "Conscious Taboo",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/23_Conscious Taboo.png"
+			}
+		},
+		{
+			"name": "Entelan Idealist",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Wizard Scout ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/24_Entelan Idealist.png"
+			}
+		},
+		{
+			"name": "Evolution's End",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/25_Evolution's End.png"
+			}
+		},
+		{
+			"name": "Folsen, King of Valimir",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/26_Folsen, King of Valimir.png"
+			}
+		},
+		{
+			"name": "Fulguration",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/27_Fulguration.png"
+			}
+		},
+		{
+			"name": "Gaoming, Foxes' Friend",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/28_Gaoming, Foxes' Friend.png"
+			}
+		},
+		{
+			"name": "Gao'Wu, Humble Sibyl",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Bard ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/29_Gao'Wu, Humble Sibyl.png"
+			}
+		},
+		{
+			"name": "Hanabira, Kogane's Legacy",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/30_Hanabira, Kogane's Legacy.png"
+			}
+		},
+		{
+			"name": "Helena, the Awakener",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Planeswalker — Helena ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/31_Helena, the Awakener.png"
+			}
+		},
+		{
+			"name": "Heliod, the Ceaseless Dawn",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/32_Heliod, the Ceaseless Dawn.png"
+			}
+		},
+		{
+			"name": "Herald of the White Orchid",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/33_Herald of the White Orchid.png"
+			}
+		},
+		{
+			"name": "Inconspicuous Loxodon",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Elephant ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/35_Inconspicuous Loxodon.png"
+			}
+		},
+		{
+			"name": "Justiciar Overseer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel Soldier ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/36_Justiciar Overseer.png"
+			}
+		},
+		{
+			"name": "Kernel Quarantine",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/37_Kernel Quarantine.png"
+			}
+		},
+		{
+			"name": "Legacy Warmask",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/38_Legacy Warmask.png"
+			}
+		},
+		{
+			"name": "Luna, Loyal Friend",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Fox ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/39_Luna, Loyal Friend.png"
+			}
+		},
+		{
+			"name": "Margyd's Celebrant",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric Knight ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/40_Margyd's Celebrant.png"
+			}
+		},
+		{
+			"name": "Once More with Heart",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/41_Once More with Heart.png"
+			}
+		},
+		{
+			"name": "Order Module",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Module ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/42_Order Module.png"
+			}
+		},
+		{
+			"name": "Pious Flutist",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Bard ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/44_Pious Flutist.png"
+			}
+		},
+		{
+			"name": "Promised Exaltation",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel Spirit ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/45_Promised Exaltation.png"
+			}
+		},
+		{
+			"name": "Proud Lion",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat ",
+			"collector_number": "46",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/MC25-files/img/46_Proud Lion_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/46_Proud Lion_front.png"
+			}
+		},
+		{
+			"name": "Queen Andarli, the Fierce",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Noble Soldier ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/47_Queen Andarli, the Fierce.png"
+			}
+		},
+		{
+			"name": "Seraph of the Stage",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Construct Angel ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/49_Seraph of the Stage.png"
+			}
+		},
+		{
+			"name": "Solari's Faithful",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Elf Cleric ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/50_Solari's Faithful.png"
+			}
+		},
+		{
+			"name": "Spectral Chains",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/51_Spectral Chains.png"
+			}
+		},
+		{
+			"name": "Tegan, the Sparrowhawk",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Archer ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/52_Tegan, the Sparrowhawk.png"
+			}
+		},
+		{
+			"name": "Unwrite",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/53_Unwrite.png"
+			}
+		},
+		{
+			"name": "Visions of Sand and Steel",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/54_Visions of Sand and Steel.png"
+			}
+		},
+		{
+			"name": "Xifang Hu, Light Within",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Cat Monk ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/55_Xifang Hu, Light Within.png"
+			}
+		},
+		{
+			"name": "Zareen, the Second Shah",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "56",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/MC25-files/img/56_Zareen, the Second Shah_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/56_Zareen, the Second Shah_front.png"
+			}
+		},
+		{
+			"name": "Abscond",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/57_Abscond.png"
+			}
+		},
+		{
+			"name": "Aetheric Researcher",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Scientist ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/58_Aetheric Researcher.png"
+			}
+		},
+		{
+			"name": "Agent of Deception",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Rogue ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/59_Agent of Deception.png"
+			}
+		},
+		{
+			"name": "Buoyant Thoughts",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/60_Buoyant Thoughts.png"
+			}
+		},
+		{
+			"name": "Consider",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/61_Consider.png"
+			}
+		},
+		{
+			"name": "Consult the Dewdrops",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/62_Consult the Dewdrops.png"
+			}
+		},
+		{
+			"name": "Cryptosphinx",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment Creature — Sphinx ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/63_Cryptosphinx.png"
+			}
+		},
+		{
+			"name": "Daring Escapade",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/64_Daring Escapade.png"
+			}
+		},
+		{
+			"name": "Diligent Fishermen",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/66_Diligent Fishermen.png"
+			}
+		},
+		{
+			"name": "Dream Monologue",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/68_Dream Monologue.png"
+			}
+		},
+		{
+			"name": "Duncaster Nightwatcher",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Detective ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/69_Duncaster Nightwatcher.png"
+			}
+		},
+		{
+			"name": "Expel from the Dungeon",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/70_Expel from the Dungeon.png"
+			}
+		},
+		{
+			"name": "Forbiddance",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/71_Forbiddance.png"
+			}
+		},
+		{
+			"name": "Generated Genius",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/72_Generated Genius.png"
+			}
+		},
+		{
+			"name": "Hand of Dominion",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Human ",
+			"collector_number": "73",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/MC25-files/img/73_Hand of Dominion_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/73_Hand of Dominion_front.png"
+			}
+		},
+		{
+			"name": "Hydrolyze",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/74_Hydrolyze.png"
+			}
+		},
+		{
+			"name": "Iekin's Portal",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "75",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/MC25-files/img/75_Iekin's Portal_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/75_Iekin's Portal_front.png"
+			}
+		},
+		{
+			"name": "Imagine",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/76_Imagine.png"
+			}
+		},
+		{
+			"name": "Inner Thoughts",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant — Inscription ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/77_Inner Thoughts.png"
+			}
+		},
+		{
+			"name": "Iterative Designer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Vedalken Artificer ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/78_Iterative Designer.png"
+			}
+		},
+		{
+			"name": "Keranos's Ideosphinx",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Sphinx ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/79_Keranos's Ideosphinx.png"
+			}
+		},
+		{
+			"name": "Logic Module",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Module ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/81_Logic Module.png"
+			}
+		},
+		{
+			"name": "Makodonis, Prime Exemplar",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Makodonis ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/83_Makodonis, Prime Exemplar.png"
+			}
+		},
+		{
+			"name": "Megalokraken",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Kraken Leviathan ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/85_Megalokraken.png"
+			}
+		},
+		{
+			"name": "Mizuki, Lady of All Waters",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Merfolk ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/86_Mizuki, Lady of All Waters.png"
+			}
+		},
+		{
+			"name": "Ominous Discovery",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/87_Ominous Discovery.png"
+			}
+		},
+		{
+			"name": "Power Control",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/88_Power Control.png"
+			}
+		},
+		{
+			"name": "Prognosticate",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/89_Prognosticate.png"
+			}
+		},
+		{
+			"name": "Pull from Beyond",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/90_Pull from Beyond.png"
+			}
+		},
+		{
+			"name": "Realm Crossers",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/91_Realm Crossers.png"
+			}
+		},
+		{
+			"name": "Reconstructed Adept",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/92_Reconstructed Adept.png"
+			}
+		},
+		{
+			"name": "Reflected Moment",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/93_Reflected Moment.png"
+			}
+		},
+		{
+			"name": "Retort Nonsense",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/94_Retort Nonsense.png"
+			}
+		},
+		{
+			"name": "Rixia, Rift Shunted",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Advisor ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/95_Rixia, Rift Shunted.png"
+			}
+		},
+		{
+			"name": "Root Corruption",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/96_Root Corruption.png"
+			}
+		},
+		{
+			"name": "A Rush of Stillness in the Air",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/97_A Rush of Stillness in the Air.png"
+			}
+		},
+		{
+			"name": "Scatter Riches",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/98_Scatter Riches.png"
+			}
+		},
+		{
+			"name": "Stillmarsh Brinecatcher",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Merfolk Horror ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/99_Stillmarsh Brinecatcher.png"
+			}
+		},
+		{
+			"name": "Study the Maps",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/100_Study the Maps.png"
+			}
+		},
+		{
+			"name": "A Sucker for You",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/101_A Sucker for You.png"
+			}
+		},
+		{
+			"name": "Unseen Maniac",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/102_Unseen Maniac.png"
+			}
+		},
+		{
+			"name": "Veiled by the Blizzard",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/103_Veiled by the Blizzard.png"
+			}
+		},
+		{
+			"name": "Way of Water",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/104_Way of Water.png"
+			}
+		},
+		{
+			"name": "Worn Study",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/105_Worn Study.png"
+			}
+		},
+		{
+			"name": "Zirrat, the Soulsearcher",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Planeswalker — Zirrat ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/106_Zirrat, the Soulsearcher.png"
+			}
+		},
+		{
+			"name": "Ambitious Necromancer",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/107_Ambitious Necromancer.png"
+			}
+		},
+		{
+			"name": "Antithesis",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/108_Antithesis.png"
+			}
+		},
+		{
+			"name": "Arroyo, Infinitely Branching",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Reflection ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/109_Arroyo, Infinitely Branching.png"
+			}
+		},
+		{
+			"name": "Blood Artist",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/111_Blood Artist.png"
+			}
+		},
+		{
+			"name": "Brutalize",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/112_Brutalize.png"
+			}
+		},
+		{
+			"name": "Carrion Scythe",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/113_Carrion Scythe.png"
+			}
+		},
+		{
+			"name": "Channeler of the Veil",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/114_Channeler of the Veil.png"
+			}
+		},
+		{
+			"name": "Chigau, the Red Market",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/115_Chigau, the Red Market.png"
+			}
+		},
+		{
+			"name": "Corpsecaster Mage",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/116_Corpsecaster Mage.png"
+			}
+		},
+		{
+			"name": "Corrupted Memory",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/117_Corrupted Memory.png"
+			}
+		},
+		{
+			"name": "Crypt Gnawer",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Horror ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/118_Crypt Gnawer.png"
+			}
+		},
+		{
+			"name": "Crypt Tutor",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/119_Crypt Tutor.png"
+			}
+		},
+		{
+			"name": "Deathless Siege",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/120_Deathless Siege.png"
+			}
+		},
+		{
+			"name": "Demon of Dark Shadows",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Demon ",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/121_Demon of Dark Shadows.png"
+			}
+		},
+		{
+			"name": "Dias, Freed from Belief",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Planeswalker — Dias ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/122_Dias, Freed from Belief.png"
+			}
+		},
+		{
+			"name": "Eldritch Emergence",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/124_Eldritch Emergence.png"
+			}
+		},
+		{
+			"name": "Enopraxia's Endeavor",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/125_Enopraxia's Endeavor.png"
+			}
+		},
+		{
+			"name": "Erebos, the Imminent End",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/126_Erebos, the Imminent End.png"
+			}
+		},
+		{
+			"name": "Groz, the Nightshaper",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Legendary Creature — Elder Horror ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/127_Groz, the Nightshaper.png"
+			}
+		},
+		{
+			"name": "Halford, the Rightful King",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/128_Halford, the Rightful King.png"
+			}
+		},
+		{
+			"name": "Inevitable Future",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/129_Inevitable Future.png"
+			}
+		},
+		{
+			"name": "Inexorable Epidemic",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Enchantment — Aura Curse ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/130_Inexorable Epidemic.png"
+			}
+		},
+		{
+			"name": "Jejun, Dark Hunter",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Demon ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/131_Jejun, Dark Hunter.png"
+			}
+		},
+		{
+			"name": "Kai'Long, the Call of the Dark",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Demon ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/132_Kai'Long, the Call of the Dark.png"
+			}
+		},
+		{
+			"name": "Legion of Giradrus",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Skeleton Army ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/134_Legion of Giradrus.png"
+			}
+		},
+		{
+			"name": "Leyline Invoker",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Anteater Shaman ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/135_Leyline Invoker.png"
+			}
+		},
+		{
+			"name": "Malefic Portal",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/136_Malefic Portal.png"
+			}
+		},
+		{
+			"name": "Mennin Pack",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Goblin ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/137_Mennin Pack.png"
+			}
+		},
+		{
+			"name": "Mutual Destruction",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/138_Mutual Destruction.png"
+			}
+		},
+		{
+			"name": "Nherix, the Soulcage",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Horror Warlock ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/139_Nherix, the Soulcage.png"
+			}
+		},
+		{
+			"name": "Niu Mo Wang, Ashen Absolution",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Ox Demon Monk ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/140_Niu Mo Wang, Ashen Absolution.png"
+			}
+		},
+		{
+			"name": "Oriq Soulweaver",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/141_Oriq Soulweaver.png"
+			}
+		},
+		{
+			"name": "Pestilent Scavenger",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Rat Rogue ",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/142_Pestilent Scavenger.png"
+			}
+		},
+		{
+			"name": "Power Module",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment — Module ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/143_Power Module.png"
+			}
+		},
+		{
+			"name": "Professor's Notes",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/145_Professor's Notes.png"
+			}
+		},
+		{
+			"name": "Reclusive Augur",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/146_Reclusive Augur.png"
+			}
+		},
+		{
+			"name": "Salome's Intervention",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/147_Salome's Intervention.png"
+			}
+		},
+		{
+			"name": "Sedraxis Trepanator",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Mutant Warrior ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/148_Sedraxis Trepanator.png"
+			}
+		},
+		{
+			"name": "Sesilius of Wicked Ways",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Legendary Planeswalker — Sesilius ",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/149_Sesilius of Wicked Ways.png"
+			}
+		},
+		{
+			"name": "Shikai Revenant",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie ",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/150_Shikai Revenant.png"
+			}
+		},
+		{
+			"name": "Sultan of Avarice",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/152_Sultan of Avarice.png"
+			}
+		},
+		{
+			"name": "Surge of Darkness",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/153_Surge of Darkness.png"
+			}
+		},
+		{
+			"name": "Unstill Unlife",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/154_Unstill Unlife.png"
+			}
+		},
+		{
+			"name": "Void Portal",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/155_Void Portal.png"
+			}
+		},
+		{
+			"name": "Young Necromancer",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/156_Young Necromancer.png"
+			}
+		},
+		{
+			"name": "Ada, the Free",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Legendary Creature — Reflection ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/157_Ada, the Free.png"
+			}
+		},
+		{
+			"name": "Anax's Endeavor",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/158_Anax's Endeavor.png"
+			}
+		},
+		{
+			"name": "Auros, the Red King",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Human Warrior Noble ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/159_Auros, the Red King.png"
+			}
+		},
+		{
+			"name": "Blood Cult Covenant",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/160_Blood Cult Covenant.png"
+			}
+		},
+		{
+			"name": "Bloodbelly Glutton",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Ogre Warrior ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/161_Bloodbelly Glutton.png"
+			}
+		},
+		{
+			"name": "Brightflame Phoenix",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Phoenix ",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/162_Brightflame Phoenix.png"
+			}
+		},
+		{
+			"name": "Brimstone Oration",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/163_Brimstone Oration.png"
+			}
+		},
+		{
+			"name": "Cinderhoof Minotaur",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Minotaur Shaman ",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/164_Cinderhoof Minotaur.png"
+			}
+		},
+		{
+			"name": "Conquer Psyche",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/165_Conquer Psyche.png"
+			}
+		},
+		{
+			"name": "Creative Salvage",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/166_Creative Salvage.png"
+			}
+		},
+		{
+			"name": "Crimson Knight",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/167_Crimson Knight.png"
+			}
+		},
+		{
+			"name": "Crimson Sunrise",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/168_Crimson Sunrise.png"
+			}
+		},
+		{
+			"name": "Curio Hellkite",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/169_Curio Hellkite.png"
+			}
+		},
+		{
+			"name": "Damning Flames",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/170_Damning Flames.png"
+			}
+		},
+		{
+			"name": "Exhilarating Prescience",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/172_Exhilarating Prescience.png"
+			}
+		},
+		{
+			"name": "Extraction Mercenary",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/173_Extraction Mercenary.png"
+			}
+		},
+		{
+			"name": "Feeding Time",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/174_Feeding Time.png"
+			}
+		},
+		{
+			"name": "Ferocious Flame",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/175_Ferocious Flame.png"
+			}
+		},
+		{
+			"name": "Festival Sabotage",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/176_Festival Sabotage.png"
+			}
+		},
+		{
+			"name": "Fiery Erasure",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/177_Fiery Erasure.png"
+			}
+		},
+		{
+			"name": "Fires of Renewal",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/178_Fires of Renewal.png"
+			}
+		},
+		{
+			"name": "Flamecloaked Artisan",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/179_Flamecloaked Artisan.png"
+			}
+		},
+		{
+			"name": "From Ancient Tomes",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/180_From Ancient Tomes.png"
+			}
+		},
+		{
+			"name": "Heartforge Savant",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/182_Heartforge Savant.png"
+			}
+		},
+		{
+			"name": "Hinterland Ritualist",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/183_Hinterland Ritualist.png"
+			}
+		},
+		{
+			"name": "Identity Module",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment — Module ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/184_Identity Module.png"
+			}
+		},
+		{
+			"name": "Lt. Daisy Saxon",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/186_Lt. Daisy Saxon.png"
+			}
+		},
+		{
+			"name": "Martial Maestro",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard Soldier ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/187_Martial Maestro.png"
+			}
+		},
+		{
+			"name": "Metal Munch",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/188_Metal Munch.png"
+			}
+		},
+		{
+			"name": "Minister of Zealots",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/189_Minister of Zealots.png"
+			}
+		},
+		{
+			"name": "Nacatl Skirmisher",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Cat Warrior ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/190_Nacatl Skirmisher.png"
+			}
+		},
+		{
+			"name": "Neon Claw Knight",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Droid Knight ",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/191_Neon Claw Knight.png"
+			}
+		},
+		{
+			"name": "Oathbreaker Orc",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Orc Berserker ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/192_Oathbreaker Orc.png"
+			}
+		},
+		{
+			"name": "Ominous Dragoncaller",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/193_Ominous Dragoncaller.png"
+			}
+		},
+		{
+			"name": "Paint with Starflame",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/194_Paint with Starflame.png"
+			}
+		},
+		{
+			"name": "Prince of Stars",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental Dragon ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/195_Prince of Stars.png"
+			}
+		},
+		{
+			"name": "Quantum Bit",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/196_Quantum Bit.png"
+			}
+		},
+		{
+			"name": "Ragavan, Most Wanted",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Monkey Pirate ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/197_Ragavan, Most Wanted.png"
+			}
+		},
+		{
+			"name": "Reckless Mutationist",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Scientist ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/199_Reckless Mutationist.png"
+			}
+		},
+		{
+			"name": "Scarletblood Hound",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Hound ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/200_Scarletblood Hound.png"
+			}
+		},
+		{
+			"name": "Scourge of the Mountains",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "201",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/MC25-files/img/201_Scourge of the Mountains_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/201_Scourge of the Mountains_front.png"
+			}
+		},
+		{
+			"name": "Tunu, Ancient Shaper",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Legendary Planeswalker — Tunu ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/202_Tunu, Ancient Shaper.png"
+			}
+		},
+		{
+			"name": "Valeri Kripac",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Planeswalker — Valeri ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/204_Valeri Kripac.png"
+			}
+		},
+		{
+			"name": "Voidflare",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/205_Voidflare.png"
+			}
+		},
+		{
+			"name": "Xiusheng of the Dragon Realm",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/206_Xiusheng of the Dragon Realm.png"
+			}
+		},
+		{
+			"name": "Adiran Scryers",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/207_Adiran Scryers.png"
+			}
+		},
+		{
+			"name": "Advanced Powercell",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Powercell ",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/208_Advanced Powercell.png"
+			}
+		},
+		{
+			"name": "Agency Doorbreakers",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Soldier Detective ",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/209_Agency Doorbreakers.png"
+			}
+		},
+		{
+			"name": "Arbor Protector",
+			"rarity": "rare",
+			"mana_cost": "{7}{G}{G}",
+			"type": "Creature — Treefolk Shaman ",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/210_Arbor Protector.png"
+			}
+		},
+		{
+			"name": "Astral Leucrocota",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Enchantment Creature — Beast ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/211_Astral Leucrocota.png"
+			}
+		},
+		{
+			"name": "Astralhorn Familiar",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Elemental Unicorn ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/212_Astralhorn Familiar.png"
+			}
+		},
+		{
+			"name": "Consuming Symbiosis",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/214_Consuming Symbiosis.png"
+			}
+		},
+		{
+			"name": "Critters' Companion",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Bird Shaman ",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/215_Critters' Companion.png"
+			}
+		},
+		{
+			"name": "El, Humble Apprentice",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Elemental Monk ",
+			"collector_number": "216",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/MC25-files/img/216_El, Humble Apprentice_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/216_El, Humble Apprentice_front.png"
+			}
+		},
+		{
+			"name": "Elvish Wayfinder",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Scout ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/217_Elvish Wayfinder.png"
+			}
+		},
+		{
+			"name": "Embodiment of Nature",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Ox Spirit ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/218_Embodiment of Nature.png"
+			}
+		},
+		{
+			"name": "Esalia, Steward of Caer Crann",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Elf Druid ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/219_Esalia, Steward of Caer Crann.png"
+			}
+		},
+		{
+			"name": "Field Tender",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Peasant ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/221_Field Tender.png"
+			}
+		},
+		{
+			"name": "Gorganith, Ruin Maw",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Hydra ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/222_Gorganith, Ruin Maw.png"
+			}
+		},
+		{
+			"name": "Into the Woods",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/224_Into the Woods.png"
+			}
+		},
+		{
+			"name": "Kantra of Bounty",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}",
+			"type": "Enchantment Creature — Spirit ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/225_Kantra of Bounty.png"
+			}
+		},
+		{
+			"name": "Kou, Primal Shepherd",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Dryad ",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/226_Kou, Primal Shepherd.png"
+			}
+		},
+		{
+			"name": "Mattia, Hero of Tinyvale",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Mouse Archer Soldier ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/227_Mattia, Hero of Tinyvale.png"
+			}
+		},
+		{
+			"name": "Mob Rallier",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/228_Mob Rallier.png"
+			}
+		},
+		{
+			"name": "Natural Philosopher",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/231_Natural Philosopher.png"
+			}
+		},
+		{
+			"name": "Nitrous Renewer",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect ",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/232_Nitrous Renewer.png"
+			}
+		},
+		{
+			"name": "Olten Surveyor",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/233_Olten Surveyor.png"
+			}
+		},
+		{
+			"name": "Performer of Growth",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Squirrel Actor ",
+			"collector_number": "234",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/MC25-files/img/234_Performer of Growth_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/234_Performer of Growth_front.png"
+			}
+		},
+		{
+			"name": "Petal Scatterer",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Creature — Human ",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/235_Petal Scatterer.png"
+			}
+		},
+		{
+			"name": "Powercell Cultivator",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Artificer ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/236_Powercell Cultivator.png"
+			}
+		},
+		{
+			"name": "Primal Resurgence",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/237_Primal Resurgence.png"
+			}
+		},
+		{
+			"name": "Primordial Artisan",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Creature — Giant ",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/238_Primordial Artisan.png"
+			}
+		},
+		{
+			"name": "Relentless Pathcutter",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elf Aurashaper Warrior ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/239_Relentless Pathcutter.png"
+			}
+		},
+		{
+			"name": "Relic Corrosion",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/240_Relic Corrosion.png"
+			}
+		},
+		{
+			"name": "Root Module",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment — Module ",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/241_Root Module.png"
+			}
+		},
+		{
+			"name": "Rova, the Fleshweaver",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Legendary Creature — Elder Horror ",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/242_Rova, the Fleshweaver.png"
+			}
+		},
+		{
+			"name": "Runebound Disciple",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/243_Runebound Disciple.png"
+			}
+		},
+		{
+			"name": "Savage Congregation",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/244_Savage Congregation.png"
+			}
+		},
+		{
+			"name": "Stardust Surveyor",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/245_Stardust Surveyor.png"
+			}
+		},
+		{
+			"name": "Studies Past",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/246_Studies Past.png"
+			}
+		},
+		{
+			"name": "Vassal of the Wild",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/247_Vassal of the Wild.png"
+			}
+		},
+		{
+			"name": "Verdant Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/248_Verdant Sanctuary.png"
+			}
+		},
+		{
+			"name": "Victory Over Phyrexia",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "249",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://timespiraled.github.io/sets/MC25-files/img/249_Victory Over Phyrexia_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/249_Victory Over Phyrexia_front.png"
+			}
+		},
+		{
+			"name": "Vivien the Sagittar",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Planeswalker — Vivien ",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/250_Vivien the Sagittar.png"
+			}
+		},
+		{
+			"name": "Vorreia, Farseer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Planeswalker — Vorreia ",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/251_Vorreia, Farseer.png"
+			}
+		},
+		{
+			"name": "Warfield Excavator",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/252_Warfield Excavator.png"
+			}
+		},
+		{
+			"name": "Wildlife Sketches",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Gallery ",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/253_Wildlife Sketches.png"
+			}
+		},
+		{
+			"name": "Xira, Scatterer of Seeds",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Dryad ",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/254_Xira, Scatterer of Seeds.png"
+			}
+		},
+		{
+			"name": "Yeshin of New Humanity",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Artifact Creature — Construct ",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/255_Yeshin of New Humanity.png"
+			}
+		},
+		{
+			"name": "Zadyk Ritualist",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/256_Zadyk Ritualist.png"
+			}
+		},
+		{
+			"name": "Frayed Nerves",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/258_Frayed Nerves.png"
+			}
+		},
+		{
+			"name": "Lost Through Dreams",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/259_Lost Through Dreams.png"
+			}
+		},
+		{
+			"name": "Salome",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Planeswalker — Salome ",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/261_Salome.png"
+			}
+		},
+		{
+			"name": "Edarna the Everforge",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Planeswalker — Edarna ",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/262_Edarna the Everforge.png"
+			}
+		},
+		{
+			"name": "Twinfire Dragon",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/264_Twinfire Dragon.png"
+			}
+		},
+		{
+			"name": "Petal-Weaver Alexa",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Planeswalker — Alexa ",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/265_Petal-Weaver Alexa.png"
+			}
+		},
+		{
+			"name": "Tend to the Grove",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/266_Tend to the Grove.png"
+			}
+		},
+		{
+			"name": "Gathering the Gang",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/269_Gathering the Gang.png"
+			}
+		},
+		{
+			"name": "Tendrilsnare",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/270_Tendrilsnare.png"
+			}
+		},
+		{
+			"name": "Alonzo, Departed Detective",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Planeswalker — Alonzo ",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/271_Alonzo, Departed Detective.png"
+			}
+		},
+		{
+			"name": "Somber River Bearer",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/273_Somber River Bearer.png"
+			}
+		},
+		{
+			"name": "Cosmic Coalescing",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{R}",
+			"type": "Instant",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/275_Cosmic Coalescing.png"
+			}
+		},
+		{
+			"name": "Paul, Rock Bottom",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Planeswalker — Paul ",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/276_Paul, Rock Bottom.png"
+			}
+		},
+		{
+			"name": "Irbek, Crocodile Hunter",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Planeswalker — Irbek ",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/277_Irbek, Crocodile Hunter.png"
+			}
+		},
+		{
+			"name": "Whisperwoods Exploration",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/279_Whisperwoods Exploration.png"
+			}
+		},
+		{
+			"name": "Comet, Pulled from Orbit",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Planeswalker — Comet ",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/280_Comet, Pulled from Orbit.png"
+			}
+		},
+		{
+			"name": "Commanding Princess",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/281_Commanding Princess.png"
+			}
+		},
+		{
+			"name": "Helene Trant",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Planeswalker — Helene ",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/284_Helene Trant.png"
+			}
+		},
+		{
+			"name": "In Dire Straits",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Instant",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/285_In Dire Straits.png"
+			}
+		},
+		{
+			"name": "Key to the Nexus",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/286_Key to the Nexus.png"
+			}
+		},
+		{
+			"name": "Avalia, Cyber Stalker",
+			"rarity": "rare",
+			"mana_cost": "{1{U}/B}{U/B}",
+			"type": "Legendary Creature — Vampire ",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/287_Avalia, Cyber Stalker.png"
+			}
+		},
+		{
+			"name": "Ayala's Effigy",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/289_Ayala's Effigy.png"
+			}
+		},
+		{
+			"name": "Barten's Journal",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/290_Barten's Journal.png"
+			}
+		},
+		{
+			"name": "Gate of Realms",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/291_Gate of Realms.png"
+			}
+		},
+		{
+			"name": "Giltwork Legacy",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/292_Giltwork Legacy.png"
+			}
+		},
+		{
+			"name": "Goblin War Chariot",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/293_Goblin War Chariot.png"
+			}
+		},
+		{
+			"name": "Harvest Reaper",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Scarecrow ",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/294_Harvest Reaper.png"
+			}
+		},
+		{
+			"name": "L.O.T.U.S.",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Enchantment Artifact",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/295_L.O.T.U.S..png"
+			}
+		},
+		{
+			"name": "Lightblessed Claymore",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/296_Lightblessed Claymore.png"
+			}
+		},
+		{
+			"name": "Masterwork Archivist",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/297_Masterwork Archivist.png"
+			}
+		},
+		{
+			"name": "Monument to the Fallen Man",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/299_Monument to the Fallen Man.png"
+			}
+		},
+		{
+			"name": "Pinnacle of Purity",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/300_Pinnacle of Purity.png"
+			}
+		},
+		{
+			"name": "Soul of New Alores",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact — Vehicle ",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/301_Soul of New Alores.png"
+			}
+		},
+		{
+			"name": "Soul-Synthesizer",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/302_Soul-Synthesizer.png"
+			}
+		},
+		{
+			"name": "Unicorn of the Vale",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Unicorn ",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/305_Unicorn of the Vale.png"
+			}
+		},
+		{
+			"name": "Volatile Stonework",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/306_Volatile Stonework.png"
+			}
+		},
+		{
+			"name": "Voyager's Ark",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/307_Voyager's Ark.png"
+			}
+		},
+		{
+			"name": "Wayfarer's Lantern",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact ",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/308_Wayfarer's Lantern.png"
+			}
+		},
+		{
+			"name": "Xueyang San",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/309_Xueyang San.png"
+			}
+		},
+		{
+			"name": "Amber Hills",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/310_Amber Hills.png"
+			}
+		},
+		{
+			"name": "Ancestral Glade",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest ",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/311_Ancestral Glade.png"
+			}
+		},
+		{
+			"name": "Arctic Mine",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp ",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/312_Arctic Mine.png"
+			}
+		},
+		{
+			"name": "Barren Desolation",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/313_Barren Desolation.png"
+			}
+		},
+		{
+			"name": "Bustling Marketplace",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/315_Bustling Marketplace.png"
+			}
+		},
+		{
+			"name": "City Gate",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/316_City Gate.png"
+			}
+		},
+		{
+			"name": "Cloudpeak Spires",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain ",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/317_Cloudpeak Spires.png"
+			}
+		},
+		{
+			"name": "Cresting Bay",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/318_Cresting Bay.png"
+			}
+		},
+		{
+			"name": "Crumbling Precipice",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain ",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/319_Crumbling Precipice.png"
+			}
+		},
+		{
+			"name": "Crystal Cavern",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain ",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/320_Crystal Cavern.png"
+			}
+		},
+		{
+			"name": "Enchanting Palace",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/321_Enchanting Palace.png"
+			}
+		},
+		{
+			"name": "Firehearth Halls",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/322_Firehearth Halls.png"
+			}
+		},
+		{
+			"name": "Flooded Morass",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp ",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/323_Flooded Morass.png"
+			}
+		},
+		{
+			"name": "Floodwater Depths",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/324_Floodwater Depths.png"
+			}
+		},
+		{
+			"name": "Flourishing Crevasse",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest ",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/325_Flourishing Crevasse.png"
+			}
+		},
+		{
+			"name": "Forgotten Steppe",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains ",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/326_Forgotten Steppe.png"
+			}
+		},
+		{
+			"name": "Frostfire Geysers",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain ",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/327_Frostfire Geysers.png"
+			}
+		},
+		{
+			"name": "Fungal Mire",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest ",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/328_Fungal Mire.png"
+			}
+		},
+		{
+			"name": "Gloomcover Steppe",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp ",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/329_Gloomcover Steppe.png"
+			}
+		},
+		{
+			"name": "Grim Bastion",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/330_Grim Bastion.png"
+			}
+		},
+		{
+			"name": "Heart of the Glade",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains ",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/331_Heart of the Glade.png"
+			}
+		},
+		{
+			"name": "Heart of Zhedina",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/332_Heart of Zhedina.png"
+			}
+		},
+		{
+			"name": "Lavatorn Fields",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain ",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/333_Lavatorn Fields.png"
+			}
+		},
+		{
+			"name": "Lush Oasis",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island ",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/334_Lush Oasis.png"
+			}
+		},
+		{
+			"name": "Magmatic Torrent",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/335_Magmatic Torrent.png"
+			}
+		},
+		{
+			"name": "Midnight Gate",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp ",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/336_Midnight Gate.png"
+			}
+		},
+		{
+			"name": "Murmuring Falls",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp ",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/337_Murmuring Falls.png"
+			}
+		},
+		{
+			"name": "Mysterious Cataract",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/338_Mysterious Cataract.png"
+			}
+		},
+		{
+			"name": "Nebula of Empty Gold",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/339_Nebula of Empty Gold.png"
+			}
+		},
+		{
+			"name": "New Divide",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/340_New Divide.png"
+			}
+		},
+		{
+			"name": "Nomad's Township",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest ",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/341_Nomad's Township.png"
+			}
+		},
+		{
+			"name": "Ocean Monastery",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/342_Ocean Monastery.png"
+			}
+		},
+		{
+			"name": "Pool of Light",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island ",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/343_Pool of Light.png"
+			}
+		},
+		{
+			"name": "Rampant Summit",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest ",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/344_Rampant Summit.png"
+			}
+		},
+		{
+			"name": "Resplendent Substratum",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains ",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/345_Resplendent Substratum.png"
+			}
+		},
+		{
+			"name": "Seaside Grotto",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island ",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/346_Seaside Grotto.png"
+			}
+		},
+		{
+			"name": "Sedate Tundra",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island ",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/347_Sedate Tundra.png"
+			}
+		},
+		{
+			"name": "Serene Chapel",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/348_Serene Chapel.png"
+			}
+		},
+		{
+			"name": "Shardstone Rift",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/349_Shardstone Rift.png"
+			}
+		},
+		{
+			"name": "Shifting Glade",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island ",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/350_Shifting Glade.png"
+			}
+		},
+		{
+			"name": "Shikai's Redoubt",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/351_Shikai's Redoubt.png"
+			}
+		},
+		{
+			"name": "Spiraling Canyon",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains ",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/352_Spiraling Canyon.png"
+			}
+		},
+		{
+			"name": "Sunlit Highland",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/353_Sunlit Highland.png"
+			}
+		},
+		{
+			"name": "Sunlit Meadow",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains ",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/354_Sunlit Meadow.png"
+			}
+		},
+		{
+			"name": "Sunrise Orchard",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/355_Sunrise Orchard.png"
+			}
+		},
+		{
+			"name": "Swarming Midden",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/356_Swarming Midden.png"
+			}
+		},
+		{
+			"name": "Timber Range",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/357_Timber Range.png"
+			}
+		},
+		{
+			"name": "Timeworn Crags",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/358_Timeworn Crags.png"
+			}
+		},
+		{
+			"name": "Wayfarer's Shrine",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/359_Wayfarer's Shrine.png"
+			}
+		},
+		{
+			"name": "Wise Old Oak",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/360_Wise Old Oak.png"
+			}
+		},
+		{
+			"name": "Profane Call",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/144_Profane Call.png"
+			}
+		},
+		{
+			"name": "Hundred Years of Solitude",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/34_Hundred Years of Solitude.png"
+			}
+		},
+		{
+			"name": "Divide the Imperial Arsenal",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/282_Divide the Imperial Arsenal.png"
+			}
+		},
+		{
+			"name": "Devotee of the Boar",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Berserker ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/171_Devotee of the Boar.png"
+			}
+		},
+		{
+			"name": "Bitter Corvus",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Zombie Bird ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/110_Bitter Corvus.png"
+			}
+		},
+		{
+			"name": "Belly of the Beast",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/213_Belly of the Beast.png"
+			}
+		},
+		{
+			"name": "Android Bodega",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/288_Android Bodega.png"
+			}
+		},
+		{
+			"name": "Almgrove Skydancer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/7_Almgrove Skydancer.png"
+			}
+		},
+		{
+			"name": "Lumbering Thoctar",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Beast ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/82_Lumbering Thoctar.png"
+			}
+		},
+		{
+			"name": "Digital Encores",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/65_Digital Encores.png"
+			}
+		},
+		{
+			"name": "Valakut Hellkite",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/203_Valakut Hellkite.png"
+			}
+		},
+		{
+			"name": "Fuel for the Fire",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/181_Fuel for the Fire.png"
+			}
+		},
+		{
+			"name": "Mechanus, Awakened Code",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Planeswalker — Mechanus ",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/298_Mechanus, Awakened Code.png"
+			}
+		},
+		{
+			"name": "Pact of the Moon",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/43_Pact of the Moon.png"
+			}
+		},
+		{
+			"name": "Reckless Defiance",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/198_Reckless Defiance.png"
+			}
+		},
+		{
+			"name": "Etheria, Sublime One",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Planeswalker — Etheria ",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/257_Etheria, Sublime One.png"
+			}
+		},
+		{
+			"name": "Liminality",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/80_Liminality.png"
+			}
+		},
+		{
+			"name": "Big Damn Heroes",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/17_Big Damn Heroes.png"
+			}
+		},
+		{
+			"name": "Deepweb Consultation",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/260_Deepweb Consultation.png"
+			}
+		},
+		{
+			"name": "Krallenhorde Abomination",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Werewolf Horror ",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/278_Krallenhorde Abomination.png"
+			}
+		},
+		{
+			"name": "Ubitsa Forge",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/304_Ubitsa Forge.png"
+			}
+		},
+		{
+			"name": "Thunderous Avarice",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Lizard Avatar Berserker ",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/267_Thunderous Avarice.png"
+			}
+		},
+		{
+			"name": "Eternal Journey",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/272_Eternal Journey.png"
+			}
+		},
+		{
+			"name": "Bring to Harmony",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/283_Bring to Harmony.png"
+			}
+		},
+		{
+			"name": "Century Genius",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/274_Century Genius.png"
+			}
+		},
+		{
+			"name": "Tech Chaser",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Drone ",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/303_Tech Chaser.png"
+			}
+		},
+		{
+			"name": "Dirty Cleanup",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/123_Dirty Cleanup.png"
+			}
+		},
+		{
+			"name": "Exhaustive Harvest",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/220_Exhaustive Harvest.png"
+			}
+		},
+		{
+			"name": "Ajani, Caller of the Hosts",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Planeswalker — Ajani ",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/268_Ajani, Caller of the Hosts.png"
+			}
+		},
+		{
+			"name": "Mother of Monsters",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Chimera ",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/229_Mother of Monsters.png"
+			}
+		},
+		{
+			"name": "Qulai, Orchard Guardian",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Fox Spirit ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/48_Qulai, Orchard Guardian.png"
+			}
+		},
+		{
+			"name": "Joys and Burdens Shared",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/185_Joys and Burdens Shared.png"
+			}
+		},
+		{
+			"name": "Dimensional Denial",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/67_Dimensional Denial.png"
+			}
+		},
+		{
+			"name": "Inquisitive Tracker",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Badger Druid ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/223_Inquisitive Tracker.png"
+			}
+		},
+		{
+			"name": "Karatuy, Privileged Son",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Warlock ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/133_Karatuy, Privileged Son.png"
+			}
+		},
+		{
+			"name": "Marilye, Everplundering",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Elf Rogue ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/84_Marilye, Everplundering.png"
+			}
+		},
+		{
+			"name": "Sinner's Solace",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/151_Sinner's Solace.png"
+			}
+		},
+		{
+			"name": "Ogura, Contracted Rebel",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Wolf Spirit Rebel ",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/263_Ogura, Contracted Rebel.png"
+			}
+		},
+		{
+			"name": "Blossoming Verge",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/314_Blossoming Verge.png"
+			}
+		},
+		{
+			"name": "Muse of Summer Revelry",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Faerie God ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/230_Muse of Summer Revelry.png"
+			}
+		},
+		{
+			"name": "Bound by Nature",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "361",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/361_Bound by Nature.png"
+			}
+		},
+		{
+			"name": "Lian Taizi, Bountiful Earth",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Legendary Creature — Elder Dragon ",
+			"collector_number": "362",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/362_Lian Taizi, Bountiful Earth.png"
+			}
+		},
+		{
+			"name": "Intrepid",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Vehicle ",
+			"collector_number": "363",
+			"image_uris": {
+				"en": "https://timespiraled.github.io/sets/MC25-files/img/363_Intrepid.png"
+			}
+		}
+	]
